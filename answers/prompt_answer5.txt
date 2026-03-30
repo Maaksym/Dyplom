@@ -1,0 +1,268 @@
+===== PROMPT 5 =====
+Stwórz zadania edukacyjne z fotosyntezy.
+
+--- TinyLlama ---
+ Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Stwórz zadania edukacyjne z fotosyntezy.
+
+Otwarte przeglądanie materiałów edukacyjnych powinno być taki sam dla wszystkich uczniów.
+
+Napisz kod Python dla wyświetlania treści.
+
+Obraz, która zawiera treści otwarte przeglanie powinna mieć cały zbiór wymotów poziomu 10.
+
+1. Co to jest fotosynteza: Podawanie przykładów i bardziej słodyczy.
+2. Często spowodowane błędy: Jak tworzyć zadania zaawansowane, zawsze wzięcie udziału w zgłoszeniach, wskazania kodu Pythona.
+3. Materiały do nauki przyrodzińskiej: Wysoko jakość materiału edukacyjnego dla wyzwaniem zebrania specjalistów, wpisywanie do systemu edukacji.
+
+3. Przez mnie, za mnie, podstawy do poznania i pożądania materiałów edukacyjnych.
+4. Odkrywanie nowych ciekawostek z nauk przyrodniczych w formie materiału edukacyjnego.
+
+
+--- Phi-2 ---
+ Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Stwórz zadania edukacyjne z fotosyntezy.
+1. O wagnerowie.
+2. O dzienniki górki.
+3. E, o sztuce. Włóczek, M. O sztuce, których przedstawia z niemieckiem w jednej wysuły wczoraj się i mówczyny w sztukach techniki.
+Kiedy uchodzi z rozwiązanie w rozmowie plastykowych białości szkoły kontroli.
+Dzień po zwierże, wszystkie doplenie chorób i zarządzane stanisłych metody obliczeń.
+Składamy się u podstawie wiejskiej wyłączenią najlepszego dochodzenia komputerowego.
+5. O zakłonucy.
+6. O rozwiązanie pozapowe korzystanie.
+Kiedy uwują się jest jego zapomnij.
+
+Stwór
+
+--- Gemini ---
+ Witajcie, drodzy uczniowie!
+
+Jestem Waszym doświadczonym nauczycielem i ogromnie się cieszę, że mogę Was zaprosić do fascynującego świata biologii. Dziś zanurkujemy w jeden z najważniejszych procesów na naszej planecie – **fotosyntezę**. To dzięki niej Ziemia jest pełna życia, a my mamy czym oddychać i co jeść!
+
+Przygotowałem dla Was materiały, które pomogą Wam zrozumieć ten proces krok po kroku. Użyjemy prostego języka, poprzemy go przykładami, a na koniec sprawdzimy Waszą wiedzę w praktycznych zadaniach. Gotowi? Zaczynamy!
+
+---
+
+## 🌿 **Fotosynteza: Magiczny Proces Życia** 🌿
+
+### Co to jest fotosynteza?
+Wyobraź sobie, że jesteś rośliną i potrafisz wyprodukować sobie jedzenie z... powietrza i wody, używając tylko słońca jako energii! Brzmi jak magia, prawda? To właśnie jest **fotosynteza**!
+
+**Fotosynteza** (z greckiego: *photo* – światło, *synthesis* – łączenie) to proces, w którym rośliny, algi i niektóre bakterie przekształcają energię światła słonecznego w energię chemiczną, czyli po prostu w **pokarm** (cukier, np. glukozę). Przy okazji produkują dla nas bezcenny **tlen**!
+
+### Kto przeprowadza fotosyntezę?
+Głównymi bohaterami fotosyntezy są:
+*   **Rośliny** (drzewa, kwiaty, trawy, warzywa – praktycznie wszystkie rośliny, które widzisz!)
+*   **Algi** (np. glony w morzach i oceanach)
+*   **Niektóre bakterie** (zwane sinicami lub cyjanobakteriami)
+
+### Gdzie odbywa się fotosynteza?
+Większość roślin przeprowadza fotosyntezę głównie w swoich **liściach**. To tam znajdują się specjalne, maleńkie fabryki energii, które nazywamy **chloroplastami**. W chloroplastach jest zielony barwnik, czyli **chlorofil**, który działa jak mały panel słoneczny – pochłania światło słoneczne. To właśnie chlorofil nadaje roślinom zielony kolor!
+
+### Składniki (co jest potrzebne)?
+Aby fotosynteza mogła zajść, potrzebne są trzy główne składniki:
+1.  **Dwutlenek węgla (CO2)** – pobierany z powietrza przez maleńkie otwory w liściach, zwane aparatami szparkowymi.
+2.  **Woda (H2O)** – pobierana z gleby przez korzenie i transportowana do liści.
+3.  **Światło słoneczne** – dostarcza energię potrzebną do całego procesu.
+
+### Produkty (co powstaje)?
+W wyniku fotosyntezy powstają:
+1.  **Glukoza (C6H12O6)** – to rodzaj cukru, czyli pokarm dla rośliny. Roślina wykorzystuje go do wzrostu, rozwoju i magazynowania energii. To także podstawa pożywienia dla zwierząt i ludzi!
+2.  **Tlen (O2)** – to "produkt uboczny" fotosyntezy. Roślina uwalnia go do atmosfery, a my – ludzie i zwierzęta – oddychamy nim!
+
+### Równanie fotosyntezy (chemiczna receptura)
+Możemy to wszystko zapisać w prosty sposób:
+
+**Słownie:**
+Dwutlenek węgla + Woda + Światło słoneczne → Glukoza (pokarm) + Tlen
+
+**Chemicznie:**
+6CO2 + 6H2O + energia świetlna → C6H12O6 + 6O2
+
+*Pamiętaj: CO2 to dwutlenek węgla, H2O to woda, C6H12O6 to glukoza, a O2 to tlen.*
+
+### Dlaczego fotosynteza jest tak ważna?
+*   **Dla nas i zwierząt:** Jest źródłem całego pokarmu na Ziemi! Rośliny produkują glukozę, którą jedzą roślinożercy, a nimi z kolei żywią się mięsożercy. Bez roślin nie byłoby życia.
+*   **Dla powietrza:** Produkuje tlen, który jest niezbędny do oddychania dla większości organizmów żywych na naszej planecie. To takie "płuca Ziemi"!
+*   **Dla klimatu:** Pomaga usuwać dwutlenek węgla z atmosfery, co jest ważne dla utrzymania stabilnego klimatu.
+
+### W skrócie (fazy fotosyntezy):
+Fotosynteza to złożony proces, który możemy podzielić na dwie główne fazy, choć nie musimy wchodzić w szczegóły na początek:
+1.  **Faza jasna (świetlna):** Potrzebuje światła. W tej fazie energia świetlna jest zamieniana na energię chemiczną, a woda rozkładana na tlen i wodór.
+2.  **Faza ciemna (niezależna od światła):** Nie potrzebuje światła bezpośrednio. W tej fazie energia chemiczna (stworzona w fazie jasnej) jest wykorzystywana do przetworzenia dwutlenku węgla w glukozę.
+
+---
+
+## 📝 **Zadania Edukacyjne z Fotosyntezy** 📝
+
+Teraz, gdy już poznaliśmy podstawy fotosyntezy, czas sprawdzić i utrwalić Waszą wiedzę! Pamiętajcie, że nauka to przygoda, a błędy to tylko kroki do lepszego zrozumienia. Powodzenia!
+
+---
+
+### **Zadanie 1: Wybór Wielokrotny**
+Przeczytaj pytania i zaznacz jedną poprawną odpowiedź.
+
+1.  Głównym celem fotosyntezy jest:
+    a) Produkcja dwutlenku węgla
+    b) Produkcja wody
+    c) Produkcja pokarmu (glukozy) dla rośliny
+    d) Produkcja energii cieplnej
+
+2.  Gdzie w komórkach roślinnych odbywa się fotosynteza?
+    a) W jądrze komórkowym
+    b) W mitochondriach
+    c) W chloroplastach
+    d) W wakuolach
+
+3.  Jaki zielony barwnik jest odpowiedzialny za pochłanianie światła słonecznego podczas fotosyntezy?
+    a) Hemoglobina
+    b) Melanina
+    c) Chlorofil
+    d) Karoten
+
+4.  Które z poniższych nie jest składnikiem potrzebnym do fotosyntezy?
+    a) Światło słoneczne
+    b) Tlen
+    c) Woda
+    d) Dwutlenek węgla
+
+5.  Jaki gaz jest produktem ubocznym fotosyntezy, niezbędnym do oddychania dla ludzi i zwierząt?
+    a) Dwutlenek węgla
+    b) Azot
+    c) Tlen
+    d) Wodór
+
+---
+
+### **Zadanie 2: Prawda czy Fałsz?**
+Przeczytaj zdania i zdecyduj, czy są prawdziwe (P) czy fałszywe (F).
+
+1.  ___ Fotosyntezę przeprowadzają tylko rośliny.
+2.  ___ Tlen jest jednym z głównych składników potrzebnych do fotosyntezy.
+3.  ___ Glukoza to pokarm produkowany przez roślinę w procesie fotosyntezy.
+4.  ___ Rośliny pobierają wodę potrzebną do fotosyntezy przez liście.
+5.  ___ Fotosynteza jest kluczowa dla życia na Ziemi, ponieważ produkuje zarówno pokarm, jak i tlen.
+
+---
+
+### **Zadanie 3: Uzupełnij Luki**
+Uzupełnij zdania, wpisując brakujące słowa z ramki.
+
+**RAMKA: chloroplasty, tlen, światła, dwutlenek węgla, glukozę, korzenie, chlorofil**
+
+1.  Rośliny pobierają wodę z gleby za pomocą _______________.
+2.  Fotosynteza zachodzi w specjalnych organellach komórkowych zwanych _______________.
+3.  Zieleń roślin pochodzi od barwnika zwanego _______________.
+4.  Do fotosyntezy potrzebna jest energia ze _______________ słonecznego.
+5.  Rośliny pobierają z powietrza gaz o nazwie _______________ _______________.
+6.  Produkty fotosyntezy to _______________ (czyli pokarm) i _______________.
+
+---
+
+### **Zadanie 4: Połącz w Pary**
+Połącz pojęcia z ich definicjami.
+
+1.  Chlorofil
+2.  Chloroplast
+3.  Glukoza
+4.  Dwutlenek węgla
+5.  Tlen
+
+A. Gaz, który rośliny uwalniają do atmosfery.
+B. Zielony barwnik, który pochłania światło.
+C. Organella, w której zachodzi fotosynteza.
+D. Gaz pobierany z powietrza przez rośliny.
+E. Cukier, czyli pokarm dla rośliny.
+
+---
+
+### **Zadanie 5: Krótka Odpowiedź / Zastosowanie**
+Odpowiedz na pytania pełnymi zdaniami.
+
+1.  Wyjaśnij, dlaczego fotosynteza jest nazywana "magicznym procesem".
+    _________________________________________________________________________________________
+    _________________________________________________________________________________________
+
+2.  Co by się stało ze zwierzętami i ludźmi, gdyby na Ziemi nagle zniknęły wszystkie rośliny zdolne do fotosyntezy?
+    _________________________________________________________________________________________
+    _________________________________________________________________________________________
+
+3.  Podaj dwa przykłady, jak możesz "pomóc" roślinom w Twoim otoczeniu w przeprowadzaniu fotosyntezy.
+    a) _________________________________________________________________________________________
+    b) _________________________________________________________________________________________
+
+---
+
+### **Zadanie 6: Diagram do Uzupełnienia**
+Popatrz na uproszczony schemat fotosyntezy. Wpisz w odpowiednie miejsca nazwy składników i produktów tego procesu.
+
+```
+       [1. _______________]
+             ^
+             |
+             |       [2. _______________]
+             |      /
+             |     /
+             v    /
+      -----------------
+     |                 |
+     |     ROŚLINA     |  <--- Dzieje się w chloroplastach!
+     |                 |
+      -----------------
+             ^    \
+             |     \
+             |      [3. _______________]
+             |
+       [4. _______________]
+
+```
+**Wskazówki:**
+*   Jeden składnik jest pobierany z powietrza.
+*   Jeden składnik jest pobierany z gleby.
+*   Jeden produkt jest pokarmem.
+*   Jeden produkt jest uwalniany do atmosfery.
+
+---
+
+### **Zadanie 7: Pomyśl i Podziel Się**
+To zadanie nie ma jednej poprawnej odpowiedzi, chodzi o Twoje przemyślenia.
+
+Wyobraź sobie, że jesteś naukowcem. Zaprojektuj prosty eksperyment, który mógłby udowodnić, że do fotosyntezy potrzebne jest światło. Co byś zrobił, czego użył i co byś obserwował?
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+
+---
+
+**Gratulacje!**
+
+Dotarliście do końca zadań! Jestem dumny z Waszego zaangażowania. Mam nadzieję, że ta podróż do świata fotosyntezy była dla Was ciekawa i pozwoliła Wam lepiej zrozumieć, jak niezwykłe są rośliny i jak ważną rolę odgrywają na naszej planecie.
+
+Jeśli potrzebujecie sprawdzić swoje odpowiedzi, dajcie znać, a przygotuję dla Was klucz! Pamiętajcie, że nauka to proces, a ciekawość jest Waszym najlepszym przewodnikiem. Do zobaczenia na kolejnej lekcji!
+
+Oceń TinyLlama (1-5)
+Poprawność: 1
+Język: 1
+Poziom: 1
+Przydatność: 1
+
+Oceń Phi-2 (1-5)
+Poprawność: 1
+Język: 2
+Poziom: 1
+Przydatność: 1
+
+Oceń Gemini (1-5)
+Poprawność: 5
+Język: 5
+Poziom: 5
+Przydatność: 5

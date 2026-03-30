@@ -1,0 +1,4 @@
+Średnia ocena modeli:
+TinyLlama : {'poprawnosc': 1.0, 'jezyk': 1.0, 'poziom': 1.0, 'przydatnosc': 1.0, 'count': 6}
+Phi-2 : {'poprawnosc': 1.1666666666666667, 'jezyk': 1.3333333333333333, 'poziom': 1.1666666666666667, 'przydatnosc': 1.1666666666666667, 'count': 6}
+Gemini : {'poprawnosc': 5.0, 'jezyk': 5.0, 'poziom': 5.0, 'przydatnosc': 5.0, 'count': 6}

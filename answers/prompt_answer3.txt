@@ -1,0 +1,129 @@
+===== PROMPT 3 =====
+Stwórz krótki materiał dydaktyczny + 3 zadania + odpowiedzi na temat fotosyntezy.
+
+
+--- TinyLlama ---
+ Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Stwórz krótki materiał dydaktyczny + 3 zadania + odpowiedzi na temat fotosyntezy. Każda zadawana na temat wybranej tematyki ma do siebie odpowiedzi w formie rozwiązań kwiatowych. Pobierz odpowiedzi w celu sprawdzenia poprawniać odpowiedzi przy zastosowaniu zadania w materiali dydaktycznym.
+Użyj zasad tworzenia systematycznie zainteresowanych zadań.
+
+Pobierz materiał dydaktyczny z internetu.
+
+Użyj przykładów naukowych/modeli do przypadków zalecając wspomnieć dwie.
+
+Podaj własne wyrazy poziomo wymaganą do uczenia się lokalizacji.
+
+Podający się zadanie: Odczytaj z wydawnictwa wersji 3-kolumnowej "Magazyn 2019": S. 318-323. Pierwsza kolumny "Metody, teoretyczne i zagadnienia" podają sposób, w jaki wyróżnia się odmienne metody wyodrębniania elementów wejściowych z odpowiedzią i wywołaniem dowolnego elementu, a czwarta kolumna
+
+--- Phi-2 ---
+ Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Stwórz krótki materiał dydaktyczny + 3 zadania + odpowiedzi na temat fotosyntezy. Zgadnie napravo podniesuć się z kotem wystąpi do przywój udziału koncepcji dydaktycznej - dane o informacji nadzieji o przywój koncepcji kontaktualnej aktualnej gospodarcze w wyniku poznańskiej uczniu. W kommentarze przed udzialu wykorzystać wzroku stanu dydaktycznych zmiennej przeszłości, których podawaj z wyrazem materiału udziału koncepcji dydaktycznej. Zwoli raz trzeciej wystąpi się także o udziału do nauczycieli z poziomu uczniu. W podstawie do działania ucznią podobnego stworzenia i do podstawi wysokiej jest wartości oceniu, środowiski, królnym mordzym i społecze
+
+--- Gemini ---
+ Witajcie, młodzi odkrywcy przyrody!
+
+Jestem tutaj, by zabrać Was w fascynującą podróż do świata roślin. Czy zastanawialiście się kiedyś, skąd rośliny biorą energię do wzrostu? Albo dlaczego oddychamy tlenem, a nie innym gazem? Odpowiedzią na te pytania jest jeden z najważniejszych procesów na Ziemi – **fotosynteza**!
+
+---
+
+### **Fotosynteza: Sekret Zielonych Fabryk!**
+
+Wyobraźcie sobie, że każda roślina to taka mała, zielona fabryka. Ale co produkuje ta fabryka i co jest jej "paliwem"?
+
+**Co to jest fotosynteza?**
+Najprościej mówiąc, **fotosynteza to proces, w którym rośliny (oraz niektóre inne organizmy) tworzą swoje jedzenie (czyli cukier) i tlen, wykorzystując światło słoneczne, wodę i dwutlenek węgla.** To taki ich "przepis na życie"!
+
+**Czego potrzebują rośliny do fotosyntezy? (Składniki)**
+
+1.  **Woda (H₂O):** Rośliny pobierają ją z ziemi przez korzenie – tak jak my pijemy wodę, żeby mieć siłę.
+2.  **Dwutlenek węgla (CO₂):** To gaz, który znajduje się w powietrzu. My go wydychamy, a rośliny... wdychają! Dostaje się do roślin przez malutkie otworki, głównie na spodniej stronie liści, zwane szparkami.
+3.  **Światło słoneczne:** To energia, "paliwo" dla całego procesu. Bez słońca fotosynteza nie mogłaby się odbywać.
+4.  **Chlorofil:** To specjalny zielony barwnik, który nadaje roślinom ich charakterystyczny kolor. Działa jak małe "panele słoneczne" w liściach – łapie energię słońca i zamienia ją w energię chemiczną potrzebną do produkcji jedzenia.
+
+**Co rośliny produkują? (Produkty)**
+
+1.  **Cukier (glukoza):** To jest ich jedzenie! Cukier daje roślinom energię do wzrostu, kwitnienia i produkcji nasion. Jest też budulcem dla ich tkanek.
+2.  **Tlen (O₂):** To dla nas prawdziwy prezent! Tlen jest uwalniany do atmosfery, a my, zwierzęta i inni ludzie, oddychamy nim. Bez tlenu życie na Ziemi, jakie znamy, byłoby niemożliwe.
+
+**Gdzie to się dzieje?**
+Głównie w **liściach** roślin, a konkretnie w ich zielonych częściach, w specjalnych "komórkowych fabryczkach" zwanych **chloroplastami**, które zawierają chlorofil.
+
+**Dlaczego fotosynteza jest tak ważna?**
+*   **Dla roślin:** Daje im energię i budulec do życia.
+*   **Dla zwierząt i ludzi:** Jest podstawą wszystkich łańcuchów pokarmowych – rośliny są pierwszym ogniwem, dostarczając pokarmu i energii.
+*   **Dla nas wszystkich:** Produkuje tlen, bez którego nie moglibyśmy oddychać!
+*   **Dla Ziemi:** Pomaga regulować ilość dwutlenku węgla w atmosferze.
+
+**Proste równanie fotosyntezy:**
+
+Możemy to wszystko zapisać w bardzo prosty sposób:
+
+**Woda + Dwutlenek węgla + Światło słoneczne (i chlorofil) → Cukier (jedzenie) + Tlen**
+
+A dla tych, którzy lubią chemię, wygląda to tak:
+
+**6H₂O + 6CO₂ + Energia świetlna → C₆H₁₂O₆ + 6O₂**
+(Woda + Dwutlenek węgla + Energia świetlna → Glukoza + Tlen)
+
+Pamiętajcie więc, następnym razem, gdy zobaczycie zieloną roślinę, pomyślcie o niej jako o małej, cudownej fabryce, która pracuje ciężko, by produkować jedzenie dla siebie i tlen dla nas wszystkich!
+
+---
+
+### **Zadania do sprawdzenia wiedzy:**
+
+**Zadanie 1.**
+Wymień trzy główne rzeczy, których roślina potrzebuje do przeprowadzenia fotosyntezy.
+
+**Zadanie 2.**
+Jaki gaz jest produktem fotosyntezy i dlaczego jest on tak ważny dla ludzi i zwierząt?
+
+**Zadanie 3.**
+Wyobraź sobie roślinę jako "zieloną fabrykę". Jakie elementy tej fabryki odpowiadają za:
+a) "panele słoneczne", które łapią energię?
+b) "paliwo" dostarczające energię?
+c) "produkt końcowy", który jest jedzeniem dla fabryki?
+
+---
+
+### **Odpowiedzi do zadań:**
+
+**Odpowiedź 1.**
+Trzy główne rzeczy, których roślina potrzebuje do fotosyntezy, to:
+1.  Woda
+2.  Dwutlenek węgla
+3.  Światło słoneczne
+(Dodatkowo niezbędny jest chlorofil, ale zadanie prosiło o 3 główne "składniki" zewnętrzne.)
+
+**Odpowiedź 2.**
+Gazem, który jest produktem fotosyntezy, jest **tlen (O₂)**. Jest on niezwykle ważny dla ludzi i zwierząt, ponieważ to właśnie tlenu używamy do oddychania, aby pozyskać energię niezbędną do życia i funkcjonowania.
+
+**Odpowiedź 3.**
+a) "Panele słoneczne", które łapią energię – to **chlorofil**.
+b) "Paliwo" dostarczające energię – to **światło słoneczne**.
+c) "Produkt końcowy", który jest jedzeniem dla fabryki – to **cukier (glukoza)**.
+
+Oceń TinyLlama (1-5)
+Poprawność: 1
+Język: 1
+Poziom: 1
+Przydatność: 1
+
+Oceń Phi-2 (1-5)
+Poprawność: 1
+Język: 1
+Poziom: 1
+Przydatność: 1
+
+Oceń Gemini (1-5)
+Poprawność: 5
+Język: 5
+Poziom: 5
+Przydatność: 5
