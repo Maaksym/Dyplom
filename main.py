@@ -15,7 +15,7 @@ load_dotenv()
 # ========================
 MODEL_1_NAME = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
 MODEL_2_NAME = "microsoft/phi-2"
-GEMINI_API_KEY = "AIzaSyAoqY7uIKY9peK2ZEUrpw0Yb-hw_sL5TTY"
+GEMINI_API_KEY = "Your_key"
 
 # ========================
 # 🔹 GEMINI (NEW API)
