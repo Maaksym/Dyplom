@@ -83,4 +83,8 @@ Projekt generuje wykres porównawczy:
 - CSV
 
 ---
+## 📄 Pełne wyniki
 
+Pełne wyniki generowane przez wszystkie modele są dostępne w:
+
+📁 `answers`
