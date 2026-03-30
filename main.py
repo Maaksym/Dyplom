@@ -5,6 +5,10 @@ import matplotlib.pyplot as plt
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from google import genai
 import collections
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
 
 # ========================
 # 🔑 CONFIG
