@@ -84,9 +84,3 @@ Projekt generuje wykres porównawczy:
 
 ---
 
-## 🚀 Jak uruchomić
-
-1. Zainstaluj wymagania:
-
-```bash
-pip install torch transformers matplotlib python-dotenv google-genai
