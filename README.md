@@ -1,4 +1,4 @@
-# 📊 LLM Comparison for Educational Content Generation
+# 📊 LLM Porównanie metod tworzenia treści edukacyjnych
 
 ## 📌 Opis projektu
 
