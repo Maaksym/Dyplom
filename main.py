@@ -71,14 +71,13 @@ Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostos
 Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę."""
 
 # ========================
-# 📌 PROMPTS (6)
+# 📌 PROMPTS (5)
 # ========================
 prompts = [
     "Wyjaśnij czym jest fotosynteza dla ucznia szkoły podstawowej.",
     "Przygotuj zestaw 5 pytań testowych z biologii na temat fotosyntezy dla ucznia liceum.",
     "Stwórz krótki materiał dydaktyczny + 3 zadania + odpowiedzi na temat fotosyntezy.",
     "Wyjaśnij fotosyntezę prostym językiem z przykładem.",
-    "Stwórz zadania edukacyjne z fotosyntezy.",
     "Napisz krótkie streszczenie fotosyntezy."
 ]
 
