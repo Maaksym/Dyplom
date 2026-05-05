@@ -93,3 +93,34 @@ Każda odpowiedź oceniana w skali 1–5 według czterech kryteriów z operacyjn
 - **python-dotenv** — zarządzanie kluczem API
 
 ---
+
+## 🚀 Uruchomienie
+
+### Wymagania
+```bash
+pip install transformers torch google-generativeai matplotlib python-dotenv
+```
+
+### Konfiguracja
+Utwórz plik `.env` i dodaj klucz API:
+### Uruchomienie
+```bash
+python main.py
+```
+
+---
+
+## ⚠️ Ograniczenia
+
+- Ocena przeprowadzona przez jednego oceniającego (autora badania)
+- Wszystkie prompty dotyczyły jednego tematu (fotosynteza)
+- Gemini niedostępny podczas jednego z promptów (błąd API 503)
+- Modele lokalne nie były optymalizowane dla języka polskiego
+
+---
+
+## 📄 Pełne wyniki
+
+Pełne odpowiedzi wszystkich modeli dostępne w folderze:
+
+📁 `answers/`
