@@ -1,30 +1,33 @@
 import torch
 import csv
 import os
+import time
 import matplotlib.pyplot as plt
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from google import genai
 import collections
 from dotenv import load_dotenv
-import os
 
+# ========================
+# 🔑 LOAD ENV
+# ========================
 load_dotenv()
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+
+if not GEMINI_API_KEY:
+    raise ValueError("❌ GEMINI_API_KEY not found in .env")
 
 # ========================
-# 🔑 CONFIG
-# ========================
-MODEL_1_NAME = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
-MODEL_2_NAME = "microsoft/phi-2"
-GEMINI_API_KEY = "Your_key"
-
-# ========================
-# 🔹 GEMINI (NEW API)
+# 🔹 GEMINI CLIENT
 # ========================
 client = genai.Client(api_key=GEMINI_API_KEY)
 
 # ========================
-# 🔹 LOAD LOCAL MODELS
+# 🔹 MODELS
 # ========================
+MODEL_1_NAME = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
+MODEL_2_NAME = "microsoft/phi-2"
+
 print("Loading models...")
 
 tokenizer1 = AutoTokenizer.from_pretrained(MODEL_1_NAME)
@@ -38,7 +41,6 @@ model2 = AutoModelForCausalLM.from_pretrained(MODEL_2_NAME)
 # ========================
 def generate_local(model, tokenizer, system_prompt, user_prompt):
     prompt = f"{system_prompt}\n\n{user_prompt}"
-
     inputs = tokenizer(prompt, return_tensors="pt")
 
     outputs = model.generate(
@@ -50,17 +52,24 @@ def generate_local(model, tokenizer, system_prompt, user_prompt):
     return tokenizer.decode(outputs[0], skip_special_tokens=True)
 
 # ========================
-# 🔹 GENERATE GEMINI (FIXED)
+# 🔹 GENERATE GEMINI (RETRY)
 # ========================
 def generate_gemini(system_prompt, user_prompt):
     prompt = f"{system_prompt}\n\n{user_prompt}"
 
-    response = client.models.generate_content(
-        model="models/gemini-2.5-flash",
-        contents=prompt
-    )
+    for attempt in range(3):
+        try:
+            response = client.models.generate_content(
+                model="models/gemini-2.5-flash",
+                contents=prompt
+            )
+            return response.text
 
-    return response.text
+        except Exception as e:
+            print(f"⚠ Gemini error (attempt {attempt+1}):", e)
+            time.sleep(5)
+
+    return "ERROR: Gemini not available"
 
 # ========================
 # 📌 SYSTEM PROMPT
@@ -71,14 +80,13 @@ Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostos
 Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę."""
 
 # ========================
-# 📌 PROMPTS (6)
+# 📌 PROMPTS
 # ========================
 prompts = [
     "Wyjaśnij czym jest fotosynteza dla ucznia szkoły podstawowej.",
     "Przygotuj zestaw 5 pytań testowych z biologii na temat fotosyntezy dla ucznia liceum.",
     "Stwórz krótki materiał dydaktyczny + 3 zadania + odpowiedzi na temat fotosyntezy.",
     "Wyjaśnij fotosyntezę prostym językiem z przykładem.",
-    "Stwórz zadania edukacyjne z fotosyntezy.",
     "Napisz krótkie streszczenie fotosyntezy."
 ]
 
@@ -181,11 +189,8 @@ plt.savefig("final_wykres.png")
 plt.show()
 
 # ========================
-# 📊 PRINT AVG
+# 📊 PRINT
 # ========================
-def avg(scores):
-    return (scores["poprawnosc"] + scores["jezyk"] + scores["poziom"] + scores["przydatnosc"]) / 4
-
-print("\nŚrednia ocena modeli:")
+print("\nŚrednie wyniki:")
 for m in models:
-    print(m, ":", avg_scores[m])
+    print(m, avg_scores[m])
