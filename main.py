@@ -2,13 +2,19 @@ import torch
 import csv
 import os
 import time
+<<<<<<< HEAD
 import numpy as np
+=======
+>>>>>>> 326a4aeb9e20a01e932fad65ddc899b0c1e2af5e
 import matplotlib.pyplot as plt
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from google import genai
 import collections
 from dotenv import load_dotenv
+<<<<<<< HEAD
 from scipy import stats
+=======
+>>>>>>> 326a4aeb9e20a01e932fad65ddc899b0c1e2af5e
 
 # ========================
 # 🔑 LOAD ENV
@@ -54,17 +60,26 @@ def generate_local(model, tokenizer, system_prompt, user_prompt):
     return tokenizer.decode(outputs[0], skip_special_tokens=True)
 
 # ========================
+<<<<<<< HEAD
 # 🔹 GENERATE GEMINI (FIXED - rate limit handling)
+=======
+# 🔹 GENERATE GEMINI (RETRY)
+>>>>>>> 326a4aeb9e20a01e932fad65ddc899b0c1e2af5e
 # ========================
 def generate_gemini(system_prompt, user_prompt):
     prompt = f"{system_prompt}\n\n{user_prompt}"
 
+<<<<<<< HEAD
     for attempt in range(5):
+=======
+    for attempt in range(3):
+>>>>>>> 326a4aeb9e20a01e932fad65ddc899b0c1e2af5e
         try:
             response = client.models.generate_content(
                 model="models/gemini-2.5-flash",
                 contents=prompt
             )
+<<<<<<< HEAD
             time.sleep(4)  # pauza 4 sek między zapytaniami (limit 15/min)
             return response.text
 
@@ -91,6 +106,14 @@ def generate_gemini(system_prompt, user_prompt):
                 time.sleep(10)
 
     print("❌ Gemini niedostępny po 5 próbach")
+=======
+            return response.text
+
+        except Exception as e:
+            print(f"⚠ Gemini error (attempt {attempt+1}):", e)
+            time.sleep(5)
+
+>>>>>>> 326a4aeb9e20a01e932fad65ddc899b0c1e2af5e
     return "ERROR: Gemini not available"
 
 # ========================
@@ -102,6 +125,7 @@ Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostos
 Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę."""
 
 # ========================
+<<<<<<< HEAD
 # 📌 PROMPTS - 20 promptów, 5 kategorii x 4 prompty
 # ========================
 prompts = [
@@ -134,6 +158,16 @@ prompts = [
     ("Język angielski", "Przygotuj 5 ćwiczeń gramatycznych na temat czasu Past Simple dla ucznia gimnazjum z odpowiedziami."),
     ("Język angielski", "Stwórz materiał dydaktyczny na temat słownictwa związanego z pogodą z ćwiczeniami i odpowiedziami."),
     ("Język angielski", "Napisz krótkie streszczenie zasad używania przedimków w języku angielskim dla ucznia liceum."),
+=======
+# 📌 PROMPTS
+# ========================
+prompts = [
+    "Wyjaśnij czym jest fotosynteza dla ucznia szkoły podstawowej.",
+    "Przygotuj zestaw 5 pytań testowych z biologii na temat fotosyntezy dla ucznia liceum.",
+    "Stwórz krótki materiał dydaktyczny + 3 zadania + odpowiedzi na temat fotosyntezy.",
+    "Wyjaśnij fotosyntezę prostym językiem z przykładem.",
+    "Napisz krótkie streszczenie fotosyntezy."
+>>>>>>> 326a4aeb9e20a01e932fad65ddc899b0c1e2af5e
 ]
 
 # ========================
@@ -435,6 +469,7 @@ plt.show()
 print("✅ Zapisano: wykres_kategorie.png")
 
 # ========================
+<<<<<<< HEAD
 # 📊 PODSUMOWANIE KOŃCOWE
 # ========================
 print("\n" + "=" * 60)
@@ -456,3 +491,10 @@ print("  📝 ocena_drugi_oceniajacy.txt     - dla drugiego oceniającego")
 print("  📈 final_wykres.png               - wykres liniowy")
 print("  📈 radar_chart.png                - wykres radarowy")
 print("  📈 wykres_kategorie.png           - wykres według kategorii")
+=======
+# 📊 PRINT
+# ========================
+print("\nŚrednie wyniki:")
+for m in models:
+    print(m, avg_scores[m])
+>>>>>>> 326a4aeb9e20a01e932fad65ddc899b0c1e2af5e

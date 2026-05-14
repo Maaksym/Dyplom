@@ -1,0 +1,482 @@
+===== PROMPT 1 =====
+Wyjaśnij czym jest fotosynteza dla ucznia szkoły podstawowej.
+Both `max_new_tokens` (=300) and `max_length`(=2048) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+
+--- TinyLlama ---
+ Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Wyjaśnij czym jest fotosynteza dla ucznia szkoły podstawowej.
+
+Poprodukty roślinne są produkty roślinne, ale w znacznym stopniu tworzone są przez organizmy o różnym poziomie rozwoju. Studenci muszą zanim będą poszłoować do szkoły do wygłędzić język nauki, nauczyć się, co oznacza "rozbudować głos". Czynią to z własnymi osiągnięciami.
+
+Swoimi zdaniem powiem, że szkoła płaci każdemu doświadczonym nauczycielem, kto zostanie 5 lat wcześniej, co "wyszło w ciemny dziwny sędzia". Najniższe opinię ma oceniający wypowiedzi.
+
+"Czy jestem wywrowałem się wokół? Tak, to miażdy, bo powiem, że "wielkochłe" jest tylko ustawa o znakach, a "wyraźnie" jest, że "powiedz to", dzięki wszystkim uznanym "przypadkom" doświadczonym nauczycielem, dzięki którym "prawie wszystko" się odchł
+
+--- Phi-2 ---
+ Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Wyjaśnij czym jest fotosynteza dla ucznia szkoły podstawowej. Fotosynteza jest reakcja w języku, inne maże w spowadzeniu elementów do pozycjonalnym zaczynnionym. Jeśli mieszka zakręciu jest przestawająca uczynników w środkcu wzrostu i w naszym jednościem, dołoższyje wyjaśnij czasem rozpoczątkowego do podejmowagę zakresu przestawienia jedności i dozwolności przestawienia.
+
+Zabezpieczenie merytoryczne ze życia mężczyzną do poziomu w przestawieniu, jaką będzie wypościu i przestrzeń w nieprawie obecnych dzieci. W prawie niedobęgo działania dostosowanych kluczów zawodowych, obecnych wątórów
+
+--- Gemini ---
+ Witajcie, drodzy uczniowie!
+
+Jestem tutaj, żeby opowiedzieć Wam o czymś naprawdę fascynującym, co dzieje się wokół nas każdego dnia, a zwłaszcza tam, gdzie są zielone rośliny. Czy zastanawialiście się kiedyś, skąd rośliny biorą jedzenie? Przecież nie mają buzi ani nie chodzą do sklepu, prawda?
+
+Otóż rośliny mają swój własny, supermoce, magiczny sposób na robienie jedzenia! I ten sposób nazywa się... **FOTOSYNTEZA**!
+
+Brzmi skomplikowanie? Nie martwcie się, wytłumaczę Wam to tak prosto, jak tylko się da.
+
+---
+
+### **Czym jest Fotosynteza? – Magiczna Kuchnia Roślin**
+
+Wyobraźcie sobie, że każda roślina to taka mała, zielona kuchnia. W tej kuchni roślina sama przygotowuje swoje jedzenie, i to w dodatku tak, że przy okazji daje nam, ludziom i zwierzętom, coś bardzo ważnego do oddychania!
+
+### **Co Roślina Potrzebuje do Swojej Kuchni (Składniki)?**
+
+Żeby zrobić jedzenie, roślina potrzebuje kilku rzeczy, zupełnie jak my potrzebujemy składników, żeby upiec ciasto:
+
+1.  **Słońce (Energia!)**
+    *   Słońce to taka "elektryczność" dla rośliny, jej najważniejsze źródło energii. Roślina łapie promienie słoneczne, żeby mieć siłę do pracy. Można powiedzieć, że słońce to jak bateria, która zasila całą "kuchnię" rośliny!
+
+2.  **Woda (Napój Rośliny)**
+    *   Woda jest dla rośliny jak napój dla nas. Roślina "pije" ją swoimi korzeniami z ziemi. Woda pomaga przenosić wszystkie składniki i jest ważnym elementem "przepisu" na jedzenie.
+
+3.  **Powietrze (Dokładnie: Dwutlenek Węgla)**
+    *   Rośliny potrafią pobierać z powietrza specjalny, niewidzialny gaz, który nazywa się **dwutlenek węgla**. Pamiętacie, co wydychamy, kiedy robimy "ufff"? Właśnie to! Rośliny ten dwutlenek węgla chętnie wciągają.
+
+### **Gdzie to Się Dzieje? (Zielone Fabryczki)**
+
+Cała ta magiczna kuchnia dzieje się głównie w... **liściach**!
+
+*   To właśnie liście są jak takie małe fabryczki. Mają w sobie coś, co sprawia, że są zielone – to **chlorofil**. Chlorofil to taki specjalny zielony barwnik, który jest superważny, bo to on "łapie" promienie słońca, jak małe antenki albo panele słoneczne!
+
+### **Co Roślina Tworzy? (Pyszne Produkty!)**
+
+Kiedy słońce świeci na liście, a roślina ma wodę i dwutlenek węgla, to dzieje się magia! Chlorofil wykorzystuje energię słońca, żeby połączyć wodę i dwutlenek węgla. I z tych prostych składników powstają dwie bardzo ważne rzeczy:
+
+1.  **Cukier (Jedzenie Rośliny)**
+    *   To jest właśnie jedzenie dla rośliny! Taki naturalny cukier, który daje jej siłę do rośnięcia, tworzenia nowych liści, kwiatów i owoców. Dla rośliny to jak dla nas pyszny obiad, który daje energię do biegania i zabawy.
+
+2.  **Tlen (Powietrze dla Nas!)**
+    *   To jest ten wspaniały "prezent", który rośliny dają nam! Kiedy roślina robi cukier, przy okazji wydziela do powietrza **tlen**. Tlen to gaz, którym oddychamy my, ludzie, i wszystkie zwierzęta. Bez tlenu nie moglibyśmy żyć!
+
+---
+
+### **Podsumujmy: Fotosynteza w skrócie!**
+
+Fotosynteza to proces, w którym:
+*   **Rośliny**
+*   za pomocą **słońca, wody i dwutlenku węgla**
+*   tworzą swoje **jedzenie (cukier)**
+*   i jednocześnie wydzielają **tlen**, który jest nam potrzebny do oddychania.
+
+### **Dlaczego fotosynteza jest superważna?**
+
+*   **Dla roślin:** Dzięki niej rośliny mogą rosnąć, kwitnąć i dawać nam owoce czy warzywa. Bez fotosyntezy nie byłoby roślin!
+*   **Dla nas i zwierząt:** Rośliny dają nam jedzenie (przecież jemy warzywa i owoce, prawda?) i co najważniejsze – dają nam powietrze do oddychania (ten właśnie tlen!).
+
+Następnym razem, gdy zobaczysz zieloną roślinkę, pamiętaj, że ona ciężko pracuje, robiąc dla siebie pyszny obiad i jednocześnie produkując dla nas świeże powietrze! Czyż to nie jest wspaniałe?
+
+Oceń TinyLlama (1-5)
+Poprawność: 1
+Język: 3
+Poziom: 1 
+Przydatność: 1
+
+Oceń Phi-2 (1-5)
+Poprawność: 1
+Język: 3
+Poziom: 2
+Przydatność: 1
+
+Oceń Gemini (1-5)
+Poprawność: 4
+Język: 5
+Poziom: 4
+Przydatność: 4
+
+===== PROMPT 2 =====
+Przygotuj zestaw 5 pytań testowych z biologii na temat fotosyntezy dla ucznia liceum.
+Both `max_new_tokens` (=300) and `max_length`(=2048) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+⚠ Gemini error (attempt 1): 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+--- TinyLlama ---
+ Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Przygotuj zestaw 5 pytań testowych z biologii na temat fotosyntezy dla ucznia liceum.
+
+Podaj jedną ze swoich największych wag w nauce opisując jej podstawy, w sposób wyjaśniający, w jaki sposób naukowe postulaty dziedzca zostać uznane za prawa nauki, i w jakym zakresie mogą być wykorzystywane odpowiednio. Opisujemy jedną z założeń nauki, w której nauka zajmuje się podstawami, który ma oznaczać założenie, na który dzień przeprowadzany jest dydaktyka, dzięki czemu nauka może zajmować się szczegółami, w których nauka nie jest zajęciwa.
+
+Potwierdzić, że poziom nauczania biologii jest ustanowiony przez minister Edukacji Narodowej, a nie przez PES.
+
+Urządzić 5 interakcji między nauczycielem a uczniem, rozmawiając nad najważniejszymi zagadnieniami i nad jednym zagadnieniem.
+
+Zwiedzająca biologię zaczyna od ograniczenia się jednego zestawu wokół siebie, który zaczyna zacznie wypowi
+
+--- Phi-2 ---
+ Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Przygotuj zestaw 5 pytań testowych z biologii na temat fotosyntezy dla ucznia liceum. Proszą do sprawy dochodowania wieku XXI wieku z zagędziona przeciwko ucznieni dostosowaną ciężki niektórych ogólnokomunikacji.
+
+Testowy:
+1. Merytoryczny kwietnia jeśli ciężki wieciąc w zakresie nauczyciującią?
+Ans: Merytoryczny kwietnia jeśli zaćców takiego zawsze z bardzo i za mienia żaną.
+
+2. Jak w naszą ból i naszą czasu właśniejszośnie dwa?
+Ans: Przywój którego w komentarze dojecz.
+
+3. Czy wszystkich ciężki jest z bardzo i za mienia żaną?
+Ans: Wszystkich ciężki jest z bardzo i za mienia żaną.
+
+--- Gemini ---
+ Witajcie, drodzy uczniowie!
+
+Jako doświadczony pedagog, z przyjemnością przygotowałem dla Was zestaw pytań testowych dotyczących jednego z najważniejszych procesów biologicznych na Ziemi – fotosyntezy. Postarałem się, aby pytania były jasne, sprawdzały Wasze zrozumienie kluczowych zagadnień i były odpowiednie do poziomu licealnego. Pamiętajcie, że biologii uczymy się, łącząc fakty w logiczną całość!
+
+Przystąpcie do testu, a potem sprawdźcie swoje odpowiedzi. Powodzenia!
+
+---
+
+**Test Wiedzy: Fotosynteza**
+
+**Instrukcja:** Przeczytaj każde pytanie uważnie i wybierz jedną, najbardziej poprawną odpowiedź.
+
+**Pytanie 1:**
+Które z poniższych substancji są niezbędne do przeprowadzenia fotosyntezy i co jest jej głównym produktem organicznym?
+A. Woda i tlen; produkt: glukoza.
+B. Dwutlenek węgla i glukoza; produkt: woda.
+C. Woda i dwutlenek węgla; produkt: glukoza i tlen.
+D. Tlen i glukoza; produkt: dwutlenek węgla.
+
+**Pytanie 2:**
+Gdzie w komórce roślinnej odbywa się proces fotosyntezy, a dokładniej, w jakiej strukturze (organelli) komórkowej?
+A. Mitochondrium
+B. Jądro komórkowe
+C. Chloroplast
+D. Wakuola
+
+**Pytanie 3:**
+Produkty fazy jasnej (zależnej od światła) fotosyntezy, które są następnie wykorzystywane w fazie ciemnej (cyklu Calvina), to:
+A. Glukoza i tlen.
+B. ATP i NADPH.
+C. Dwutlenek węgla i woda.
+D. Chlorofil i karotenoidy.
+
+**Pytanie 4:**
+Jaka jest główna rola chlorofilu w procesie fotosyntezy?
+A. Transportuje wodę i sole mineralne do komórek liścia.
+B. Odpowiada za uwalnianie tlenu do atmosfery.
+C. Pochłania energię świetlną, inicjując proces fotosyntezy.
+D. Bezpośrednio syntetyzuje glukozę z dwutlenku węgla.
+
+**Pytanie 5:**
+Który z poniższych czynników jest niezbędny do prawidłowego przebiegu fotosyntezy i jego brak lub niedobór może znacząco ograniczać jej tempo?
+A. Tlen atmosferyczny.
+B. Odpowiednie pH gleby.
+C. Wysokie stężenie azotu w glebie.
+D. Dwutlenek węgla.
+
+---
+
+**Klucz odpowiedzi:**
+
+1.  **C** (Woda i dwutlenek węgla są substratami, a glukoza i tlen to produkty fotosyntezy).
+2.  **C** (Fotosynteza zachodzi w chloroplastach, które zawierają chlorofil).
+3.  **B** (W fazie jasnej powstają ATP i NADPH, które dostarczają energię i siłę redukcyjną do fazy ciemnej).
+4.  **C** (Chlorofil to główny barwnik fotosyntetyczny, który absorbuje energię świetlną).
+5.  **D** (Dwutlenek węgla jest jednym z kluczowych substratów fotosyntezy, a jego stężenie często jest czynnikiem ograniczającym).
+
+---
+
+Mam nadzieję, że ten test pomógł Wam w utrwaleniu wiedzy o fotosyntezie! Pamiętajcie, że zrozumienie tego procesu jest kluczowe dla pojmowania funkcjonowania życia na Ziemi. Jeśli macie jakieś pytania lub chcielibyście omówić którąś z odpowiedzi, jestem do Waszej dyspozycji.
+
+Oceń TinyLlama (1-5)
+Poprawność: 1
+Język: 1
+Poziom: 1
+Przydatność: 1
+
+Oceń Phi-2 (1-5)
+Poprawność: 1
+Język: 2
+Poziom: 1
+Przydatność: 2
+
+Oceń Gemini (1-5)
+Poprawność: 5
+Język: 4
+Poziom: 5 
+Przydatność: 5
+
+===== PROMPT 3 =====
+Stwórz krótki materiał dydaktyczny + 3 zadania + odpowiedzi na temat fotosyntezy.
+Both `max_new_tokens` (=300) and `max_length`(=2048) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+⚠ Gemini error (attempt 1): 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+--- TinyLlama ---
+ Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Stwórz krótki materiał dydaktyczny + 3 zadania + odpowiedzi na temat fotosyntezy.
+
+Dostępne metody 
+
+Praca dla dziedziny nauk (m.in. biologii, matematycy, chemii)
+Materiały wykładnicze do studenta (m.in. dziedziny matematyki, fizyki)
+Materiały naukowe dla profesorów
+
+Możliwości dla ucznia 
+
+Dostępny na stronie Uniwersytetu Łódzkiego
+
+Większość materiałów jest dostarczana w formie PDF, w formie kompactowaną, z obsądem wymiarowym na pozwalającą na pobranie, zgodnym z programem Microsoft Vista 7.
+Wybrane części materiałów dotyczące dydaktyki dziedziny biologii mają zastosowanie do wykładów na kursach szkół średnich i szkół kształcących ogólną publicZność (KOZ).
+Dyskusyjna część materiałów dotyczących nauk zajmuje się metodami naukowymi, problematyką badawczą, a także możliwościami wykorzystania informatyki w nauce.
+
+Linki zewnętrzne 
+ Oficjalna str
+
+--- Phi-2 ---
+ Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Stwórz krótki materiał dydaktyczny + 3 zadania + odpowiedzi na temat fotosyntezy.
+"Zawiszenie tk. przykładów wybrane nie różne" w zawiszeniu "Dodatkę z najmuwej różnorodziejami, jest różność tk. przykładów w wybrane rzeczypospolitej" miesiąc jest nie zwój konieczny.
+Jest to nie zrobie włącznie sprawdzamy dydaktyczno-nauki w latach makiej, zawsze zwadną jaki, spójno różność która nie tylko w słowie i w makiej.
+
+Dodatkowano podać informacje o poprawności merytorycznych źródeł badań i zbiorów wydawanej, której żeby dostępuje krótką sieci funkcjonalne, którem dalej i jak spójno polityki wyborów, aktywny
+
+--- Gemini ---
+ Witajcie moi drodzy! Jestem tu, by wspólnie odkrywać fascynujący świat nauki. Dziś zabierzemy się w podróż do wnętrza roślin, aby zrozumieć jeden z najważniejszych procesów na Ziemi – **fotosyntezę**. Przygotujcie się, bo to prawdziwa magia natury!
+
+---
+
+### **Fotosynteza: Jak rośliny tworzą swoje jedzenie i tlen dla nas!**
+
+Czy zastanawialiście się kiedyś, skąd rośliny biorą energię do wzrostu? Przecież nie mają ust, żeby jeść tak jak my! Rośliny są prawdziwymi mistrzami samodzielności – potrafią same wyprodukować swoje jedzenie. Ten niezwykły proces nazywa się **fotosyntezą**.
+
+**Czym jest fotosynteza?**
+Najprościej mówiąc, fotosynteza to proces, w którym rośliny (a także glony i niektóre bakterie) zamieniają energię ze Słońca w swoje własne pożywienie – czyli **cukier**. Przy okazji wytwarzają też coś bardzo ważnego dla nas, zwierząt i ludzi – **tlen**!
+
+**Co jest potrzebne roślinom do fotosyntezy? (Czyli "składniki" z kuchni rośliny)**
+
+1.  **Światło słoneczne:** To główna energia! Roślina "łapie" promienie słoneczne swoimi liśćmi. Możemy sobie wyobrazić słońce jako piecyk w kuchni rośliny.
+2.  **Woda (H₂O):** Roślina pobiera ją z ziemi przez korzenie i transportuje do liści. To jak woda do gotowania.
+3.  **Dwutlenek węgla (CO₂):** To gaz, który jest w powietrzu. My wydychamy dwutlenek węgla, a rośliny go "wciągają" przez malutkie otworki w liściach (tzw. aparaty szparkowe). To jak główny składnik posiłku.
+
+**Gdzie to się dzieje?**
+Głównie w **liściach** roślin! To tam znajdują się maleńkie "fabryki" zwane **chloroplastami**. W chloroplastach jest zielony barwnik – **chlorofil**, który działa jak mała antena i potrafi "łapać" światło słoneczne. To dlatego większość liści jest zielona!
+
+**Co powstaje podczas fotosyntezy? (Czyli "produkty" z kuchni rośliny)**
+
+1.  **Cukier (glukoza):** To jedzenie rośliny! Dzięki niemu roślina rośnie, rozwija się i ma energię do życia. Nadmiar cukru może być magazynowany w postaci skrobi (np. w ziemniakach) lub wykorzystany do budowy innych części rośliny.
+2.  **Tlen (O₂):** To dla rośliny produkt uboczny, jak "odpad" z gotowania. Ale dla nas to skarb! Rośliny uwalniają tlen do powietrza, a my nim oddychamy. Bez tlenu nie byłoby życia na Ziemi!
+
+**Podsumowując:**
+Fotosynteza to niesamowity proces, w którym zielone rośliny, używając energii słonecznej, wody i dwutlenku węgla, produkują własne pożywienie (cukier) i uwalniają życiodajny tlen. To podstawa życia na naszej planecie!
+
+---
+
+### **Zadania dla Ciebie!**
+
+**Zadanie 1:**
+Wymień trzy główne "składniki" (rzeczy), które są absolutnie niezbędne, aby roślina mogła przeprowadzić fotosyntezę.
+
+**Zadanie 2:**
+Co jest głównym "jedzeniem", które roślina wytwarza dla siebie podczas fotosyntezy, i jaki gaz uwalnia do atmosfery, który jest kluczowy dla życia ludzi i zwierząt?
+
+**Zadanie 3:**
+Wyobraź sobie, że masz roślinę doniczkową w ciemnym pokoju, bez dostępu do światła słonecznego. Czy będzie ona w stanie przeprowadzić fotosyntezę? Uzasadnij swoją odpowiedź jednym zdaniem.
+
+---
+
+### **Odpowiedzi do zadań:**
+
+**Odpowiedź 1:**
+Trzy główne składniki to:
+1.  Światło słoneczne (energia)
+2.  Woda
+3.  Dwutlenek węgla
+
+**Odpowiedź 2:**
+Roślina wytwarza dla siebie **cukier (glukozę)**. Gaz, który uwalnia do atmosfery i który jest kluczowy dla życia, to **tlen**.
+
+**Odpowiedź 3:**
+Nie, roślina w ciemnym pokoju nie będzie w stanie przeprowadzić fotosyntezy, ponieważ do tego procesu niezbędne jest światło słoneczne.
+
+Oceń TinyLlama (1-5)
+Poprawność: 1
+Język: 2
+Poziom: 1
+Przydatność: 1
+
+Oceń Phi-2 (1-5)
+Poprawność: 1
+Język: 1
+Poziom: 1
+Przydatność: 1
+
+Oceń Gemini (1-5)
+Poprawność: 5
+Język: 4
+Poziom: 3
+Przydatność: 4
+
+===== PROMPT 4 =====
+Wyjaśnij fotosyntezę prostym językiem z przykładem.
+Both `max_new_tokens` (=300) and `max_length`(=2048) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+⚠ Gemini error (attempt 1): 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+⚠ Gemini error (attempt 2): 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+⚠ Gemini error (attempt 3): 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+--- TinyLlama ---
+ Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Wyjaśnij fotosyntezę prostym językiem z przykładem.
+
+Dbaj o potrzebie wyjaśniania, aby szkoła była łatwa dla ucznia praktycznie.
+
+Dbaj o konstruktywności nauczania.
+
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną. Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o podstawach kultu ustrojowych.
+
+Dbaj o wymagań dla zaznajomienia się z przykładami.
+
+Dbaj o pracy praktycznej.
+
+Dbaj o wspomaganiu kontaktów z wyższymi, wykształconymi uczniami klasie.
+
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną, a z uwagi na potrzebę jaką jesteś w edukacji dla całej społeczności, zajęciem zajmującym czas, pozycja jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+
+--- Phi-2 ---
+ Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Wyjaśnij fotosyntezę prostym językiem z przykładem.
+
+Zażdarowanie
+1. "Zdrowie kasznubszego" - a pomniki obręby dla nauczycielź mojej skóry do czas. W skutecznym borzykach jest tak jak użyciałą kasznubszego, spisającało że nauczyć zamienic z naszym średniarodowym. Proszę naprawować obręby o pojednaniu pierwszej bądzie i jego zamieżenie, jak jak czasowa się żeś działem obrzedania. Dla obry wyboru pomników powtorzyło znaki lub jest wykonany czasowy wskonuje użyciał czestotną własnego języku.
+
+2. "Kasznubszego" o nauczycielach" - użyciało spoznający doświadczonym współkomunikacji
+
+--- Gemini ---
+ ERROR: Gemini not available
+
+Oceń TinyLlama (1-5)
+Poprawność: 1
+Język: 2
+Poziom: 1
+Przydatność: 1
+
+Oceń Phi-2 (1-5)
+Poprawność: 1
+Język: 2
+Poziom: 2
+Przydatność: 1
+
+Oceń Gemini (1-5)
+Poprawność: 0
+Język: 0
+Poziom: 0
+Przydatność: 0
+
+===== PROMPT 5 =====
+Napisz krótkie streszczenie fotosyntezy.
+Both `max_new_tokens` (=300) and `max_length`(=2048) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+⚠ Gemini error (attempt 1): 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+--- TinyLlama ---
+ Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Napisz krótkie streszczenie fotosyntezy.
+
+--- Phi-2 ---
+ Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Napisz krótkie streszczenie fotosyntezy. W głosu każdym kiedy wyliczanie może przedpieciać z oblicze badań, dla którego to samym i największej można przosłoć, przykładowość i współpowiadający nauk, ryzyka i jakościu szkół wiekiu na wprowadzeniu edukacyjnych w wywolucjach ozam. Uczniały podaj zaszczyt kartą nauczycielskiego z podałą czasów podczasów, czyli że mężennie i mierość wysokie należy oczekiwają ten człowieka i chwila rozmieścia i tyle budowlany (obecność). Proszę podaj zaszczyt nauczycyznie zostać z naukowych dostępów pewniewych w zamienie zmieniających jak praw
+
+--- Gemini ---
+ Witajcie! Dziś zajmiemy się jednym z najcudowniejszych procesów na Ziemi, bez którego nie byłoby życia, jakie znamy. Mówimy o **fotosyntezie**!
+
+Wyobraź sobie, że rośliny mają swoje własne, niezwykłe kuchnie, w których przygotowują sobie jedzenie. Ten właśnie proces nazywamy fotosyntezą.
+
+### Fotosynteza w pigułce: Jak rośliny tworzą życie
+
+**Co to jest fotosynteza?**
+To magiczny proces, dzięki któremu **rośliny (a także glony i niektóre bakterie)** potrafią same wytworzyć sobie pożywienie (cukier – glukozę) z prostych składników, używając do tego energii światła słonecznego. Jednocześnie produkują bezcenny dla nas tlen!
+
+**Kto jest "kucharzem" i gdzie mieści się "kuchnia"?**
+Głównym "kucharzem" w roślinach jest **chlorofil** – zielony barwnik, który nadaje liściom ich charakterystyczny kolor. Chlorofil znajduje się w małych "kuchniach" w komórkach roślin, nazywanych **chloroplastami**. To właśnie one są miejscem, gdzie dzieje się cała magia!
+
+**Jakie są "składniki" (substraty) potrzebne do fotosyntezy?**
+Aby uruchomić swoją "kuchnię", roślina potrzebuje trzech głównych rzeczy:
+1.  **Światło słoneczne:** To energia, która napędza cały proces. Roślina "zbiera" ją dzięki chlorofilowi.
+2.  **Woda (H₂O):** Rośliny pobierają ją z ziemi za pomocą korzeni.
+3.  **Dwutlenek węgla (CO₂):** To gaz, który znajduje się w powietrzu. Rośliny wchłaniają go przez malutkie otworki w liściach, zwane aparatami szparkowymi.
+
+**Co powstaje w "kuchni" (produkty fotosyntezy)?**
+Po przetworzeniu składników, rośliny wytwarzają dwa kluczowe produkty:
+1.  **Glukoza (Cukier):** To pożywienie dla rośliny, źródło energii do jej wzrostu, rozwoju i wszystkich procesów życiowych. Jest jak paliwo dla samochodu.
+2.  **Tlen (O₂):** To gaz, który jest dla rośliny produktem ubocznym, ale dla nas – dla ludzi i większości zwierząt – jest absolutnie niezbędny do oddychania i życia!
+
+**Podsumowując w prosty sposób:**
+
+Roślina bierze **światło słoneczne**, **wodę** i **dwutlenek węgla**. Dzięki zielonemu barwnikowi – **chlorofilowi** – w swoich "kuchniach" (chloroplastach) zamienia te składniki w **cukier (pożywienie dla siebie)** i uwalnia do powietrza **tlen (dla nas)**.
+
+Bez fotosyntezy nie byłoby ani roślin, które są podstawą wielu łańcuchów pokarmowych, ani tlenu w atmosferze. To prawdziwy cud natury, który podtrzymuje życie na naszej planecie!
+
+Oceń TinyLlama (1-5)
+Poprawność: 1
+Język: 1
+Poziom: 1
+Przydatność: 1
+
+Oceń Phi-2 (1-5)
+Poprawność: 1
+Język: 2
+Poziom: 1 
+Przydatność: 1
+
+Oceń Gemini (1-5)
+Poprawność: 4
+Język: 4
+Poziom: 3
+Przydatność: 3
