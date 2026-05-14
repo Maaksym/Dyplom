@@ -1,0 +1,18 @@
+PROMPT 14
+Kategoria: Informatyka
+Prompt: Przygotuj 5 pytań testowych na temat podstaw programowania w Pythonie dla ucznia liceum.
+Model: Phi-2
+============================================================
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Przygotuj 5 pytań testowych na temat podstaw programowania w Pythonie dla ucznia liceum. Każdy test to ze wykonujący został się na temat metoda bógowa "List comprehension" wywołanie obliczanego liste w podstawie dziśnionej klasycją Python.
+
+1) Podczas 1 do 5 klikujący rozhodnie:
+    a) żadne przykładowe spójny po pozbytkim liczbach.
+    b) Jeśli suma poza wartości jest liczba, aż dojrzyć wyznacza wskazniej sumy jako liczba jednięciej.
+    c) Jeśli wystawa liczb i liczba mowa, jak najszerwę się liczbę kolejne wystuć.
+    d) Jeśli liczb jest 3, ale gdy przykładowią 3 rozhodnie liczbami, jak używaj jak 2 elementy wynosiło pozbytkim.
+    e) Jeśli liczb jest 0, ale suma poza wartości j

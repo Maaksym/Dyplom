@@ -1,0 +1,23 @@
+PROMPT 10
+Kategoria: Historia
+Prompt: Przygotuj 5 pytań testowych na temat rewolucji francuskiej dla ucznia liceum.
+Model: Phi-2
+============================================================
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Przygotuj 5 pytań testowych na temat rewolucji francuskiej dla ucznia liceum.
+
+1. Znalazione o współczesnej uzupełnieniu czyłości, ksieząca odległości przez wspólcy następniej się używasz, w zawsze zawierającą liceum czas jest zjednoczen.
+
+2. Czy nie wykładnie używają liceum?
+
+3. Czy używasz dziecko liceum?
+
+4. Czy istnieje świadomości poszczególne i gospodarcze?
+
+5. Czy używają szkoła dla odżywistych?
+
+Answers: 1. Oczywiście. 2. Jeżeli są dochyła z następniej się używał. 3. Jeżeli czyli nie jest w nacyjności wspólczesne dziecka. 4. Jeżeli nie jesteś oso

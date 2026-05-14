@@ -1,0 +1,87 @@
+PROMPT 20
+Kategoria: Język angielski
+Prompt: Napisz krótkie streszczenie zasad używania przedimków w języku angielskim dla ucznia liceum.
+Model: Gemini
+============================================================
+Witaj serdecznie! Jestem Twoim nauczycielem i doskonale rozumiem, że przedimki (articles) w języku angielskim to temat, który na początku potrafi sprawić trochę kłopotu. Ale spokojnie! Razem rozjaśnimy to zagadnienie. Celem tego krótkiego przewodnika jest przedstawienie Ci najważniejszych zasad w prosty i przystępny sposób. Gotowi? Zaczynamy!
+
+---
+
+### **Przedimki w Angielskim: Krótki Przewodnik dla Licealisty**
+
+**Czym w ogóle są przedimki?**
+Przedimki to małe słówka, które stawiamy przed rzeczownikami. Ich zadaniem jest wskazanie, czy mówimy o czymś konkretnym i znanym (używamy wtedy **"the"**), czy o czymś ogólnym, nieokreślonym lub wspomnianym po raz pierwszy (używamy wtedy **"a"** lub **"an"**). Czasem przedimka w ogóle nie używamy – to tzw. **przedimek zerowy**.
+
+#### **1. Przedimki nieokreślone: A / AN (jakiś, jakaś, jakieś)**
+
+Używamy ich, gdy mówimy o:
+
+*   **Pojedynczych, policzalnych rzeczownikach, wspomnianych po raz pierwszy lub w ogólnym znaczeniu:**
+    *   *Przykład:* I saw **a** dog in the park. (Widziałem psa w parku – jakiegoś psa, niekonkretnego)
+    *   *Przykład:* She wants **a** new car. (Ona chce nowy samochód – jakikolwiek nowy samochód)
+*   **Zawodach:**
+    *   *Przykład:* My father is **a** doctor. (Mój tata jest lekarzem.)
+    *   *Przykład:* She wants to be **an** engineer. (Ona chce być inżynierem.)
+*   **Ważna zasada dotycząca "a" i "an":**
+    *   Używamy **"a"** przed rzeczownikami, które zaczynają się na **dźwięk spółgłoski**.
+        *   *Przykład:* **a** cat, **a** book, **a** university (tutaj "u" brzmi jak "ju", czyli spółgłoskowo!)
+    *   Używamy **"an"** przed rzeczownikami, które zaczynają się na **dźwięk samogłoski**.
+        *   *Przykład:* **an** apple, **an** elephant, **an** hour (tutaj "h" jest nieme, a słowo zaczyna się na dźwięk samogłoski!)
+
+#### **2. Przedimek określony: THE (ten, ta, to, ci, te)**
+
+Używamy go, gdy mówimy o:
+
+*   **Czymś konkretnym, już znanym lub wcześniej wspomnianym:**
+    *   *Przykład:* I saw a dog in the park. **The** dog was black. (Widziałem psa w parku. *Ten* pies był czarny. – Teraz wiemy, o którego psa chodzi.)
+    *   *Przykład:* Could you pass me **the** salt? (Czy mógłbyś podać mi *tę* sól? – Sól, która jest na stole, czyli konkretna i widoczna dla obu osób.)
+*   **Rzeczach unikalnych, jedynych w swoim rodzaju:**
+    *   *Przykład:* **the** sun, **the** moon, **the** Earth, **the** President (obecny Prezydent)
+*   **Nazwach geograficznych:**
+    *   Rzeki: **the** Amazon River
+    *   Oceany: **the** Pacific Ocean
+    *   Pustynie: **the** Sahara Desert
+    *   Łańcuchy górskie: **the** Alps (ale *nie* przed pojedynczymi szczytami, np. Mount Everest)
+    *   Niektóre kraje: **the** United States, **the** United Kingdom, **the** Netherlands
+*   **Superlatywach (naj-):**
+    *   *Przykład:* He is **the** tallest student in the class. (On jest najwyszym uczniem w klasie.)
+*   **Instrumentach muzycznych:**
+    *   *Przykład:* She plays **the** piano. (Ona gra na pianinie.)
+*   **Gdy odnosimy się do grupy ludzi:**
+    *   *Przykład:* **the** rich (bogaci ludzie), **the** poor (biedni ludzie)
+
+#### **3. Przedimek zerowy (brak przedimka)**
+
+Często nie używamy żadnego przedimka. Dzieje się tak w następujących sytuacjach:
+
+*   **Przed rzeczownikami policzalnymi w liczbie mnogiej oraz rzeczownikami niepoliczalnymi, gdy mówimy o nich w ogólnym znaczeniu:**
+    *   *Przykład:* I like **apples**. (Lubię jabłka w ogóle.)
+    *   *Przykład:* I drink **water**. (Piję wodę w ogóle.)
+    *   *Porównaj:* I like **the** apples in this basket. (Lubię *te konkretne* jabłka w tym koszyku.)
+*   **Przed imionami własnymi (osób, miast, krajów, kontynentów, ulic, jezior, pojedynczych gór):**
+    *   *Przykład:* I live in **Warsaw**, **Poland**. (Mieszkam w Warszawie, Polsce.)
+    *   *Przykład:* **Anna** went to **Europe**. (Anna pojechała do Europy.)
+*   **Przed nazwami języków, przedmiotów szkolnych, sportów, posiłków:**
+    *   *Przykład:* I speak **English**. (Mówię po angielsku.)
+    *   *Przykład:* I study **history**. (Uczę się historii.)
+    *   *Przykład:* I play **football**. (Gram w piłkę nożną.)
+    *   *Przykład:* Let's have **dinner**. (Zjedzmy obiad.)
+*   **W wyrażeniach dotyczących środków transportu (z "by"):**
+    *   *Przykład:* by **car**, by **bus**, by **plane**.
+*   **Przed nazwami instytucji, takich jak "school", "hospital", "church", "university", "prison", kiedy mówimy o ich głównym celu/funkcji, a nie o konkretnym budynku:**
+    *   *Przykład:* My brother goes to **school**. (Mój brat chodzi do szkoły – jako uczeń.)
+    *   *Porównaj:* I went to **the** school to pick up my sister. (Poszedłem do *tej konkretnej* szkoły, żeby odebrać siostrę – jako odwiedzający budynek.)
+
+---
+
+**Podsumowanie i rada od nauczyciela:**
+
+Wiem, że tych zasad jest sporo, ale najważniejsze jest, żeby je **zrozumieć, a nie tylko zapamiętać na pamięć**. Kluczem jest pytanie: "Czy mówię o czymś konkretnym i znanym, czy o czymś ogólnym i nieokreślonym?".
+
+**Najlepsza metoda nauki? Praktyka!**
+*   **Czytaj jak najwięcej po angielsku:** książki, artykuły, strony internetowe. Zwracaj uwagę na to, jak używane są przedimki.
+*   **Ćwicz pisanie:** staraj się świadomie używać przedimków w swoich wypowiedziach pisemnych.
+*   **Mów po angielsku:** im więcej będziesz mówić, tym bardziej naturalne stanie się dla Ciebie użycie przedimków.
+*   **Nie zniechęcaj się błędami!** To zupełnie normalne, że na początku przedimki sprawiają trudność. Każdy uczeń przez to przechodzi. Z czasem, dzięki regularnej ekspozycji na język i ćwiczeniom, poczujesz się z nimi pewniej.
+
+Jestem pewien, że szybko opanujesz tę sztukę! Powodzenia!

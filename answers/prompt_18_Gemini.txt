@@ -1,0 +1,171 @@
+PROMPT 18
+Kategoria: Język angielski
+Prompt: Przygotuj 5 ćwiczeń gramatycznych na temat czasu Past Simple dla ucznia gimnazjum z odpowiedziami.
+Model: Gemini
+============================================================
+Witajcie, drodzy uczniowie!
+
+Dziś zanurkujemy w przeszłość i zajmiemy się bardzo ważnym czasem w języku angielskim – **Past Simple**. To czas, którego używamy, żeby opowiedzieć o wydarzeniach, które wydarzyły się i zakończyły w przeszłości, w konkretnym momencie. Pomyśl o wczorajszym dniu, zeszłym tygodniu, czy o wakacjach dwa lata temu.
+
+Past Simple to podstawa do opowiadania historii, relacjonowania wydarzeń i wspominania. Nie jest trudny, ale wymaga uwagi, zwłaszcza przy czasownikach nieregularnych. Ale spokojnie, poćwiczymy razem!
+
+Pamiętajcie o dwóch kluczowych rzeczach:
+1.  **Czasowniki regularne:** dodajemy końcówkę **-ed** (np. *play* -> *played*, *watch* -> *watched*). Czasem trzeba uważać na pisownię!
+2.  **Czasowniki nieregularne:** zmieniają swoją formę całkowicie (np. *go* -> *went*, *have* -> *had*, *see* -> *saw*). Tych trzeba się nauczyć!
+3.  **Pytania i przeczenia:** najczęściej używamy operatora **did** (np. *I didn't go*, *Did you play...?*).
+
+Gotowi? Zaczynajmy!
+
+---
+
+### Ćwiczenie 1: Czasowniki regularne – Dodaj -ed!
+
+**Instrukcja:** Uzupełnij zdania, wpisując czasowniki w nawiasach w czasie Past Simple. Pamiętaj o końcówce -ed!
+
+*Przykład:* Yesterday, I **(watch)** a great movie. -> Yesterday, I **watched** a great movie.
+
+1.  My brother **(play)** football last Saturday.
+2.  She **(study)** for her test all night.
+3.  They **(visit)** their grandparents last summer.
+4.  He **(stop)** at the shop on his way home.
+5.  We **(enjoy)** the concert very much.
+6.  The baby **(cry)** loudly.
+7.  I **(travel)** to Spain two years ago.
+8.  The dog **(bark)** at the postman.
+
+---
+
+### Ćwiczenie 2: Czasowniki nieregularne – Zmień formę!
+
+**Instrukcja:** Uzupełnij zdania, używając poprawnej formy czasu Past Simple czasowników nieregularnych z nawiasów. Bądź czujny/a, te czasowniki zmieniają swoją formę!
+
+*Przykład:* I **(go)** to the cinema yesterday. -> I **went** to the cinema yesterday.
+
+1.  She **(eat)** an apple for breakfast.
+2.  They **(see)** a famous actor last week.
+3.  We **(have)** a wonderful time at the party.
+4.  He **(write)** a letter to his friend.
+5.  My mum **(make)** a delicious cake.
+6.  You **(drink)** too much coffee.
+7.  I **(sleep)** for ten hours last night.
+8.  My dad **(read)** an interesting book.
+
+---
+
+### Ćwiczenie 3: Przeczenia i pytania (Did/Didn't)
+
+**Instrukcja:** Teraz przekształć podane zdania twierdzące. Najpierw utwórz zdanie przeczące (negative), a następnie pytanie (question). Pamiętaj, że po "did" i "didn't" czasownik wraca do formy podstawowej!
+
+*Przykład:*
+*   I played tennis.
+*   Negative: I **didn't play** tennis.
+*   Question: **Did** I **play** tennis?
+
+1.  She liked the present.
+    *   Negative:
+    *   Question:
+2.  They went to the park.
+    *   Negative:
+    *   Question:
+3.  We watched TV.
+    *   Negative:
+    *   Question:
+4.  He bought a new car.
+    *   Negative:
+    *   Question:
+5.  You studied English.
+    *   Negative:
+    *   Question:
+
+---
+
+### Ćwiczenie 4: Czasownik "to be" w Past Simple (Was/Were)
+
+**Instrukcja:** Wstaw "was", "were", "wasn't" lub "weren't" w odpowiednie miejsca w zdaniach. Pamiętaj, że "to be" jest wyjątkowy i nie używamy z nim "did"!
+
+*Przykład:* I **(be)** happy yesterday. -> I **was** happy yesterday.
+
+1.  They **(be)** at home last night.
+2.  She **(be, not)** sad, she **(be)** angry.
+3.  Where **(be)** you last weekend?
+4.  We **(be, not)** tired after the long walk.
+5.  The weather **(be)** cold yesterday.
+6.  My parents **(be)** on holiday last month.
+7.  **(be)** it a good film?
+8.  The children **(be)** very noisy during the party.
+
+---
+
+### Ćwiczenie 5: Mieszanka – Użyj Past Simple w tekście
+
+**Instrukcja:** Uzupełnij tekst, wpisując czasowniki z nawiasów w czasie Past Simple. Użyj zarówno czasowników regularnych, jak i nieregularnych.
+
+Last Saturday, my family and I **(go)** (1) to the mountains. It **(be)** (2) a beautiful day. We **(pack)** (3) our lunch and **(leave)** (4) early in the morning. On our way, we **(see)** (5) a deer in the forest. It **(be)** (6) amazing!
+
+We **(walk)** (7) for several hours and **(reach)** (8) the top of the mountain. The view **(be)** (9) fantastic. We **(eat)** (10) our sandwiches there. We **(not stay)** (11) too long because it **(get)** (12) cold. We **(return)** (13) home in the evening, feeling tired but happy. I **(not forget)** (14) that trip!
+
+---
+---
+
+### Odpowiedzi
+
+#### Ćwiczenie 1: Czasowniki regularne – Dodaj -ed!
+
+1.  My brother **played** football last Saturday.
+2.  She **studied** for her test all night.
+3.  They **visited** their grandparents last summer.
+4.  He **stopped** at the shop on his way home.
+5.  We **enjoyed** the concert very much.
+6.  The baby **cried** loudly.
+7.  I **travelled** (lub traveled - amerykański angielski) to Spain two years ago.
+8.  The dog **barked** at the postman.
+
+#### Ćwiczenie 2: Czasowniki nieregularne – Zmień formę!
+
+1.  She **ate** an apple for breakfast.
+2.  They **saw** a famous actor last week.
+3.  We **had** a wonderful time at the party.
+4.  He **wrote** a letter to his friend.
+5.  My mum **made** a delicious cake.
+6.  You **drank** too much coffee.
+7.  I **slept** for ten hours last night.
+8.  My dad **read** an interesting book.
+
+#### Ćwiczenie 3: Przeczenia i pytania (Did/Didn't)
+
+1.  She liked the present.
+    *   Negative: She **didn't like** the present.
+    *   Question: **Did** she **like** the present?
+2.  They went to the park.
+    *   Negative: They **didn't go** to the park.
+    *   Question: **Did** they **go** to the park?
+3.  We watched TV.
+    *   Negative: We **didn't watch** TV.
+    *   Question: **Did** we **watch** TV?
+4.  He bought a new car.
+    *   Negative: He **didn't buy** a new car.
+    *   Question: **Did** he **buy** a new car?
+5.  You studied English.
+    *   Negative: You **didn't study** English.
+    *   Question: **Did** you **study** English?
+
+#### Ćwiczenie 4: Czasownik "to be" w Past Simple (Was/Were)
+
+1.  They **were** at home last night.
+2.  She **wasn't** sad, she **was** angry.
+3.  Where **were** you last weekend?
+4.  We **weren't** tired after the long walk.
+5.  The weather **was** cold yesterday.
+6.  My parents **were** on holiday last month.
+7.  **Was** it a good film?
+8.  The children **were** very noisy during the party.
+
+#### Ćwiczenie 5: Mieszanka – Użyj Past Simple w tekście
+
+Last Saturday, my family and I **went** (1) to the mountains. It **was** (2) a beautiful day. We **packed** (3) our lunch and **left** (4) early in the morning. On our way, we **saw** (5) a deer in the forest. It **was** (6) amazing!
+
+We **walked** (7) for several hours and **reached** (8) the top of the mountain. The view **was** (9) fantastic. We **ate** (10) our sandwiches there. We **didn't stay** (11) too long because it **got** (12) cold. We **returned** (13) home in the evening, feeling tired but happy. I **won't forget** (14) that trip! (Tutaj context sugeruje przyszłość, ale jeśli koniecznie Past Simple, to "didn't forget" też może być, choć brzmi mniej naturalnie jako zakończenie historii.)
+
+---
+
+Mam nadzieję, że te ćwiczenia pomogły Ci utrwalić zasady używania czasu Past Simple! Pamiętaj, że praktyka czyni mistrza – im więcej będziesz słuchać, czytać i używać angielskiego, tym szybciej Past Simple stanie się dla Ciebie naturalny. Powodzenia w dalszej nauce!

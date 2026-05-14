@@ -1,0 +1,58 @@
+PROMPT 12
+Kategoria: Historia
+Prompt: Napisz streszczenie najważniejszych wydarzeń związanych z powstaniem Polski w 1918 roku.
+Model: Gemini
+============================================================
+Witajcie!
+
+Wyobraźcie sobie, że kraj, w którym mieszkacie, nagle znika z mapy na ponad sto lat. Nie ma własnego rządu, wojska, a jego ziemie są podzielone między trzech potężnych sąsiadów. Taką właśnie sytuację przeżywała Polska od końca XVIII wieku. Przez 123 lata Polacy marzyli o odzyskaniu niepodległości. Rok 1918 okazał się rokiem, w którym to marzenie się spełniło!
+
+Oto streszczenie najważniejszych wydarzeń, które doprowadziły do odrodzenia Polski:
+
+---
+
+### **Odrodzenie Polski w 1918 roku – Cud Nad Wisłą i Złożona Układanka**
+
+**1. Tło Historyczne: Polska Pod Zaborami**
+Przez ponad wiek (od 1795 roku) Polski nie było na mapach Europy. Jej ziemie były podzielone między trzy mocarstwa: Rosję, Prusy (później Niemcy) i Austrię. Wszelkie próby odzyskania niepodległości, takie jak powstania narodowe, były krwawo tłumione.
+
+**2. Pierwsza Wojna Światowa – Szansa, Której Nikt Nie Przewidział**
+Pierwsza wojna światowa (1914-1918) okazała się dla Polski prawdziwym "cudem historycznym". Dlaczego? Ponieważ trzy państwa, które rozebrały Polskę, znalazły się po przeciwnych stronach konfliktu:
+*   Rosja walczyła przeciwko Niemcom i Austro-Węgrom.
+*   Wojna na wyniszczenie osłabiła wszystkie strony, a w końcu doprowadziła do upadku tych mocarstw.
+
+**3. Upadek Zaborców:**
+*   **Rosja:** Już w 1917 roku w Rosji wybuchła rewolucja (najpierw lutowa, potem październikowa), która doprowadziła do obalenia cara i pogrążyła kraj w chaosie. Rosja wycofała się z wojny.
+*   **Austria i Niemcy:** Pod koniec 1918 roku ich armie były wyczerpane, gospodarki zrujnowane, a społeczeństwa zmęczone wojną. Upadły monarchie w obu tych państwach.
+
+**4. Czynniki Międzynarodowe – Głos Ameryki**
+Ważną rolę odegrał prezydent Stanów Zjednoczonych, **Thomas Woodrow Wilson**. W styczniu 1918 roku przedstawił swój program pokojowy, tzw. "14 punktów Wilsona". Punkt 13 wyraźnie mówił o konieczności utworzenia niepodległego państwa polskiego z dostępem do morza. Było to ogromne wsparcie polityczne dla sprawy polskiej na arenie międzynarodowej.
+
+**5. Polskie Ośrodki Władzy Przed 11 Listopada:**
+Gdy wojna dobiegała końca, w różnych częściach dawnej Polski zaczęły powstawać niezależne polskie ośrodki władzy:
+*   **Rada Regencyjna** w Warszawie (utworzona przez Niemców i Austriaków) próbowała tworzyć zalążki polskiej administracji.
+*   **Polska Komisja Likwidacyjna** w Krakowie (teren zaboru austriackiego).
+*   **Tymczasowy Rząd Ludowej Republiki Polskiej** w Lublinie, pod przywództwem Ignacego Daszyńskiego (socjaliści).
+
+**6. Powrót Józefa Piłsudskiego – Kluczowy Moment**
+Najważniejszą postacią, która zjednoczyła te dążenia, był **Józef Piłsudski**. Legendarny dowódca Legionów Polskich, został w 1917 roku uwięziony przez Niemców w twierdzy w Magdeburgu.
+*   **10 listopada 1918 roku:** Józef Piłsudski, zwolniony z więzienia przez osłabione Niemcy, pociągiem przybywa do Warszawy. Jego powrót wywołał ogromny entuzjazm.
+*   **11 listopada 1918 roku:** To data kluczowa!
+    *   Rada Regencyjna przekazała Piłsudskiemu władzę wojskową i naczelne dowództwo nad tworzącym się Wojskiem Polskim.
+    *   W tym samym dniu w Compiègne pod Paryżem Niemcy podpisały zawieszenie broni, kończąc I wojnę światową.
+
+**7. Kształtowanie Władzy i Zjednoczenie:**
+*   **14 listopada 1918 roku:** Rada Regencyjna rozwiązała się, przekazując Piłsudskiemu pełnię władzy cywilnej i wojskowej. Piłsudski został **Naczelnikiem Państwa**.
+*   Wkrótce potem Piłsudski powołał rząd, którego premierem został Jędrzej Moraczewski.
+*   Rozpoczął się trudny proces scalania trzech różnych części kraju, które przez ponad wiek rozwijały się pod innymi zaborami (różne prawa, waluty, systemy edukacji, a nawet szerokość torów kolejowych!).
+
+**8. Wyzwania Po Odzyskaniu Niepodległości:**
+Odrodzona Polska musiała od razu zmierzyć się z ogromnymi wyzwaniami:
+*   Ujednolicenie administracji i prawa.
+*   Budowa armii zdolnej do obrony granic.
+*   Ustalenie i obrona granic (co doprowadziło do kolejnych walk, m.in. powstania wielkopolskiego, powstań śląskich i wojny polsko-bolszewickiej).
+*   Odbudowa kraju zniszczonego wojną.
+
+---
+
+**Podsumowując:** Odrodzenie Polski w 1918 roku było efektem zbiegu wielu okoliczności: upadku państw zaborczych po I wojnie światowej, wsparcia międzynarodowego oraz determinacji i jedności Polaków, którzy potrafili wykorzystać tę historyczną szansę pod przywództwem Józefa Piłsudskiego. 11 listopada stał się symbolem narodowego triumfu i początkiem nowej epoki dla Polski.

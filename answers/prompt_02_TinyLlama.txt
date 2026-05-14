@@ -1,0 +1,25 @@
+PROMPT 2
+Kategoria: Biologia
+Prompt: Przygotuj zestaw 5 pytań testowych z biologii na temat podziału komórki dla ucznia liceum.
+Model: TinyLlama
+============================================================
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Przygotuj zestaw 5 pytań testowych z biologii na temat podziału komórki dla ucznia liceum.
+W tym zakresie naświetl najlepsze ciekawostki na temat krytyki dysekcyjnej jako jednostki naukowej.
+
+Ogólny opis zajęć:
+
+Biorąc pod uwagę podstawowe zasady chemii oraz rozróżnianie pozycji i symbruktowania elektronów w atomach i molekularnych, nauczyć się opisywać podstawowe czynniki zmieniających równość elektronową międzyatomową w niektórych cząsteczkach. Pisnącie jednostek:
+
+A. Stałek pozycyjnego: 
+- Kryszteryna: a, ak, ka, a, b
+- Iodynę: I, a1, a2, I, b1, b2
+- Florkówkę iidkowa: i3, a4, ac1, a2, i3, c1, a4, i2
+- Acetałki: ac, a-2, a2-1, i2
+
+B. Ciała zbudowane (1,2,3) i (1,2,3,4) pozycyjne:
+- Związek H2O: H, OH, a

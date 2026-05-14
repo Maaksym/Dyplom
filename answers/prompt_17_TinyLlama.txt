@@ -1,0 +1,22 @@
+PROMPT 17
+Kategoria: Język angielski
+Prompt: Wyjaśnij różnicę między czasem Present Simple a Present Continuous dla ucznia szkoły podstawowej.
+Model: TinyLlama
+============================================================
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Wyjaśnij różnicę między czasem Present Simple a Present Continuous dla ucznia szkoły podstawowej.
+
+Wymagane lub przydatne:
+
+- wprowadzenie zasad wiedzy o wymiłowaniu (podstaw)
+- umiejętność rozumowania pragmatycznego przez ucznia szkoły podstawowej, na przykład: którzy, jak dzisiaj posługują się telefonami to telewizjowaniśmy!
+- umiejętność opisywania czasu i miejsca, tj. dni i dniami, godzin, kolejnych z dniem.
+- wypowiedź przykładowa dla ucznia szkoły podstawowej i wskazówka z dodatkiem materiału naukowego.
+
+Codzienne rozprawy:
+Zasady wiedzy o wymiarze
+Szkoła podstawowa

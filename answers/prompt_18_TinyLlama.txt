@@ -1,0 +1,19 @@
+PROMPT 18
+Kategoria: Język angielski
+Prompt: Przygotuj 5 ćwiczeń gramatycznych na temat czasu Past Simple dla ucznia gimnazjum z odpowiedziami.
+Model: TinyLlama
+============================================================
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Przygotuj 5 ćwiczeń gramatycznych na temat czasu Past Simple dla ucznia gimnazjum z odpowiedziami.
+
+Dbają oni o szczegółowość języka, prawidłowe formy, porozumiewalność w przyswajaniu się do przekształceni. Po ocenie opowiedzieli, co dodatkowo ich nauczyciel podjęł do nauczania.
+
+Pobierz zasady dla 5 różnych poziomów ucznia w przyswajaniu się do przekształceń dotyczących czasu w ciągu od 15 minut (P1 – 3 Minute and 15 Seconds, P2 – 5 Minutes and a Half Minutes, P3 – 10 Minutes).
+
+Na podstawie tych zasad powierz dowolny z naszych trzech ćwiartek, używając poprakuńcza logiki (czyli "stosowane poprawne czynniki"), którym przysiągują we wykonaniu się poziomu nauczania zgodnego z oczekiwaniami w ocenie kładącej nacisk na szczególną wiedzę (zabezpieczającą się jednocześnie w szczególnej wiedzę).
+
+Podręcznik: Praca z gramatyką słowa past

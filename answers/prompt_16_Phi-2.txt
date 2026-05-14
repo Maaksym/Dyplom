@@ -1,0 +1,22 @@
+PROMPT 16
+Kategoria: Informatyka
+Prompt: Napisz krótkie streszczenie na temat sieci komputerowych i internetu dla ucznia szkoły średniej.
+Model: Phi-2
+============================================================
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Napisz krótkie streszczenie na temat sieci komputerowych i internetu dla ucznia szkoły średniej.
+
+Bijanie znajduję jest powrot do przeprowadzenia, pomóc uzuwijcie związane w wyrazach obozu, powyrażaj przygotowania złości (nauczyciel) o sieci komputerowych i internetu.
+
+Przypadzku, dział, rodziny i sopranowaniowanie wielobych dzienniki z zabicie. Do dokumentacji oczekujemy tylko liczbę wojek i innej gdy dzięki, że ta co jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktycznym.
+
+Przeprowadzenie na temat sieci komputerowych i internetu dla ochrony komputerowo-internetowa to wybranych i następstwach kredytowych (kredyt powszechnej, gospodarcze o rynku, innych).
+"""
+
+import re
+from collections import defaultdict
+from

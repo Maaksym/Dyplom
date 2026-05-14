@@ -1,0 +1,98 @@
+PROMPT 6
+Kategoria: Matematyka
+Prompt: Przygotuj 5 zadań z matematyki na temat procentów dla ucznia gimnazjum z odpowiedziami.
+Model: Gemini
+============================================================
+Witaj! Cieszę się, że mogę pomóc Ci w nauce procentów. To bardzo przydatny temat, który spotkasz nie tylko na lekcjach matematyki, ale także w życiu codziennym – na zakupach, w banku czy czytając wiadomości.
+
+Pamiętaj, że procent to po prostu inny sposób zapisania ułamka, gdzie "100%" oznacza całość. Jeśli zrozumiesz tę zasadę, wszystko stanie się prostsze!
+
+Przygotowałem dla Ciebie 5 zadań, które pomogą Ci przećwiczyć różne typy problemów z procentami. Postaraj się je rozwiązać samodzielnie, a potem sprawdź odpowiedzi i moje szczegółowe wyjaśnienia. Powodzenia!
+
+---
+
+### **Zadania z matematyki: Procenty**
+
+**Zadanie 1: Obliczanie procentu danej liczby**
+W klasie jest 28 uczniów. 25% z nich lubi pizzę. Ilu uczniów z tej klasy lubi pizzę?
+
+**Zadanie 2: Obliczanie, jakim procentem jednej liczby jest druga**
+W sadzie rośnie 40 drzew. 10 z nich to jabłonie. Jaki procent wszystkich drzew stanowią jabłonie?
+
+**Zadanie 3: Obliczanie liczby, gdy dany jest jej procent**
+Pan Jan kupił nowy telewizor na raty. Pierwsza wpłata wyniosła 300 zł, co stanowi 20% ceny całego telewizora. Ile kosztuje cały telewizor?
+
+**Zadanie 4: Zastosowanie procentów w kontekście zniżek**
+Kurtka kosztowała 240 zł. Przed sezonem została przeceniona o 15%. Ile kosztuje kurtka po obniżce?
+
+**Zadanie 5: Procenty w problemach dwuetapowych**
+Rolnik zebrał 500 kg ziemniaków. 10% z nich sprzedał od razu. Z pozostałych ziemniaków 20% przeznaczył na sadzenie w przyszłym roku. Ile kilogramów ziemniaków rolnik przeznaczył na sadzenie?
+
+---
+
+### **ODPOWIEDZI Z SZCZEGÓŁOWYM ROZWIĄZANIEM**
+
+**Zadanie 1: Obliczanie procentu danej liczby**
+
+*   **Pytanie:** W klasie jest 28 uczniów. 25% z nich lubi pizzę. Ilu uczniów z tej klasy lubi pizzę?
+*   **Rozwiązanie:**
+    *   Aby obliczyć 25% z liczby, możemy zamienić procent na ułamek. 25% to to samo co $\frac{25}{100}$, czyli $\frac{1}{4}$.
+    *   Teraz wystarczy obliczyć $\frac{1}{4}$ z 28 uczniów.
+    *   Liczba uczniów lubiących pizzę = $28 \times \frac{1}{4} = \frac{28}{4} = 7$
+*   **Odpowiedź:** 7 uczniów lubi pizzę.
+
+**Zadanie 2: Obliczanie, jakim procentem jednej liczby jest druga**
+
+*   **Pytanie:** W sadzie rośnie 40 drzew. 10 z nich to jabłonie. Jaki procent wszystkich drzew stanowią jabłonie?
+*   **Rozwiązanie:**
+    *   Chcemy dowiedzieć się, jaką częścią wszystkich drzew są jabłonie. Możemy to zapisać jako ułamek: $\frac{\text{liczba jabłoni}}{\text{liczba wszystkich drzew}} = \frac{10}{40}$.
+    *   Ułamek $\frac{10}{40}$ można uprościć do $\frac{1}{4}$.
+    *   Aby zamienić ułamek na procent, mnożymy go przez 100%.
+    *   $\frac{1}{4} \times 100\% = 25\%$
+*   **Odpowiedź:** Jabłonie stanowią 25% wszystkich drzew w sadzie.
+
+**Zadanie 3: Obliczanie liczby, gdy dany jest jej procent**
+
+*   **Pytanie:** Pan Jan kupił nowy telewizor na raty. Pierwsza wpłata wyniosła 300 zł, co stanowi 20% ceny całego telewizora. Ile kosztuje cały telewizor?
+*   **Rozwiązanie:**
+    *   Wiemy, że 20% ceny telewizora to 300 zł.
+    *   Jeśli 20% to 300 zł, to możemy obliczyć, ile wynosi 1% ceny. Wystarczy podzielić 300 zł przez 20.
+    *   $1\% = \frac{300 \text{ zł}}{20} = 15 \text{ zł}$
+    *   Cała cena telewizora to 100%. Aby ją obliczyć, mnożymy wartość 1% przez 100.
+    *   Cena telewizora = $15 \text{ zł} \times 100 = 1500 \text{ zł}$
+*   **Odpowiedź:** Cały telewizor kosztuje 1500 zł.
+
+**Zadanie 4: Zastosowanie procentów w kontekście zniżek**
+
+*   **Pytanie:** Kurtka kosztowała 240 zł. Przed sezonem została przeceniona o 15%. Ile kosztuje kurtka po obniżce?
+*   **Rozwiązanie:**
+    *   **Sposób 1: Obliczamy kwotę obniżki, a potem odejmujemy.**
+        *   Obliczamy 15% z 240 zł.
+        *   $15\% = \frac{15}{100}$
+        *   $15\% \text{ z } 240 \text{ zł} = \frac{15}{100} \times 240 = \frac{15 \times 24}{10} = \frac{360}{10} = 36 \text{ zł}$
+        *   Obniżka wynosi 36 zł.
+        *   Nowa cena = cena początkowa - obniżka = $240 \text{ zł} - 36 \text{ zł} = 204 \text{ zł}$
+    *   **Sposób 2: Obliczamy od razu nową cenę.**
+        *   Jeśli cena została obniżona o 15%, to znaczy, że płacimy 100% - 15% = 85% pierwotnej ceny.
+        *   Obliczamy 85% z 240 zł.
+        *   $85\% = \frac{85}{100}$
+        *   $85\% \text{ z } 240 \text{ zł} = \frac{85}{100} \times 240 = \frac{85 \times 24}{10} = \frac{2040}{10} = 204 \text{ zł}$
+*   **Odpowiedź:** Kurtka po obniżce kosztuje 204 zł.
+
+**Zadanie 5: Procenty w problemach dwuetapowych**
+
+*   **Pytanie:** Rolnik zebrał 500 kg ziemniaków. 10% z nich sprzedał od razu. Z pozostałych ziemniaków 20% przeznaczył na sadzenie w przyszłym roku. Ile kilogramów ziemniaków rolnik przeznaczył na sadzenie?
+*   **Rozwiązanie:**
+    *   **Etap 1: Ile ziemniaków rolnik sprzedał od razu i ile mu zostało?**
+        *   Rolnik sprzedał 10% z 500 kg.
+        *   $10\% \text{ z } 500 \text{ kg} = \frac{10}{100} \times 500 = \frac{1}{10} \times 500 = 50 \text{ kg}$
+        *   Rolnik sprzedał 50 kg ziemniaków.
+        *   Pozostałe ziemniaki = $500 \text{ kg} - 50 \text{ kg} = 450 \text{ kg}$
+    *   **Etap 2: Ile ziemniaków rolnik przeznaczył na sadzenie?**
+        *   Z pozostałych (czyli z 450 kg) 20% przeznaczył na sadzenie.
+        *   $20\% \text{ z } 450 \text{ kg} = \frac{20}{100} \times 450 = \frac{1}{5} \times 450 = 90 \text{ kg}$
+*   **Odpowiedź:** Rolnik przeznaczył 90 kg ziemniaków na sadzenie.
+
+---
+
+Mam nadzieję, że te zadania były dla Ciebie jasne i pomogły Ci lepiej zrozumieć procenty. Jeśli masz jakieś pytania lub coś jest dla Ciebie niejasne, śmiało pytaj! Ćwiczenia czynią mistrza!

@@ -1,0 +1,6 @@
+PROMPT 19
+Kategoria: Język angielski
+Prompt: Stwórz materiał dydaktyczny na temat słownictwa związanego z pogodą z ćwiczeniami i odpowiedziami.
+Model: Gemini
+============================================================
+ERROR: Gemini not available

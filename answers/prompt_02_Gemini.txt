@@ -1,0 +1,59 @@
+PROMPT 2
+Kategoria: Biologia
+Prompt: Przygotuj zestaw 5 pytań testowych z biologii na temat podziału komórki dla ucznia liceum.
+Model: Gemini
+============================================================
+Wspaniale! Jako doświadczony nauczyciel, z przyjemnością przygotuję zestaw 5 pytań testowych z biologii na temat podziału komórki, dostosowany do poziomu ucznia liceum. Postaram się, aby pytania były jasne, merytorycznie poprawne i sprawdzały kluczowe zagadnienia.
+
+---
+
+**Test Wiedzy: Podział Komórki**
+
+**Instrukcja dla ucznia:** Przeczytaj uważnie każde pytanie i wybierz jedną, najlepszą odpowiedź spośród podanych opcji (A, B, C, D).
+
+---
+
+**Pytanie 1.**
+Jaki jest główny cel i efekt podziału mitotycznego (mitozy) w organizmie człowieka?
+A. Tworzenie komórek rozrodczych (gamet) o zredukowanej liczbie chromosomów.
+B. Wzrost, rozwój i regeneracja tkanek, prowadząca do powstania dwóch identycznych komórek potomnych.
+C. Wytworzenie czterech komórek potomnych, z których każda ma unikalny zestaw genów.
+D. Zmniejszenie liczby chromosomów o połowę, co jest kluczowe dla zapłodnienia.
+
+**Pytanie 2.**
+Co jest charakterystyczne dla podziału mejotycznego (mejozy)?
+A. Prowadzi do powstania dwóch komórek potomnych identycznych z komórką macierzystą.
+B. Odbywa się w komórkach somatycznych i służy głównie wzrostowi organizmu.
+C. Umożliwia tworzenie gamet (komórek rozrodczych) i zmienności genetycznej poprzez proces crossing-over.
+D. Zachodzi tylko raz w życiu organizmu, np. w momencie zapłodnienia.
+
+**Pytanie 3.**
+W której fazie mejozy zachodzi proces crossing-over, prowadzący do wymiany fragmentów chromatyd między chromosomami homologicznymi?
+A. Metafaza I
+B. Anafaza II
+C. Profaza I
+D. Telofaza II
+
+**Pytanie 4.**
+Komórka macierzysta człowieka posiada 46 chromosomów (oznaczone jako 2n). Ile chromosomów będzie zawierać każda komórka potomna po zakończeniu mejozy?
+A. 46 chromosomów
+B. 23 chromosomy
+C. 92 chromosomy
+D. Liczba chromosomów może być różna w zależności od komórki.
+
+**Pytanie 5.**
+Przed właściwym podziałem komórki (mitoza lub mejoza), komórka przechodzi przez fazę interfazy. Co jest kluczowym wydarzeniem w fazie S interfazy?
+A. Intensywny wzrost komórki i synteza białek niezbędnych do podziału.
+B. Replikacja (powielenie) materiału genetycznego (DNA).
+C. Podział cytoplazmy i tworzenie dwóch oddzielnych komórek.
+D. Rozpad otoczki jądrowej i kondensacja chromosomów.
+
+---
+
+**Klucz odpowiedzi:**
+
+1.  **B** (Mitoza odpowiada za wzrost, rozwój, regenerację tkanek i prowadzi do powstania dwóch genetycznie identycznych komórek potomnych o tej samej liczbie chromosomów co komórka macierzysta.)
+2.  **C** (Mejoza to podział redukcyjny, który tworzy gamety z połową liczby chromosomów, a proces crossing-over w profazie I zwiększa zmienność genetyczną.)
+3.  **C** (Crossing-over jest kluczowym wydarzeniem profazy I mejozy, gdzie chromosomy homologiczne wymieniają się fragmentami DNA.)
+4.  **B** (Mejoza to podział redukcyjny, który zmniejsza liczbę chromosomów o połowę. Z komórki 2n=46 powstają gamety n=23.)
+5.  **B** (Faza S (syntezy) interfazy to etap, w którym następuje replikacja DNA, czyli podwojenie materiału genetycznego, aby każda z komórek potomnych otrzymała pełen zestaw chromosomów.)

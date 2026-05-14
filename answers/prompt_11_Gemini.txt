@@ -1,0 +1,98 @@
+PROMPT 11
+Kategoria: Historia
+Prompt: Stwórz krótki materiał dydaktyczny na temat II wojny światowej z zadaniami i odpowiedziami.
+Model: Gemini
+============================================================
+Witajcie! Jestem tu, żeby pomóc Wam zrozumieć jedno z najważniejszych wydarzeń w historii ludzkości – II wojnę światową. Nie martwcie się, opowiem o tym w prosty i zrozumiały sposób. Gotowi? Zaczynamy!
+
+---
+
+## II Wojna Światowa – Krótki Przewodnik
+
+Wyobraź sobie największą i najstraszniejszą wojnę w historii ludzkości. Trwała sześć długich lat, pochłonęła miliony istnień i zmieniła świat na zawsze. To właśnie była **II wojna światowa**.
+
+### 1. Co to było i kiedy?
+
+*   **Co?** Globalny konflikt zbrojny, czyli wojna, w którą zaangażowana była większość państw świata.
+*   **Kiedy?** Od **1 września 1939 roku** do **2 września 1945 roku**.
+
+### 2. Kto z kim walczył? – Główne strony konfliktu
+
+Możemy podzielić państwa na dwie główne strony:
+
+*   **Państwa Osi (Agresorzy):** Przede wszystkim **Niemcy** (rządzone przez Adolfa Hitlera), **Włochy** i **Japonia**. Chciały one powiększyć swoje terytoria i dominować nad innymi.
+*   **Alianci (Broniący się):** Na początku **Wielka Brytania** i **Francja**, później dołączyły do nich m.in. **Związek Radziecki** (po ataku Niemiec na ZSRR) oraz **Stany Zjednoczone** (po ataku Japonii na Pearl Harbor). W skład Aliantów wchodziły także wojska polskie i wielu innych narodów.
+
+### 3. Dlaczego wybuchła? – Najważniejsze przyczyny
+
+Główną przyczyną była agresywna polityka **Niemiec**, rządzonych przez Adolfa Hitlera i partię nazistowską.
+
+*   **Chęć dominacji:** Niemcy chciały zdobyć jak najwięcej ziemi i podporządkować sobie inne narody.
+*   **Rewanżyzm:** Niemcy czuły się pokrzywdzone po I wojnie światowej (pamiętacie? Przegrały i musiały płacić odszkodowania). Hitler obiecywał "przywrócić Niemcom wielkość".
+*   **Ideologia nazistowska:** Naziści wierzyli w wyższość rasy aryjskiej i nienawidzili innych narodów, zwłaszcza Żydów.
+
+**Początek wojny:** 1 września 1939 roku Niemcy bez wypowiedzenia wojny zaatakowały **Polskę**. To był sygnał dla Wielkiej Brytanii i Francji, że trzeba coś zrobić, więc wypowiedziały Niemcom wojnę.
+
+### 4. Jak przebiegała wojna? – Kluczowe momenty
+
+Wojna była bardzo dynamiczna i toczyła się na wielu frontach. Oto kilka najważniejszych wydarzeń:
+
+*   **1939-1941: Podboje Niemiec:** Niemcy szybko opanowały Polskę, Danię, Norwegię, Francję i wiele innych krajów europejskich. Stosowali tzw. "Blitzkrieg" (wojnę błyskawiczną) – szybkie ataki czołgów i samolotów.
+*   **Bitwa o Anglię (1940):** Niemcy próbowali podbić Wielką Brytanię z powietrza, ale dzielni brytyjscy piloci (wśród nich Polacy!) obronili swój kraj.
+*   **Atak na Związek Radziecki (1941):** Niemcy zaatakowały ZSRR, otwierając ogromny front wschodni. To była długa i krwawa wojna.
+*   **Atak na Pearl Harbor (1941):** Japonia niespodziewanie zaatakowała bazę morską USA na Hawajach. To sprawiło, że **Stany Zjednoczone** przystąpiły do wojny po stronie Aliantów. Wojna stała się naprawdę globalna!
+*   **Bitwa pod Stalingradem (1942-1943):** Jedna z najkrwawszych bitew. Związek Radziecki zatrzymał i pokonał Niemców, co było ogromnym **punktem zwrotnym** na froncie wschodnim.
+*   **Lądowanie w Normandii (D-Day, 1944):** Alianci (głównie Amerykanie, Brytyjczycy, Kanadyjczycy) otworzyli nowy front w Europie Zachodniej, lądując we Francji. Rozpoczęli wyzwalanie Europy spod okupacji niemieckiej.
+*   **Holokaust (Zagłada Żydów):** To najtragiczniejsza karta wojny. Niemcy systematycznie i planowo mordowali miliony Żydów, Romów i innych ludzi w obozach zagłady, takich jak Auschwitz-Birkenau. To była straszliwa zbrodnia przeciwko ludzkości.
+*   **Koniec wojny w Europie (maj 1945):** Alianci ze Wschodu (ZSRR) i Zachodu (USA, Wielka Brytania) otoczyli Niemcy. Hitler popełnił samobójstwo, a Niemcy skapitulowały 8 maja 1945 roku.
+*   **Koniec wojny na Pacyfiku (sierpień/wrzesień 1945):** Japonia, mimo klęski Niemiec, nie chciała się poddać. Aby przyspieszyć koniec wojny i uratować życie milionów żołnierzy, Stany Zjednoczone użyły dwóch **bomb atomowych** na japońskie miasta Hiroszima i Nagasaki. Japonia skapitulowała 2 września 1945 roku, co oficjalnie zakończyło II wojnę światową.
+
+### 5. Jakie były skutki wojny?
+
+Skutki II wojny światowej były ogromne i odczuwalne przez dziesięciolecia:
+
+*   **Miliony ofiar:** Szacuje się, że zginęło od 50 do 80 milionów ludzi, w tym wielu cywilów.
+*   **Zniszczenia:** Wiele miast (np. Warszawa, Londyn, Berlin) zostało doszczętnie zniszczonych. Europa leżała w ruinach.
+*   **Zmiany na mapie świata:** Granice wielu państw (w tym Polski) zostały zmienione.
+*   **Nowy porządek świata:** Powstały dwa supermocarstwa: Stany Zjednoczone i Związek Radziecki. Rozpoczęła się tzw. "Zimna Wojna" – rywalizacja między nimi.
+*   **Powstanie ONZ:** Aby zapobiec przyszłym wojnom, powołano Organizację Narodów Zjednoczonych (ONZ), która miała dbać o pokój na świecie.
+*   **Lekcja dla ludzkości:** Wojna pokazała, do czego prowadzi nienawiść, totalitaryzm i agresja.
+
+### Podsumowanie
+
+II wojna światowa to była niewyobrażalna tragedia, ale także lekcja dla ludzkości. Pokazuje nam, jak ważne jest dbanie o pokój, tolerancję i poszanowanie praw człowieka. Pamiętając o niej, możemy lepiej zrozumieć teraźniejszość i budować lepszą przyszłość.
+
+---
+
+## Zadania do materiału
+
+Teraz sprawdźmy, co zapamiętałeś/zapamiętałaś! Odpowiedz na poniższe pytania, korzystając z przeczytanego tekstu.
+
+1.  W jakich latach trwała II wojna światowa?
+2.  Wymień trzy państwa należące do **Państw Osi** oraz trzy państwa należące do **Aliantów**.
+3.  Jaka była główna przyczyna wybuchu wojny i kto ją rozpoczął?
+4.  Które wydarzenie sprawiło, że Stany Zjednoczone przystąpiły do wojny?
+5.  Co to był **Holokaust**?
+6.  Jakie miasto zostało zaatakowane przez Niemców 1 września 1939 roku, co rozpoczęło wojnę?
+7.  Podaj jeden ważny skutek II wojny światowej.
+
+---
+
+## Odpowiedzi do zadań
+
+Sprawdź swoje odpowiedzi!
+
+1.  II wojna światowa trwała od **1 września 1939 roku** do **2 września 1945 roku**.
+2.  **Państwa Osi:** Niemcy, Włochy, Japonia.
+    **Alianci:** Wielka Brytania, Francja, Związek Radziecki, Stany Zjednoczone (wystarczy trzy).
+3.  Główną przyczyną była agresywna polityka Niemiec (rządzonych przez Adolfa Hitlera), które chciały zdobyć nowe terytoria. Wojnę rozpoczęły Niemcy.
+4.  Stany Zjednoczone przystąpiły do wojny po ataku Japonii na bazę morską **Pearl Harbor**.
+5.  **Holokaust** to planowe i systematyczne mordowanie milionów Żydów (a także Romów i innych grup) przez nazistowskie Niemcy w obozach zagłady.
+6.  1 września 1939 roku Niemcy zaatakowały **Polskę**.
+7.  Jeden ważny skutek to np.:
+    *   Miliony zabitych ludzi (ogromne ofiary ludzkie).
+    *   Ogromne zniszczenia miast i infrastruktury w Europie.
+    *   Zmiany granic państwowych w Europie.
+    *   Powstanie ONZ.
+    *   Rozpoczęcie Zimnej Wojny.
+    (Wystarczy jeden z nich).

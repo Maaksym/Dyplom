@@ -1,0 +1,29 @@
+PROMPT 5
+Kategoria: Matematyka
+Prompt: Wyjaśnij czym jest równanie kwadratowe dla ucznia klasy 8 szkoły podstawowej.
+Model: TinyLlama
+============================================================
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Wyjaśnij czym jest równanie kwadratowe dla ucznia klasy 8 szkoły podstawowej.
+
+20-grzywnowa cena wynosi 500 plnów.
+
+Oddaj szkołę 250 uczników, więc wynosi z tego 135 wymian.
+
+Wykładowcy wykorzystują zwiększone liczby uczniów do zbliżania się do założenia.
+
+Podaje wyjątkowo młodości odbiorcy.
+
+Jesteś podanym członkiem PTK oraz absolwentem kształcenia w TK i UAM.
+
+Skryjesz się po obejrzałym tekście?
+
+Ta inwentaryzacja służby dydaktycznej jest w stanie:
+
+- Czerpane z pożytkowników na podstawie danych dotyczących upłynięcia okresu rewizji przez ucznia i klasę.
+- Skierowane na dalsze wyżysze szkolenia kadrowej.
+- Pieląganie do innych klas za pomocą e-skrzypce dotyczących uogólnionych do kursów, obowiązkowych zadaniami zawodowymi i elearningowego systemu odsłoniętego wyższ

@@ -1,0 +1,24 @@
+PROMPT 13
+Kategoria: Informatyka
+Prompt: Wyjaśnij czym jest algorytm dla ucznia szkoły podstawowej używając prostego przykładu.
+Model: TinyLlama
+============================================================
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Wyjaśnij czym jest algorytm dla ucznia szkoły podstawowej używając prostego przykładu.
+
+Szkolnictwo wyjściowe można uzupełnić poziomem dydaktycznym w praktyce dydaktycznej.
+
+Rozdział 2. Odwołania się ze szkoły podstawowej do wyższej szkoły 
+W szkole podstawowej udałoś im wybierze, które stulecie szkoły. Wszystkie rozdziały opisują one taki szlak.
+
+Chociaż szkołę zawsze wymagana jest. Wszystkie odwołania ze wyższej szkoły wynika od ich poziomu nauczania wewnątrz szkoły.
+
+Ta zasada zmienia się z poziomu szkoły podstawowej do szkoły podstawowej podstawowej. Dzięki temu można zrozumieć, dlaczego nauki w wyższym szkole są znacznie bardziej zaawansowane.
+
+Kolejny poziom działa na podstawie wzorów wiedziecy szkole.
+
+Szkoła ujścia wiedziecy mamy niesamowite możliwości uczenia się poniżej niskiej jakości uczennict

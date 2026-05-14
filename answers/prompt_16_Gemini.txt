@@ -1,0 +1,70 @@
+PROMPT 16
+Kategoria: Informatyka
+Prompt: Napisz krótkie streszczenie na temat sieci komputerowych i internetu dla ucznia szkoły średniej.
+Model: Gemini
+============================================================
+Witaj! Cieszę się, że interesują Cię tajniki działania komputerów i Internetu – to fascynujący świat, który otacza nas każdego dnia. Postaram się wyjaśnić Ci to w prosty sposób, tak jak robiłbym to na lekcji.
+
+---
+
+### **Sieci Komputerowe i Internet – Krótkie Streszczenie**
+
+Cześć! Zapewne codziennie korzystasz z telefonu, komputera czy tabletu. Wysyłasz wiadomości, oglądasz filmy, szukasz informacji. Ale czy zastanawiałeś się kiedyś, jak to wszystko działa? Kluczem do zrozumienia jest pojęcie **sieci komputerowych** i ich największego "dziecka" – **Internetu**.
+
+---
+
+#### **1. Sieci Komputerowe – Łączymy Urządzenia!**
+
+Wyobraź sobie, że masz w domu kilka komputerów, drukarkę i smartfony. Gdyby każde z tych urządzeń działało w pojedynkę, trudno byłoby szybko wymieniać między nimi pliki, drukować dokumenty z różnych miejsc czy po prostu wspólnie grać.
+
+**Czym jest sieć komputerowa?**
+To nic innego jak **grupa połączonych ze sobą urządzeń elektronicznych** (komputerów, smartfonów, drukarek, telewizorów itp.), które mogą ze sobą komunikować się i wymieniać dane.
+
+**Po co to robimy?**
+*   **Wymiana informacji:** Możesz przesłać zdjęcie z telefonu na komputer.
+*   **Wspólne korzystanie z zasobów:** Kilka osób może używać jednej drukarki.
+*   **Komunikacja:** Możesz rozmawiać ze znajomymi na czatach.
+*   **Wspólna praca i rozrywka:** Grajcie razem w gry online, pracujcie nad jednym projektem.
+
+**Jak to działa? (Trochę jak system dróg w mieście)**
+*   **Urządzenia końcowe:** Twoje komputery, telefony.
+*   **Medium transmisyjne:** To "drogi", którymi płyną dane – mogą to być kable (np. Ethernet) albo fale radiowe (Wi-Fi).
+*   **Urządzenia sieciowe:** To "policjanci ruchu" lub "rozjazdy" – takie jak **routery** (które kierują ruchem między różnymi sieciami) czy **switche** (które łączą urządzenia w jednej sieci i "rozsyłają" dane do właściwego odbiorcy).
+*   **Protokoły:** To "język" lub "zasady", jakimi urządzenia się ze sobą komunikują. Dzięki nim komputer A wie, jak rozmawiać z komputerem B.
+
+**Przykłady sieci:**
+*   **Sieć domowa:** Kilka urządzeń podłączonych do jednego routera.
+*   **Sieć szkolna:** Komputery w pracowni, podłączone do wspólnego serwera i drukarek.
+*   **Sieć firmowa:** Komputery pracowników połączone w jednym biurze.
+
+---
+
+#### **2. Internet – Sieć Sieci, Czyli Globalna Autostrada!**
+
+Skoro mamy już pojęcie o sieciach, to czym jest Internet?
+
+**Internet to największa na świecie sieć komputerowa!**
+To tak, jakby wszystkie małe sieci (domowe, szkolne, firmowe, uniwersyteckie) zostały ze sobą połączone w jedną, gigantyczną, globalną sieć. Można go sobie wyobrazić jako **globalny system autostrad i dróg**, który pozwala każdej "miejscowości" (czyli każdej mniejszej sieci lokalnej) połączyć się z każdą inną na świecie.
+
+**Jak działa Internet?**
+Dzięki temu, że te wszystkie mniejsze sieci są połączone (za pomocą ogromnej infrastruktury kabli światłowodowych, satelitów, routerów wysokiej mocy), możesz wysłać wiadomość z Warszawy do Nowego Jorku w ułamku sekundy, oglądać film streamingowy hostowany w Azji czy przeglądać stronę internetową stworzoną w Australii.
+
+**Co nam daje Internet? (Czyli z czego korzystasz na co dzień)**
+*   **World Wide Web (WWW):** Czyli strony internetowe, które przeglądasz. To zbiór dokumentów i innych zasobów połączonych ze sobą hiperłączami.
+*   **Poczta elektroniczna (e-mail):** Możliwość wysyłania listów cyfrowych na drugi koniec świata.
+*   **Komunikatory internetowe:** Rozmowy tekstowe, głosowe i wideo (np. Messenger, WhatsApp, Skype).
+*   **Streaming:** Oglądanie filmów i słuchanie muzyki online (np. YouTube, Netflix, Spotify).
+*   **Gry online:** Wspólna zabawa z graczami z całego globu.
+*   **Cloud computing:** Przechowywanie danych "w chmurze" i dostęp do aplikacji przez Internet.
+
+**Kluczowe pojęcia w Internecie (jak "adres domu" i "książka telefoniczna"):**
+*   **Adres IP:** Każde urządzenie podłączone do Internetu ma swój unikalny numer, coś jak numer domu. Dzięki niemu dane trafiają do właściwego odbiorcy.
+*   **DNS (Domain Name System):** Zamiast wpisywać skomplikowane numery IP, używamy łatwych do zapamiętania nazw domen (np. google.com). DNS to taka "książka telefoniczna" Internetu, która tłumaczy te nazwy na adresy IP.
+
+---
+
+**Podsumowując:**
+
+**Sieci komputerowe** to fundament naszej cyfrowej komunikacji – to sposób, w jaki urządzenia łączą się ze sobą, aby wymieniać informacje i zasoby. **Internet** to ich największy i najbardziej znany przykład, będący globalną siecią, która łączy miliony mniejszych sieci na całym świecie. Dzięki niemu możemy błyskawicznie komunikować się i mieć dostęp do niewyobrażalnej ilości informacji i usług. To potężne narzędzie, które zmieniło nasz świat!
+
+Mam nadzieję, że to krótkie wyjaśnienie pomogło Ci zrozumieć te podstawowe, ale niezwykle ważne koncepcje!

@@ -1,0 +1,25 @@
+PROMPT 6
+Kategoria: Matematyka
+Prompt: Przygotuj 5 zadań z matematyki na temat procentów dla ucznia gimnazjum z odpowiedziami.
+Model: TinyLlama
+============================================================
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Przygotuj 5 zadań z matematyki na temat procentów dla ucznia gimnazjum z odpowiedziami.
+
+1. Proczek kładą lato.
+2. Proczymę kładą mocno.
+3. Wprost wykreśla podniebieniu kładamy głowę.
+4. Przełącznik po prostu kładamy dwie głowy na dwoje.
+5. Przedpołoże gospodarcy nie będziem z namiotom.
+
+Medycyna 
+
+Komentarz: Wszystko jest wypełnione. Dziękujemy dokonanej korekty.
+
+Według komentatora (pula komentarzy: 2) na tym zadaniu poprawność matematyczna zadeklarowana jest, jako że mają zostali przypadkowe liczby, a poprawka wynosi 10. Wykorzystate się też podany przykład polegający na różnym wypełnianiu celów.
+
+W zadaniu o podaniu przykładu (pula komentarzy: 1) jest oparta na problemie z matematyki, które mamy do wykonania na dziecku, który zainteresowałby nas nauczyciel. Jeśli chcemy bardziej widać, jak

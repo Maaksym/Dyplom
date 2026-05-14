@@ -1,0 +1,54 @@
+PROMPT 1
+Kategoria: Biologia
+Prompt: Wyjaśnij czym jest fotosynteza dla ucznia szkoły podstawowej.
+Model: Gemini
+============================================================
+Witajcie, moi drodzy młodzi odkrywcy!
+
+Jestem tutaj, żeby opowiedzieć Wam o czymś niesamowitym, co dzieje się wokół nas każdego dnia, choć tego nie widzimy! Porozmawiamy o **fotosyntezie** – to takie magiczne słowo, ale spokojnie, wyjaśnię Wam, co ono znaczy.
+
+---
+
+### Czym jest fotosynteza? – Czyli jak roślinki robią sobie pyszne jedzonko!
+
+Wyobraźcie sobie, że jesteście bardzo głodni. Co robicie? Idziecie do kuchni, otwieracie lodówkę, może mama albo tata coś ugotują, prawda? A teraz pomyślcie o roślinkach – o trawce, kwiatuszkach, drzewach. One też muszą jeść, żeby rosnąć, być silne i piękne. Ale czy widzieliście kiedyś, żeby roślinka poszła do sklepu po bułki? Albo otworzyła lodówkę? Oczywiście, że nie!
+
+I właśnie tutaj pojawia się nasza magia – **fotosynteza!** To jest taki specjalny sposób, w jaki rośliny **same sobie gotują jedzonko!** Są jak tacy mali, genialni kucharze, którzy potrafią przygotować sobie wszystko, co potrzebne, z bardzo prostych składników.
+
+#### **Kto jest tym "kucharzem" i gdzie ma swoją "kuchnię"?**
+
+*   **Kucharzem** jest każda zielona roślinka – mały kwiatek, duże drzewo, a nawet trawa na podwórku.
+*   **"Kuchnia"** rośliny to jej **liście**! To właśnie w zielonych liściach dzieje się cała ta niezwykła magia. Zielony kolor liści pochodzi od takiej specjalnej substancji, która jest jak mały pomocnik kucharza i nazywa się **chlorofil**.
+
+#### **Jakie "składniki" są potrzebne do gotowania?**
+
+Każdy kucharz potrzebuje składników, prawda? Roślinki do fotosyntezy potrzebują tylko trzech rzeczy:
+
+1.  **Słońce (energia!)**: To jest jak piekarnik albo kuchenka dla rośliny. Bez słońca nie ma energii do "gotowania". Słońce daje im siłę, żeby połączyć wszystkie składniki.
+    *   *Przykład:* Pamiętasz, jak czujesz ciepło słońca na twarzy? To właśnie ta energia, którą roślinki "łapią" liśćmi!
+2.  **Woda**: Tak, ta sama woda, którą pijesz, żeby ugasić pragnienie. Roślinki piją wodę swoimi **korzeniami** z ziemi. Korzenie to takie rurki, które zasysają wodę i wysyłają ją do góry, aż do liści.
+    *   *Przykład:* To tak, jakby roślina miała podziemną słomkę i nią piła!
+3.  **Dwutlenek węgla**: Brzmi skomplikowanie, prawda? Ale to nic trudnego! To jest taki gaz, który unosi się w powietrzu. My, ludzie i zwierzęta, kiedy oddychamy, to wydychamy dwutlenek węgla. Rośliny go bardzo lubią! Wchłaniają go przez malutkie, niewidoczne dziurki w liściach.
+    *   *Przykład:* Kiedy wydychasz powietrze, to tam jest dwutlenek węgla. Roślinki chętnie go od Ciebie "biorą"!
+
+#### **Co "gotują" roślinki i co z tego mamy?**
+
+Kiedy te wszystkie składniki – słońce, woda i dwutlenek węgla – spotkają się w zielonych liściach, roślina zaczyna swoje "gotowanie".
+
+1.  **Jedzonko dla rośliny (cukier!)**: Roślina tworzy z nich słodki cukier (nazywamy go glukozą), który jest dla niej jak pyszny batonik energetyczny! Dzięki temu jedzonku roślina ma siłę, żeby rosnąć, rozwijać nowe liście, kwiaty i owoce.
+    *   *Przykład:* To jak Twoja ulubiona zupa albo ciastko, które daje Ci siłę do zabawy!
+2.  **Tlen (super prezent dla nas!)**: I to jest to, co jest w fotosyntezie najcudowniejsze dla nas! Podczas "gotowania" roślina "uwalnia" do powietrza coś, czego my i wszystkie zwierzęta potrzebujemy do życia – **tlen!** To właśnie tlenem oddychamy!
+    *   *Przykład:* Las pełen drzew jest jak ogromna fabryka świeżego powietrza!
+
+---
+
+#### **Dlaczego fotosynteza jest taka ważna?**
+
+*   **Dla roślin:** Dzięki niej rosną, żyją i są zdrowe.
+*   **Dla nas i zwierząt:** Dzięki nim mamy co jeść (rośliny są podstawą wielu pokarmów!) i czym oddychać! Bez tlenu nie byłoby życia na Ziemi!
+
+**Zapamiętajcie!**
+
+Fotosynteza to proces, w którym zielone rośliny, używając **światła słonecznego**, **wody** i **dwutlenku węgla**, tworzą swoje **jedzenie (cukier)** i uwalniają do powietrza **tlen**, którym wszyscy oddychamy.
+
+Następnym razem, gdy zobaczysz zieloną roślinę, pamiętaj, że to nie tylko piękny kwiatek czy drzewo, ale też mały, pracowity kucharz, który gotuje dla siebie i dla nas! Czyż to nie jest cudowne?

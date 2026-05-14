@@ -1,0 +1,15 @@
+PROMPT 9
+Kategoria: Historia
+Prompt: Wyjaśnij przyczyny wybuchu I wojny światowej dla ucznia szkoły podstawowej.
+Model: TinyLlama
+============================================================
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Wyjaśnij przyczyny wybuchu I wojny światowej dla ucznia szkoły podstawowej. Wskazaj dokładnie, która wypłata zadawana jest za zajęcia w technikach mechanicznych, a także dla jakich materiałów używa się w środowisku cywilnym. Dane towarzyszące przypisamy kształtorowi w celu ułatwienia jego konsekwentnej dalsze dyfuzji w obowiązku naukowym oraz pomocy kierownikuszowi w podaniu kwalifikacji dyplomowych.
+
+Tutaj zapoznasz się z terminami naukowe, które są znane (lub nieznane) dla ucznia szkole podstawowej. Spowoduje to wykresy ilościowe w zakresie przestrzeni pozajmowej, stopy matematyczne (której kwalifikacji uzyskamy po ukończeniu 8 klas szkolnych) oraz przestrzennych rzeczywistych (zwyżka i dalej) nauczycieli.
+
+Oprócz zadania w zakresie matematyki można skomplikować zadanie w zakresie chemii, na którym odwoła się do zestawu konwencji naukowych. Wyprowadzisz wokół się komprom

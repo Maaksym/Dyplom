@@ -1,0 +1,213 @@
+PROMPT 7
+Kategoria: Matematyka
+Prompt: Stwórz materiał dydaktyczny na temat twierdzenia Pitagorasa z przykładami i ćwiczeniami.
+Model: Gemini
+============================================================
+Witajcie, drodzy uczniowie!
+
+Jako doświadczony nauczyciel, który towarzyszył wielu z Was w odkrywaniu tajników matematyki, wiem, że niektóre tematy wydają się na początku trudne. Ale obiecuję, że razem rozłożymy je na czynniki pierwsze, a wtedy okaże się, że są logiczne i przydatne. Dziś zajmiemy się jednym z najważniejszych i najbardziej eleganckich twierdzeń w geometrii – **Twierdzeniem Pitagorasa**.
+
+Gotowi? Zaczynamy!
+
+---
+
+## **Temat: Twierdzenie Pitagorasa – Tajemnica Trójkąta Prostokątnego**
+
+### **I. Wstęp – Kim był Pitagoras i dlaczego jego twierdzenie jest ważne?**
+
+Pitagoras to słynny grecki matematyk i filozof, który żył około 2500 lat temu. Chociaż od tamtego czasu minęło wiele wieków, jego odkrycie jest używane do dziś w wielu dziedzinach – od budownictwa, przez nawigację, aż po grafikę komputerową!
+
+Twierdzenie Pitagorasa to zasada, która opisuje specjalną zależność między długościami boków **trójkąta prostokątnego**. Dzięki niej, jeśli znasz długości dwóch boków w takim trójkącie, możesz obliczyć długość trzeciego! Brzmi ciekawie, prawda?
+
+### **II. Co to jest trójkąt prostokątny? – Podstawa Sukcesu**
+
+Zanim przejdziemy do samego twierdzenia, musimy sobie przypomnieć, czym jest trójkąt prostokątny, bo to właśnie dla niego działa Twierdzenie Pitagorasa.
+
+**Trójkąt prostokątny** to taki trójkąt, który ma jeden kąt o mierze **90 stopni** (nazywamy go kątem prostym).
+
+*   **Boki trójkąta prostokątnego mają specjalne nazwy:**
+    *   **Przyprostokątne (a, b):** To dwa boki, które tworzą kąt prosty. Możesz sobie wyobrazić, że "przytulają się" do kąta prostego.
+    *   **Przeciwprostokątna (c):** To bok, który leży naprzeciwko kąta prostego. Zawsze jest najdłuższym bokiem w trójkącie prostokątnym!
+
+**Zapamiętaj:** To bardzo ważne, aby zawsze umieć rozpoznać, który bok jest przeciwprostokątną!
+
+![Diagram trójkąta prostokątnego z oznaczeniami przyprostokątnych a i b oraz przeciwprostokątnej c. Kąt prosty jest zaznaczony kwadracikiem.](https://i.imgur.com/your_right_triangle_image_placeholder.png "Trójkąt prostokątny")
+*(Wyobraź sobie tutaj prosty rysunek trójkąta prostokątnego z zaznaczonym kątem prostym oraz opisami a, b, c dla boków.)*
+
+### **III. Twierdzenie Pitagorasa – O co w nim chodzi?**
+
+A teraz sedno sprawy! Twierdzenie Pitagorasa mówi, że:
+
+**"W trójkącie prostokątnym suma kwadratów długości przyprostokątnych jest równa kwadratowi długości przeciwprostokątnej."**
+
+Matematycznie zapisujemy to za pomocą prostego wzoru:
+
+$$a^2 + b^2 = c^2$$
+
+Gdzie:
+*   **a** – długość jednej przyprostokątnej
+*   **b** – długość drugiej przyprostokątnej
+*   **c** – długość przeciwprostokątnej
+
+**Co to znaczy "kwadrat liczby"?**
+Kwadrat liczby to nic innego jak pomnożenie tej liczby przez samą siebie.
+Na przykład:
+*   $3^2 = 3 \cdot 3 = 9$
+*   $5^2 = 5 \cdot 5 = 25$
+*   $10^2 = 10 \cdot 10 = 100$
+
+Pomyśl o tym tak: jeśli narysujemy kwadraty na każdym boku trójkąta prostokątnego, to pole kwadratu zbudowanego na przeciwprostokątnej będzie równe sumie pól kwadratów zbudowanych na przyprostokątnych. To jest prawdziwa magia matematyki!
+
+### **IV. Przykłady zastosowania – Zobacz, jak to działa!**
+
+Przejdźmy do praktyki, bo to najlepszy sposób na zrozumienie.
+
+#### **Przykład 1: Obliczanie długości przeciwprostokątnej (c)**
+
+Masz trójkąt prostokątny, którego przyprostokątne mają długości 3 cm i 4 cm. Ile wynosi długość przeciwprostokątnej?
+
+**Dane:**
+*   $a = 3$ cm
+*   $b = 4$ cm
+*   $c = ?$
+
+**Rozwiązanie:**
+1.  **Zapisujemy wzór Pitagorasa:**
+    $a^2 + b^2 = c^2$
+
+2.  **Podstawiamy znane wartości do wzoru:**
+    $3^2 + 4^2 = c^2$
+
+3.  **Obliczamy kwadraty:**
+    $3 \cdot 3 = 9$
+    $4 \cdot 4 = 16$
+    Więc: $9 + 16 = c^2$
+
+4.  **Dodajemy liczby:**
+    $25 = c^2$
+
+5.  **Musimy znaleźć liczbę, której kwadrat wynosi 25.** Pytamy: "Jaka liczba pomnożona przez siebie da 25?"
+    Jest to pierwiastek kwadratowy z 25.
+    $c = \sqrt{25}$
+    $c = 5$
+
+**Odpowiedź:** Długość przeciwprostokątnej wynosi 5 cm. (To bardzo znany trójkąt 3-4-5!)
+
+---
+
+#### **Przykład 2: Obliczanie długości jednej z przyprostokątnych (a lub b)**
+
+Masz trójkąt prostokątny. Przeciwprostokątna ma długość 10 cm, a jedna z przyprostokątnych ma 6 cm. Ile wynosi długość drugiej przyprostokątnej?
+
+**Dane:**
+*   $c = 10$ cm (to przeciwprostokątna!)
+*   $a = 6$ cm (jedna przyprostokątna)
+*   $b = ?$ (druga przyprostokątna)
+
+**Rozwiązanie:**
+1.  **Zapisujemy wzór Pitagorasa:**
+    $a^2 + b^2 = c^2$
+
+2.  **Podstawiamy znane wartości do wzoru:**
+    $6^2 + b^2 = 10^2$
+
+3.  **Obliczamy kwadraty:**
+    $6 \cdot 6 = 36$
+    $10 \cdot 10 = 100$
+    Więc: $36 + b^2 = 100$
+
+4.  **Teraz musimy "pozbyć się" 36 z lewej strony, żeby $b^2$ zostało samo.** Odejmujemy 36 od obu stron równania:
+    $b^2 = 100 - 36$
+    $b^2 = 64$
+
+5.  **Szukamy liczby, której kwadrat wynosi 64.**
+    $b = \sqrt{64}$
+    $b = 8$
+
+**Odpowiedź:** Długość drugiej przyprostokątnej wynosi 8 cm.
+
+---
+
+#### **Przykład 3: Zastosowanie w "życiu codziennym"**
+
+Chcesz postawić drabinę o długości 5 metrów tak, aby jej szczyt opierał się o ścianę na wysokości 4 metrów. Jak daleko od ściany musisz ustawić podstawę drabiny?
+
+**Analiza problemu:**
+*   Ściana, podłoga i drabina tworzą trójkąt prostokątny.
+*   Drabina to przeciwprostokątna ($c = 5$ m).
+*   Wysokość, na której opiera się drabina, to jedna przyprostokątna ($a = 4$ m).
+*   Odległość podstawy drabiny od ściany to druga przyprostokątna ($b = ?$).
+
+**Dane:**
+*   $c = 5$ m
+*   $a = 4$ m
+*   $b = ?$
+
+**Rozwiązanie:**
+1.  **Wzór:** $a^2 + b^2 = c^2$
+2.  **Podstawiamy:** $4^2 + b^2 = 5^2$
+3.  **Kwadraty:** $16 + b^2 = 25$
+4.  **Odejmujemy:** $b^2 = 25 - 16$
+    $b^2 = 9$
+5.  **Pierwiastek:** $b = \sqrt{9}$
+    $b = 3$
+
+**Odpowiedź:** Podstawę drabiny należy ustawić 3 metry od ściany.
+
+### **V. Kiedy używamy Twierdzenia Pitagorasa? – Krótkie podsumowanie**
+
+*   **Tylko w trójkątach prostokątnych!** Nigdy w innych!
+*   Gdy znasz długości **dwóch boków** trójkąta prostokątnego i chcesz obliczyć długość **trzeciego boku**.
+
+### **VI. Ważne wskazówki i częste błędy – Uważaj!**
+
+*   **Zawsze identyfikuj przeciwprostokątną!** To ten bok, który leży naprzeciwko kąta prostego i zawsze jest `c` we wzorze $a^2 + b^2 = c^2$. Jeśli pomylisz przyprostokątną z przeciwprostokątną, wynik będzie błędny.
+*   **Nie zapomnij o kwadratach!** Często uczniowie dodają po prostu długości boków zamiast ich kwadratów. Pamiętaj: $a^2 + b^2 = c^2$, nie $a + b = c$.
+*   **Nie zapomnij o pierwiastkowaniu na końcu!** Po obliczeniu $c^2$ (lub $a^2$, $b^2$) musisz wykonać pierwiastkowanie, aby uzyskać długość boku.
+*   **Sprawdź, czy wynik ma sens:** Przeciwprostokątna musi być dłuższa od każdej z przyprostokątnych. Jeśli wyjdzie Ci inaczej, to znak, że gdzieś jest błąd!
+
+### **VII. Ćwiczenia – Czas na Twoją kolej!**
+
+Spróbuj rozwiązać poniższe zadania samodzielnie. Pamiętaj o krokach i wskazówkach!
+
+**Zadanie 1:** Oblicz długość przeciwprostokątnej w trójkącie prostokątnym, którego przyprostokątne mają długości:
+a) 6 cm i 8 cm
+b) 5 cm i 12 cm
+
+**Zadanie 2:** Oblicz długość brakującej przyprostokątnej w trójkącie prostokątnym, jeśli wiesz, że:
+a) Przeciwprostokątna ma 17 cm, a jedna przyprostokątna 15 cm.
+b) Przeciwprostokątna ma 25 dm, a jedna przyprostokątna 7 dm.
+
+**Zadanie 3:** Pan Marek chce zamontować półkę narożną w kuchni. Odległość od rogu ściany do końca półki po jednej stronie wynosi 40 cm, a po drugiej 30 cm. Ile wynosi długość listwy, którą Pan Marek musi kupić, aby zabezpieczyć zewnętrzną krawędź półki (czyli przeciwprostokątną)?
+
+---
+
+### **VIII. Podsumowanie – To już wiesz!**
+
+Gratulacje! Przeszedłeś przez najważniejsze informacje dotyczące Twierdzenia Pitagorasa. Mam nadzieję, że teraz widzisz, że nie jest ono wcale takie straszne, a wręcz bardzo logiczne i przydatne.
+
+**Pamiętaj kluczowe punkty:**
+*   Działa tylko w **trójkątach prostokątnych**.
+*   Wzór: **$a^2 + b^2 = c^2$**
+*   **c** to zawsze **przeciwprostokątna** (najdłuższy bok, naprzeciwko kąta prostego).
+*   Umiejętność rozróżniania przyprostokątnych od przeciwprostokątnej to podstawa!
+
+Trenuj dalej, a zobaczysz, że to twierdzenie stanie się Twoim przyjacielem w rozwiązywaniu wielu problemów!
+
+---
+
+### **IX. Odpowiedzi do ćwiczeń**
+
+**Zadanie 1:**
+a) $6^2 + 8^2 = c^2 \Rightarrow 36 + 64 = c^2 \Rightarrow 100 = c^2 \Rightarrow c = 10$ cm
+b) $5^2 + 12^2 = c^2 \Rightarrow 25 + 144 = c^2 \Rightarrow 169 = c^2 \Rightarrow c = 13$ cm
+
+**Zadanie 2:**
+a) $15^2 + b^2 = 17^2 \Rightarrow 225 + b^2 = 289 \Rightarrow b^2 = 289 - 225 \Rightarrow b^2 = 64 \Rightarrow b = 8$ cm
+b) $7^2 + b^2 = 25^2 \Rightarrow 49 + b^2 = 625 \Rightarrow b^2 = 625 - 49 \Rightarrow b^2 = 576 \Rightarrow b = 24$ dm
+
+**Zadanie 3:**
+To klasyczny problem z trójkątem prostokątnym. Krawędzie półki wzdłuż ściany to przyprostokątne, a długość listwy to przeciwprostokątna.
+$a = 30$ cm, $b = 40$ cm
+$30^2 + 40^2 = c^2 \Rightarrow 900 + 1600 = c^2 \Rightarrow 2500 = c^2 \Rightarrow c = \sqrt{2500} \Rightarrow c = 50$ cm
+Pan Marek musi kupić 50 cm listwy.

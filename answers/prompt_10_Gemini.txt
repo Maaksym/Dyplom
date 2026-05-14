@@ -1,0 +1,58 @@
+PROMPT 10
+Kategoria: Historia
+Prompt: Przygotuj 5 pytań testowych na temat rewolucji francuskiej dla ucznia liceum.
+Model: Gemini
+============================================================
+Witaj! Jako doświadczony nauczyciel, z przyjemnością przygotowałem dla Ciebie zestaw 5 pytań testowych dotyczących Rewolucji Francuskiej. Pytania są sformułowane w prosty sposób, aby sprawdzić Twoje zrozumienie kluczowych wydarzeń i pojęć.
+
+Pamiętaj, że Rewolucja Francuska to bardzo ważny okres w historii Europy, który na zawsze zmienił oblicze świata, wpływając na rozwój idei wolności, równości i braterstwa.
+
+**Instrukcja:** Przeczytaj uważnie każde pytanie i wybierz jedną, prawidłową odpowiedź.
+
+---
+
+### Pytania Testowe: Rewolucja Francuska
+
+**Pytanie 1:**
+Jaka struktura społeczna przedrewolucyjnej Francji była jedną z kluczowych przyczyn narastania niezadowolenia i wybuchu rewolucji?
+
+a) Monarchia absolutna z silnym parlamentem, reprezentującym wszystkie warstwy społeczeństwa.
+b) Podział na stany: szlachtę, duchowieństwo i stan trzeci (chłopów, mieszczan, burżuazję), gdzie stan trzeci był pozbawiony realnych praw i obciążony podatkami.
+c) Feudalny system gospodarczy oparty wyłącznie na pańszczyźnie, bez wolnego handlu.
+d) Rozbudowana sieć kolonii zamorskich, które zdominowały politykę wewnętrzną kraju.
+
+**Pytanie 2:**
+Które wydarzenie, mające miejsce 14 lipca 1789 roku, jest uznawane za symboliczny początek rewolucji francuskiej i akt buntu ludności Paryża przeciwko monarchii?
+
+a) Zwołanie Stanów Generalnych przez Ludwika XVI.
+b) Uchwalenie Konstytucji Francji.
+c) Zdobycie Bastylii – twierdzy i więzienia królewskiego.
+d) Przysięga w Sali do Gry w Piłkę złożona przez przedstawicieli stanu trzeciego.
+
+**Pytanie 3:**
+Jaki dokument, uchwalony 26 sierpnia 1789 roku, proklamował podstawowe prawa człowieka i obywatela, takie jak wolność, równość wobec prawa, prawo do własności i wolność słowa?
+
+a) Konstytucja Stanów Zjednoczonych.
+b) Karta Praw (Bill of Rights).
+c) Deklaracja Praw Człowieka i Obywatela.
+d) Powszechna Deklaracja Praw Człowieka ONZ.
+
+**Pytanie 4:**
+Która postać jest najbardziej związana z okresem Wielkiego Terroru (1793-1794), w którym rewolucyjny rząd stosował masowe egzekucje przeciwników politycznych?
+
+a) Markiz de Lafayette
+b) Georges Danton
+c) Maksymilian Robespierre
+d) Napoleon Bonaparte
+
+**Pytanie 5:**
+Jakie wydarzenie uznaje się za faktyczny koniec rewolucji francuskiej i początek nowej epoki w historii Francji (epoki napoleońskiej)?
+
+a) Egzekucja króla Ludwika XVI w 1793 roku.
+b) Utworzenie Dyrektoriatu w 1795 roku.
+c) Zamach stanu 18 brumaire’a (9 listopada 1799), przeprowadzony przez Napoleona Bonapartego.
+d) Bitwa pod Waterloo w 1815 roku.
+
+---
+
+Mam nadzieję, że pytania były dla Ciebie interesujące i pozwoliły na chwilę refleksji nad tym ważnym okresem! Powodzenia w nauce!

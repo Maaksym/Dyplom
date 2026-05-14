@@ -1,0 +1,83 @@
+PROMPT 3
+Kategoria: Biologia
+Prompt: Stwórz krótki materiał dydaktyczny na temat budowy DNA z 3 zadaniami i odpowiedziami.
+Model: Gemini
+============================================================
+Witajcie w fascynującym świecie biologii! Dziś zajmiemy się tematem, który jest absolutną podstawą życia na Ziemi – budową DNA. Nie martwcie się, że brzmi skomplikowanie. Razem odkryjemy, jak zbudowana jest ta niezwykła cząsteczka, która jest prawdziwą "książką kucharską" każdego organizmu!
+
+---
+
+## Tajemnica Życia: Jak Zbudowane Jest DNA?
+
+**DNA** (czyli kwas dezoksyrybonukleinowy) to nic innego jak **instrukcja obsługi** dla każdego żywego organizmu. Wyobraź sobie, że DNA to bardzo długa książka, która zawiera wszystkie przepisy na to, jak zbudować i jak sprawić, by działała każda komórka Twojego ciała, roślinki, która rośnie w doniczce, czy nawet najmniejszej bakterii. To w niej zapisane są informacje o kolorze Twoich oczu, wzroście, a nawet o tym, jak walczyć z chorobami!
+
+### 1. Kształt DNA: Podwójna helisa (czyli skręcona drabina!)
+
+Zacznijmy od tego, jak DNA wygląda. Ma bardzo charakterystyczny kształt, który naukowcy nazywają **podwójną helisą**. Ale żeby to sobie łatwiej wyobrazić, pomyślcie o **bardzo długiej, skręconej drabinie**. Takiej, której szczeble są ułożone równolegle, a cała drabina jest delikatnie skręcona wokół własnej osi.
+
+### 2. Z czego jest zbudowane DNA? Nukleotydy!
+
+Nasza skręcona drabina nie jest zrobiona z drewna, prawda? DNA jest zbudowane z mniejszych, powtarzających się cegiełek, które nazywamy **nukleotydami**. Każdy pojedynczy nukleotyd składa się z trzech części:
+
+1.  **Cukier** (specjalny cukier zwany dezoksyrybozą) – to jak mały wagonik.
+2.  **Grupa fosforanowa** – to jak łącznik między wagonikami.
+3.  **Zasada azotowa** – to najważniejsza część, która "niesie" informację.
+
+### 3. Boki drabiny: Cukier i fosforan
+
+W naszej analogii skręconej drabiny, **boki (poręcze) drabiny** są zbudowane naprzemiennie z **cukru** i **grupy fosforanowej**. Tworzą one stabilny, mocny szkielet, do którego przymocowane są "szczeble".
+
+### 4. Szczeble drabiny: Zasady azotowe i ich łączenie
+
+Najciekawsza część to **szczeble drabiny**! Są one zbudowane z **zasad azotowych**. W DNA występują cztery rodzaje zasad:
+
+*   **A** – Adenina
+*   **T** – Tymina
+*   **C** – Cytozyna
+*   **G** – Guanina
+
+I teraz najważniejsze: te zasady nie łączą się ze sobą przypadkowo! Zawsze obowiązuje bardzo ścisła zasada parowania, jak klucz i zamek:
+
+*   **Adenina (A) zawsze łączy się z Tyminą (T)**
+*   **Cytozyna (C) zawsze łączy się z Guaniną (G)**
+
+Dzięki temu, że A zawsze łączy się z T, a C z G, informacja genetyczna jest stabilna i może być wiernie kopiowana za każdym razem, gdy komórka się dzieli. To gwarantuje, że "przepis" na budowę organizmu nie zmieni się!
+
+### Podsumowanie:
+
+DNA to skręcona drabina (podwójna helisa), której:
+*   **Boki** są zbudowane z cukru i grupy fosforanowej.
+*   **Szczeble** są zbudowane z par zasad azotowych: Adenina (A) zawsze z Tyminą (T), a Cytozyna (C) zawsze z Guaniną (G).
+To właśnie kolejność tych zasad (A, T, C, G) wzdłuż drabiny tworzy unikalny kod, czyli "instrukcję obsługi" dla każdego organizmu!
+
+---
+
+## Zadania: Sprawdź swoją wiedzę!
+
+**Zadanie 1:**
+Wymień trzy główne składniki, z których zbudowany jest każdy nukleotyd – podstawowa cegiełka DNA.
+
+**Zadanie 2:**
+Jeśli na jednej nici DNA znajduje się zasada adenina (A), to jaka zasada będzie się z nią łączyć na drugiej nici? A co jeśli spotkamy cytozynę (C)?
+
+**Zadanie 3:**
+DNA często porównuje się do skręconej drabiny. Wyjaśnij, co w tej analogii odpowiada za "szczeble" (stopnie) drabiny, a co za "boki" (poręcze).
+
+---
+
+## Odpowiedzi do zadań:
+
+**Odpowiedź 1:**
+Każdy nukleotyd jest zbudowany z:
+1.  Cukru (dezoksyrybozy)
+2.  Grupy fosforanowej
+3.  Zasady azotowej
+
+**Odpowiedź 2:**
+*   Jeśli na jednej nici DNA znajduje się adenina (A), to na drugiej nici będzie się z nią łączyć **Tymina (T)**.
+*   Jeśli na jednej nici DNA znajduje się cytozyna (C), to na drugiej nici będzie się z nią łączyć **Guanina (G)**.
+
+**Odpowiedź 3:**
+W analogii DNA do skręconej drabiny:
+*   **"Szczeble" (stopnie) drabiny** odpowiadają za **pary zasad azotowych** (A-T i C-G). To na nich zapisana jest informacja.
+*   **"Boki" (poręcze) drabiny** odpowiadają za **szkielet cukrowo-fosforanowy** (naprzemiennie ułożone cząsteczki cukru i grup fosforanowych). Zapewniają one stabilność całej konstrukcji.

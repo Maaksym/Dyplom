@@ -1,0 +1,21 @@
+PROMPT 16
+Kategoria: Informatyka
+Prompt: Napisz krótkie streszczenie na temat sieci komputerowych i internetu dla ucznia szkoły średniej.
+Model: TinyLlama
+============================================================
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Napisz krótkie streszczenie na temat sieci komputerowych i internetu dla ucznia szkoły średniej.
+
+Napisz list otwarty oraz list podrzędny do zadawanego cieszy mój dziekan. Wypełnij formularz podrzędny za pomocą informacji z przykładów i zdanie.
+
+Napisz krótki opis zgłoszenia dostosowanego do poziomu ucznia dla ucznia szkół średniej.
+
+Napisz wersję w języku angielskim taką, że się będzie udał ocenianie.
+
+Napisz kilka razy nowy opisy zgłoszenia w odpowiednim języku wykształcenia.
+
+Na przykładzie: Czy uda na zlecić zadanie kształcenia zgłoszenie na tą tematę? Na podanych przykładach użyto odpowiednio wielkości wymiarów - jeśli je potrzebujesz bardziej dźwiękowo wymałoć, lub też mniejsza, więc więcej bardziej, w związku z tego piszcie "wówczas" (tzn. Kolejny). Jeśli potrzebujesz do zgłoszenia dedykację, pisz zadz

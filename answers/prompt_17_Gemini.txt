@@ -1,0 +1,126 @@
+PROMPT 17
+Kategoria: Język angielski
+Prompt: Wyjaśnij różnicę między czasem Present Simple a Present Continuous dla ucznia szkoły podstawowej.
+Model: Gemini
+============================================================
+Witajcie, drodzy uczniowie!
+
+Jestem tutaj, aby pomóc Wam zrozumieć coś bardzo ważnego w języku angielskim – dwa czasy, które opowiadają o teraźniejszości, ale robią to w trochę inny sposób. To jak dwie różne bajki o tym, co dzieje się "teraz".
+
+Poznajmy ich imiona:
+1.  **Present Simple** (czytamy: Prezent Simpl) – Czas Teraźniejszy Prosty
+2.  **Present Continuous** (czytamy: Prezent Kontinjuus) – Czas Teraźniejszy Ciągły
+
+Nie martwcie się trudnymi nazwami! Zaraz wszystko stanie się proste jak budowanie z klocków.
+
+---
+
+### **1. Czas Present Simple – "Pan Zawsze i Pan Zwyczaj"**
+
+Wyobraźcie sobie, że Present Simple to taki Pan, który lubi **zwyczaje**, **rutyny** i **rzeczy, które dzieją się zawsze** albo bardzo często. Lubi też opowiadać o **faktach**, czyli o tym, co jest prawdą.
+
+**Kiedy go używamy?**
+
+*   **Gdy mówimy o rzeczach, które robimy codziennie, co tydzień, co roku.** To nasze nawyki.
+    *   *Przykład:* **I eat breakfast every morning.** (Ja jem śniadanie każdego ranka. – Robię to ZAWSZE.)
+    *   *Przykład:* **We go to school five days a week.** (My chodzimy do szkoły pięć dni w tygodniu. – To nasz ZWYCZAJ.)
+*   **Gdy mówimy o faktach, które są zawsze prawdziwe.**
+    *   *Przykład:* **The sun rises in the east.** (Słońce wschodzi na wschodzie. – To jest zawsze PRAWDA.)
+    *   *Przykład:* **Dogs like bones.** (Psy lubią kości. – To jest PRAWDA o psach.)
+*   **Gdy mówimy o tym, co lubimy lub czego nie lubimy.**
+    *   *Przykład:* **I like ice cream.** (Lubię lody.)
+    *   *Przykład:* **He doesn't like spiders.** (On nie lubi pająków.)
+
+**Jak tworzymy Present Simple?**
+
+To bardzo proste! Zazwyczaj bierzemy po prostu czasownik (słówko oznaczające czynność).
+*   **I eat** (Ja jem)
+*   **You play** (Ty grasz)
+*   **We learn** (My uczymy się)
+*   **They read** (Oni czytają)
+
+**UWAGA!** Jest mały wyjątek dla **HE (on), SHE (ona), IT (ono)**. Wtedy do czasownika dodajemy literkę **-s** (albo -es).
+*   **He eat****s** (On je)
+*   **She play****s** (Ona gra)
+*   **It run****s** (Ono biega – np. pies)
+
+**Słówka, które lubi Present Simple (podpowiedzi):**
+*   **always** (zawsze)
+*   **often** (często)
+*   **usually** (zazwyczaj)
+*   **sometimes** (czasami)
+*   **every day/week/year** (codziennie/co tydzień/co rok)
+
+---
+
+### **2. Czas Present Continuous – "Pani Teraz i Pani Akcja"**
+
+Teraz poznajmy Present Continuous. To taka Pani, która lubi opowiadać o tym, co dzieje się **TERAZ, W TYM MOMENCIE!** To akcja, która trwa, jest w trakcie, możemy ją zobaczyć lub usłyszeć właśnie teraz.
+
+**Kiedy go używamy?**
+
+*   **Gdy mówimy o tym, co dzieje się w tej chwili, teraz, w momencie, gdy mówimy.** Wyobraź sobie, że robisz zdjęcie! To, co widać na zdjęciu, to właśnie Present Continuous.
+    *   *Przykład:* **I am reading a book now.** (Ja teraz czytam książkę. – Robię to W TYM MOMENCIE.)
+    *   *Przykład:* **Look! The cat is sleeping on the sofa.** (Popatrz! Kot śpi na kanapie. – Dzieje się to TERAZ, w tej chwili.)
+*   **Gdy mówimy o tymczasowych sytuacjach.** Coś, co trwa tylko przez krótki czas.
+    *   *Przykład:* **She is wearing a blue dress today.** (Ona ma dzisiaj na sobie niebieską sukienkę. – Tylko dzisiaj, to tymczasowe.)
+
+**Jak tworzymy Present Continuous?**
+
+Tutaj potrzebujemy dwóch części:
+1.  Słówko **TO BE** (czyli: am, is, are)
+2.  Czasownik z końcówką **-ING**
+
+Spójrzcie:
+*   **I AM playING** (Ja GRAM – teraz)
+*   **You ARE readING** (Ty czytasz – teraz)
+*   **He IS sleepING** (On śpi – teraz)
+*   **She IS cookING** (Ona gotuje – teraz)
+*   **It IS runnING** (Ono biega – teraz)
+*   **We ARE learnING** (My uczymy się – teraz)
+*   **They ARE talkING** (Oni rozmawiają – teraz)
+
+**Słówka, które lubi Present Continuous (podpowiedzi):**
+*   **now** (teraz)
+*   **at the moment** (w tej chwili)
+*   **Look!** (Popatrz!)
+*   **Listen!** (Posłuchaj!)
+*   **today** (dzisiaj)
+
+---
+
+### **Główna różnica – Pan Zawsze vs. Pani Teraz**
+
+Żeby było jeszcze jaśniej, zobaczmy te dwa czasy obok siebie:
+
+| **Present Simple (Pan Zawsze)**                               | **Present Continuous (Pani Teraz)**                           |
+| :------------------------------------------------------------ | :------------------------------------------------------------ |
+| Mówi o **zwyczajach, rutynach, faktach**.                      | Mówi o **tym, co dzieje się TERAZ, w tym momencie**.          |
+| **I play** football **every Saturday.** (Gram w piłkę w każdą sobotę. – Zwyczaj) | **I am playing** football **now.** (Gram w piłkę teraz. – Akcja w trakcie) |
+| **She reads** books. (Ona czyta książki. – Zazwyczaj lubi czytać) | **She is reading** a book. (Ona czyta książkę. – W tej chwili trzyma ją w ręku) |
+| Birds **sing**. (Ptaki śpiewają. – To fakt o ptakach)         | Listen! The bird **is singing**. (Posłuchaj! Ptak śpiewa. – Słyszysz go w tej chwili) |
+
+**Zapamiętajcie to tak:**
+*   **Present Simple** to jak opowiadanie o tym, co jest **NA CO DZIEŃ**.
+*   **Present Continuous** to jak opisywanie **FILMU, który dzieje się TERAZ, w tej chwili!**
+
+---
+
+### **Mała gimnastyka dla Was!**
+
+Spróbujcie dopasować, który czas pasuje lepiej:
+
+1.  Kasia ______ (go) to school every day.
+    *   (Codziennie – rutyna, zwyczaj. Jaki czas?) -> **Kasia goes** to school every day.
+2.  Look! My dog ______ (run) after the ball.
+    *   (Popatrz! Akcja dzieje się teraz. Jaki czas?) -> **Look! My dog is running** after the ball.
+3.  We ______ (love) pizza.
+    *   (Fakt, że lubimy. Jaki czas?) -> **We love** pizza.
+4.  My mum ______ (cook) dinner at the moment.
+    *   (W tej chwili – akcja w trakcie. Jaki czas?) -> **My mum is cooking** dinner at the moment.
+
+---
+
+Świetnie sobie poradziliście! Pamiętajcie, najważniejsze to ćwiczyć i myśleć: "Czy to jest coś, co dzieje się ZAWSZE/CODZIENNIE, czy coś, co dzieje się W TYM MOMENCIE?".
+
+Powodzenia w dalszej nauce!

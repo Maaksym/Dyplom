@@ -1,0 +1,18 @@
+PROMPT 12
+Kategoria: Historia
+Prompt: Napisz streszczenie najważniejszych wydarzeń związanych z powstaniem Polski w 1918 roku.
+Model: TinyLlama
+============================================================
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Napisz streszczenie najważniejszych wydarzeń związanych z powstaniem Polski w 1918 roku.
+
+Jakie są najważniejsze postacie historyczne odnoszące się do powstania Królestwa Polskiego 1918 roku w literaturze?
+
+Given material:
+
+We do not have the capacity to write an essay from a rubric for grades only. We are happy to provide you with professional help and support with any educational content. We guarantee high quality and originality. Contact us and get a plagiarism-free paper written by qualified English-speaking experts.
+Dubai University - English Essay 06: Write an essay about some of the most significant events that took place during Polish independence in 1918.

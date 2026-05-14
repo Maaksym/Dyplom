@@ -1,0 +1,154 @@
+PROMPT 14
+Kategoria: Informatyka
+Prompt: Przygotuj 5 pytań testowych na temat podstaw programowania w Pythonie dla ucznia liceum.
+Model: Gemini
+============================================================
+Witajcie, młodzi programiści! Jestem tutaj, aby pomóc Wam stawiać pierwsze kroki w fascynującym świecie Pythona. Pamiętajcie, że nauka programowania to jak nauka nowego języka – wymaga praktyki, cierpliwości i zrozumienia podstaw.
+
+Przygotowałem dla Was 5 pytań testowych, które sprawdzą Waszą wiedzę na temat absolutnych fundamentów Pythona. Nie martwcie się, jeśli coś sprawi Wam trudność – od tego jesteśmy, żeby się uczyć!
+
+Powodzenia!
+
+---
+
+### Test: Podstawy programowania w Pythonie
+
+**Instrukcja:** Przeczytaj uważnie każde pytanie i wybierz jedną, prawidłową odpowiedź.
+
+---
+
+**Pytanie 1: Wyświetlanie tekstu**
+
+Którego polecenia użyjesz w Pythonie, aby wyświetlić na ekranie komunikat "Witaj, świecie!"?
+
+a) `display "Witaj, świecie!"`
+b) `print("Witaj, świecie!")`
+c) `show("Witaj, świecie!")`
+d) `"Witaj, świecie!"`
+
+<details>
+<summary><b>Rozwiązanie i wyjaśnienie</b></summary>
+<br>
+<b>Prawidłowa odpowiedź: b)</b> <code>print("Witaj, świecie!")</code>
+
+<b>Wyjaśnienie:</b> Funkcja <code>print()</code> jest podstawową funkcją w Pythonie służącą do wyświetlania tekstu, liczb lub wartości zmiennych na standardowym wyjściu (zazwyczaj na konsoli). Tekst, który chcemy wyświetlić, umieszczamy w nawiasach i cudzysłowach (pojedynczych lub podwójnych).
+</details>
+
+---
+
+**Pytanie 2: Zmienne i przypisywanie wartości**
+
+Jak poprawnie przypisać wartość liczbową `25` do zmiennej o nazwie `wiek` w Pythonie?
+
+a) `25 = wiek`
+b) `wiek := 25`
+c) `wiek = 25`
+d) `zmienna wiek = 25`
+
+<details>
+<summary><b>Rozwiązanie i wyjaśnienie</b></summary>
+<br>
+<b>Prawidłowa odpowiedź: c)</b> <code>wiek = 25</code>
+
+<b>Wyjaśnienie:</b> W Pythonie, aby przypisać wartość do zmiennej, używamy operatora przypisania `=`. Najpierw podajemy nazwę zmiennej (po lewej stronie operatora), a następnie wartość, którą chcemy jej przypisać (po prawej stronie). Nazwy zmiennych powinny być czytelne i nie mogą zaczynać się cyfrą ani zawierać znaków specjalnych (poza podkreślnikiem `_`).
+</details>
+
+---
+
+**Pytanie 3: Pobieranie danych od użytkownika**
+
+Która funkcja służy do pobierania danych (tekstu) od użytkownika w Pythonie i jaki jest domyślny typ danych zwracanych przez tę funkcję?
+
+a) `get_text()`, typ liczbowy (`int`)
+b) `input()`, typ tekstowy (`str`)
+c) `read_line()`, typ liczbowy (`int`)
+d) `input()`, typ liczbowy (`int`)
+
+<details>
+<summary><b>Rozwiązanie i wyjaśnienie</b></summary>
+<br>
+<b>Prawidłowa odpowiedź: b)</b> <code>input()</code>, typ tekstowy (<code>str</code>)
+
+<b>Wyjaśnienie:</b> Funkcja <code>input()</code> służy do pobierania danych wprowadzanych przez użytkownika z klawiatury. Ważne jest, aby pamiętać, że niezależnie od tego, co wpisze użytkownik (nawet jeśli będą to cyfry), funkcja <code>input()</code> zawsze zwraca te dane jako <b>typ tekstowy</b> (łańcuch znaków, ang. <i>string</i> – <code>str</code>). Jeśli chcemy użyć wprowadzonych danych jako liczby, musimy dokonać jawnej konwersji typu, np. <code>int(input())</code>.
+</details>
+
+---
+
+**Pytanie 4: Instrukcje warunkowe (if/else)**
+
+Który fragment kodu poprawnie sprawdzi, czy zmienna `ocena` jest większa lub równa `4` i w zależności od wyniku wyświetli odpowiedni komunikat?
+
+a)
+```python
+ocena = 5
+if ocena >= 4
+    print("Bardzo dobrze!")
+else:
+    print("Musisz popracować.")
+```
+
+b)
+```python
+ocena = 5
+if ocena >= 4:
+    print("Bardzo dobrze!")
+else:
+    print("Musisz popracować.")
+```
+
+c)
+```python
+ocena = 5
+if ocena >= 4 then:
+    print("Bardzo dobrze!")
+else:
+    print("Musisz popracować.")
+```
+
+d)
+```python
+ocena = 5
+if (ocena >= 4):
+    print("Bardzo dobrze!")
+else
+    print("Musisz popracować.")
+```
+
+<details>
+<summary><b>Rozwiązanie i wyjaśnienie</b></summary>
+<br>
+<b>Prawidłowa odpowiedź: b)</b>
+
+```python
+ocena = 5
+if ocena >= 4:
+    print("Bardzo dobrze!")
+else:
+    print("Musisz popracować.")
+```
+
+<b>Wyjaśnienie:</b> W Pythonie instrukcje warunkowe zaczynają się od słowa kluczowego <code>if</code>, po którym następuje warunek, a następnie <b>dwukropek (<code>:</code>)</b>. Blok kodu, który ma zostać wykonany, jeśli warunek jest prawdziwy, musi być <b>wcięty</b> (zazwyczaj o 4 spacje). Podobnie jest z blokiem <code>else</code>, który również musi być zakończony dwukropkiem, a jego kod musi być wcięty.
+</details>
+
+---
+
+**Pytanie 5: Komentarze w kodzie**
+
+Do czego służą komentarze w kodzie Pythona i jak się je oznacza?
+
+a) Służą do wykonywania specjalnych operacji i są oznaczane znakiem `//`.
+b) Służą do tymczasowego wyłączania fragmentu kodu z działania programu i są oznaczane znakiem `/* */`.
+c) Służą do wyjaśniania kodu dla innych programistów (lub dla siebie w przyszłości) i są ignorowane przez interpreter. Oznacza się je znakiem `#`.
+d) Służą do deklarowania zmiennych i są oznaczane słowem kluczowym `comment`.
+
+<details>
+<summary><b>Rozwiązanie i wyjaśnienie</b></summary>
+<br>
+<b>Prawidłowa odpowiedź: c)</b> Służą do wyjaśniania kodu dla innych programistów (lub dla siebie w przyszłości) i są ignorowane przez interpreter. Oznacza się je znakiem `#`.
+
+<b>Wyjaśnienie:</b> Komentarze są niezwykle ważne dla czytelności i zrozumiałości kodu. Pozwalają programistom dodawać notatki, wyjaśnienia lub dokumentację bezpośrednio w kodzie. Interpreter Pythona całkowicie ignoruje linie rozpoczynające się od znaku hasha (<code>#</code>), traktując je jako tekst przeznaczony wyłącznie dla ludzi. Dobre komentarze sprawiają, że kod jest łatwiejszy do utrzymania i debugowania.
+</details>
+
+---
+
+Mam nadzieję, że pytania były ciekawe i pomogły Wam utrwalić podstawowe pojęcia! Pamiętajcie, praktyka czyni mistrza!

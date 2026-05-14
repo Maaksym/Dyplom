@@ -1,0 +1,92 @@
+PROMPT 5
+Kategoria: Matematyka
+Prompt: Wyjaśnij czym jest równanie kwadratowe dla ucznia klasy 8 szkoły podstawowej.
+Model: Gemini
+============================================================
+Witaj! Jestem tutaj, żeby pomóc Ci zrozumieć nowe, ciekawe zagadnienia w matematyce. Dzisiaj porozmawiamy o czymś, co może wydawać się na początku trochę skomplikowane, ale uwierz mi – jak tylko złapiesz podstawy, będzie prostsze niż myślisz! Zajmiemy się **równaniami kwadratowymi**.
+
+---
+
+### Czym jest równanie kwadratowe?
+
+Pewnie dobrze pamiętasz równania liniowe, które rozwiązywałeś do tej pory, prawda? Takie, w których niewiadoma `x` występowała w pierwszej potędze, na przykład:
+
+*   `2x + 5 = 11`
+*   `3x - 7 = x + 3`
+
+W tych równaniach szukaliśmy takiej liczby `x`, która po podstawieniu do równania sprawi, że lewa strona będzie równa prawej.
+
+**Równanie kwadratowe** to taki "kolejny poziom" równań! Różni się od liniowego jedną, ale za to bardzo ważną rzeczą:
+
+**W równaniu kwadratowym niewiadoma `x` występuje podniesiona do potęgi drugiej (czyli `x²`).**
+
+I co bardzo ważne – **musi być ten `x²`!** Jeśli go nie ma, to nie jest równanie kwadratowe. Ponadto, `x²` musi być **najwyższą** potęgą `x` w całym równaniu.
+
+---
+
+### Skąd nazwa "kwadratowe"?
+
+Słowo "kwadratowe" pochodzi od "kwadratu", czyli potęgi drugiej (`x²`). Pomyśl o polu kwadratu o boku `x` – to przecież `x * x`, czyli `x²`! Stąd ta nazwa.
+
+---
+
+### Postać ogólna równania kwadratowego
+
+Matematycy lubią porządek, dlatego równania kwadratowe najczęściej zapisujemy w pewnej standardowej formie, którą nazywamy **postacią ogólną**. Wygląda ona tak:
+
+$\Huge ax² + bx + c = 0$
+
+Spójrzmy, co oznaczają poszczególne części:
+
+*   **`a`, `b`, `c`**: To są po prostu **liczby**. Nazywamy je **współczynnikami**. Mogą to być dowolne liczby rzeczywiste (dodatnie, ujemne, ułamki, zero).
+*   **`x`**: To nasza **niewiadoma**, czyli liczba, której szukamy.
+*   **`ax²`**: To jest najważniejsza część! Mamy tu `x` podniesione do potęgi drugiej. Liczba `a` to **współczynnik przy `x²`**.
+    *   **WAŻNE! Liczba `a` NIGDY nie może być zerem!** Dlaczego? Bo gdyby `a` było zerem, to `0 * x²` dałoby `0`, a wtedy `x²` zniknęłoby z równania i mielibyśmy tylko `bx + c = 0`, czyli zwykłe równanie liniowe.
+*   **`bx`**: To jest część z `x` w pierwszej potędze. Liczba `b` to **współczynnik przy `x`**. `b` może być zerem.
+*   **`c`**: To jest tzw. **wyraz wolny**, czyli liczba, przy której nie ma `x`. `c` również może być zerem.
+*   **`= 0`**: Równania kwadratowe najczęściej zapisujemy tak, żeby po jednej stronie równania było tylko zero. Jeśli w równaniu nie ma od razu zera po prawej stronie, musimy je przekształcić, przenosząc wszystkie wyrazy na jedną stronę.
+
+---
+
+### Przykłady równań kwadratowych
+
+Zobaczmy kilka przykładów, żeby wszystko stało się jasne:
+
+1.  **`2x² + 5x + 3 = 0`**
+    *   Tutaj: `a = 2`, `b = 5`, `c = 3`.
+    *   To jest pełne równanie kwadratowe.
+
+2.  **`x² - 4x + 7 = 0`**
+    *   Tutaj: `a = 1` (pamiętaj, że jeśli przed `x²` nie ma żadnej liczby, to znaczy, że jest tam niewidzialna jedynka!), `b = -4`, `c = 7`.
+
+3.  **`3x² - 9 = 0`**
+    *   Tutaj: `a = 3`, `b = 0` (nie ma członu z samym `x`), `c = -9`.
+    *   To też jest równanie kwadratowe, bo jest `x²` i `a` nie jest zerem.
+
+4.  **`5x² + 2x = 0`**
+    *   Tutaj: `a = 5`, `b = 2`, `c = 0` (nie ma wyrazu wolnego).
+    *   Również równanie kwadratowe.
+
+5.  **`x² = 16`**
+    *   Na pierwszy rzut oka nie wygląda na postać ogólną, ale możemy je łatwo przekształcić:
+        `x² - 16 = 0`
+    *   Wtedy: `a = 1`, `b = 0`, `c = -16`. Jak najbardziej równanie kwadratowe!
+
+---
+
+### Czego NIE jest równaniem kwadratowym?
+
+*   **`2x + 7 = 0`**: To jest równanie liniowe, bo najwyższą potęgą `x` jest jeden (`x¹`).
+*   **`x³ + 2x² - 1 = 0`**: To nie jest równanie kwadratowe, bo najwyższą potęgą `x` jest trzy (`x³`). Nazywamy je równaniem sześciennym.
+
+---
+
+### Po co nam to?
+
+Równania kwadratowe są bardzo ważne w matematyce i mają mnóstwo zastosowań w realnym świecie! Pojawiają się np. przy opisywaniu torów lotu pocisków (fizyka), kształtów anten satelitarnych, w ekonomii, inżynierii i wielu innych dziedzinach.
+
+Na razie skup się na tym, żeby potrafić rozpoznać równanie kwadratowe i umieć wskazać jego współczynniki `a`, `b` i `c`. Wkrótce nauczysz się, jak je rozwiązywać, czyli jak znaleźć te `x`, które spełniają dane równanie!
+
+---
+
+Mam nadzieję, że teraz rozumiesz, czym jest równanie kwadratowe. Pamiętaj: najważniejsze to `x²` i to, że `a` nie może być zerem! Powodzenia w dalszej nauce!

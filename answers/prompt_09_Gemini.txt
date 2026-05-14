@@ -1,0 +1,68 @@
+PROMPT 9
+Kategoria: Historia
+Prompt: Wyjaśnij przyczyny wybuchu I wojny światowej dla ucznia szkoły podstawowej.
+Model: Gemini
+============================================================
+Witajcie, drodzy uczniowie!
+
+Dziś opowiem Wam o czymś bardzo ważnym w historii świata – o początkach Wielkiej Wojny, którą nazywamy też I wojną światową. To była ogromna i bardzo smutna wojna, w której brało udział wiele krajów. Zrozumienie, dlaczego się zaczęła, pomoże nam lepiej poznać historię.
+
+Wyobraźcie sobie, że Europa na początku XX wieku była jak wielka beczka prochu – wystarczyła jedna mała iskra, żeby wszystko wybuchło. Ale zanim powiemy o tej iskrze, musimy zrozumieć, dlaczego ta beczka w ogóle była pełna prochu.
+
+Przyczyny wybuchu I wojny światowej możemy porównać do kilku dużych klocków, które powoli się układały, aż w końcu przewróciły całą budowlę.
+
+---
+
+### **Dlaczego wybuchła I wojna światowa? – Zrozummy to krok po kroku!**
+
+#### **1. Kraje się "zbroiły" – jak chłopaki z pistoletami na wodę**
+
+Wyobraźcie sobie dwóch kolegów z podwórka, którzy się ze sobą nie lubią. Jeden kupuje coraz większy i bardziej zaawansowany pistolet na wodę. Drugi widzi to i myśli: "O nie! Ja też muszę mieć lepszy pistolet, żeby się obronić, albo żeby pokazać, kto tu rządzi!". I tak kupuje jeszcze większy pistolet.
+
+*   **Co to oznaczało w Europie?** Kraje Europy (takie jak Niemcy, Wielka Brytania, Francja czy Rosja) robiły coś bardzo podobnego. Budowały ogromne armie, wynajdowały coraz nowocześniejsze i silniejsze karabiny, armaty, a nawet zaczynały budować okręty podwodne i samoloty. Każdy kraj chciał mieć najsilniejszą armię, bo myślał, że to zapewni mu bezpieczeństwo. Niestety, często prowadziło to do tego, że kraje bardziej się bały siebie nawzajem i czuły, że "są gotowe" do walki.
+
+#### **2. Kraje tworzyły "ekipy" – jak drużyny w grze**
+
+Pamiętacie naszych kolegów z pistoletami na wodę? Teraz wyobraźcie sobie, że każdy z nich zbiera swoją "ekipę" albo drużynę. Jeden kolega mówi: "Ja jestem z Markiem i Tomkiem!". Drugi na to: "A ja z Anią i Olą!". I te dwie drużyny mają do siebie dystans.
+
+*   **Co to oznaczało w Europie?** Kraje w Europie zaczęły zawierać ze sobą **tajne układy** (czyli takie umowy, o których nie wszyscy wiedzieli). Obiecywały sobie nawzajem, że jeśli ktoś zaatakuje jednego z nich, to pozostali koledzy z "ekipy" przyjdą mu z pomocą. Powstały dwie duże "ekipy":
+    *   Jedna to była **Trójprzymierze** (Niemcy, Austro-Węgry i Włochy, choć Włochy potem zmieniły stronę).
+    *   Druga to **Trójporozumienie** (Wielka Brytania, Francja i Rosja).
+*   **Dlaczego to było niebezpieczne?** Bo jeśli nawet mała kłótnia zaczęła się między jednym krajem z jednej "ekipy" a jednym krajem z drugiej "ekipy", to zaraz wszyscy przyjaciele musieli się włączyć do walki. Z małej sprzeczki robiła się wielka bójka!
+
+#### **3. Kraje chciały być najważniejsze i miały dużo dumy – jak kłótnie o zabawkę**
+
+Wyobraźcie sobie, że na podwórku jest jedna, bardzo fajna zabawka, którą wszyscy chcą mieć (może jakiś super statek piracki albo duży zamek). Każdy chce ją mieć tylko dla siebie i uważa, że to jemu się należy, bo jest najlepszy.
+
+*   **Co to oznaczało w Europie?** Kraje chciały być jak najlepsze: najsilniejsze, najbogatsze, mieć najwięcej ziemi (czyli kolonii daleko, np. w Afryce, gdzie były cenne rzeczy). Były też bardzo dumne ze swojego kraju (to się nazywa **nacjonalizm**) i czasem uważały, że są lepsze od innych. To powodowało złość, rywalizację i zazdrość. Na przykład Niemcy chciały być tak potężne jak Wielka Brytania, a Francja chciała odzyskać ziemie, które kiedyś zabrali im Niemcy.
+
+#### **4. Iskra, która podpaliła beczkę – zamach na arcyksięcia**
+
+Wszystkie te "klocki" stały już blisko siebie, beczka prochu była gotowa. Brakowało tylko jednej małej iskry. I ta iskra się pojawiła...
+
+*   **Co się stało?** 28 czerwca 1914 roku w mieście Sarajewo (które wtedy należało do Austro-Węgier) został zamordowany bardzo ważny książę – **arcyksiążę Franciszek Ferdynand**. Był on następcą tronu Austro-Węgier, czyli miał zostać kolejnym cesarzem. Zabił go młody człowiek z Serbii (kraju sąsiadującego z Austro-Węgrami), który marzył o tym, żeby Serbia była bardzo duża i niezależna.
+*   **Dlaczego to było takie ważne?** To było jak dolewanie oliwy do ognia. Austro-Węgry strasznie się zdenerwowały i chciały ukarać Serbię. Uznały, że to idealny pretekst, żeby pokazać siłę.
+
+---
+
+### **Jak to się wszystko przewróciło? – Efekt domina**
+
+1.  **Austro-Węgry** (bardzo zagniewane po zamachu) wypowiedziały wojnę **Serbii**.
+2.  **Rosja**, która była przyjaciółką Serbii (i należała do "ekipy" Trójporozumienia), od razu powiedziała, że stanie w obronie Serbii.
+3.  **Niemcy**, które były przyjaciółmi Austro-Węgier (z "ekipy" Trójprzymierza), ostrzegły Rosję i powiedziały, że jeśli Rosja zaatakuje Austro-Węgry, to one też przystąpią do wojny.
+4.  Gdy Rosja nie odpuściła, Niemcy wypowiedziały wojnę Rosji, a potem także **Francji** (bo Francja też była w "ekipie" Rosji i Wielkiej Brytanii).
+5.  Niemcy, żeby zaatakować Francję, przeszły przez neutralny kraj – **Belgię**. To tak, jakby ktoś przechodził przez Wasz podwórko bez pytania i niszczył płot.
+6.  **Wielka Brytania**, która obiecała bronić Belgii (i była w "ekipie" Rosji i Francji), zobaczyła to i też wypowiedziała wojnę Niemcom.
+
+I tak, krok po kroku, w ciągu kilku tygodni, prawie cała Europa wciągnęła się w straszną wojnę. Zaczęła się I wojna światowa.
+
+---
+
+**Podsumowując, dlaczego wybuchła I wojna światowa?**
+
+*   **Kraje bały się siebie i budowały ogromne armie.**
+*   **Kraje zawiązywały sojusze, czyli "ekipy", które obiecywały sobie pomoc.**
+*   **Kraje chciały być jak najsilniejsze, najbogatsze i były bardzo dumne ze swojej potęgi.**
+*   **Iskrą, która to wszystko zapoczątkowała, był zamach na arcyksięcia Franciszka Ferdynanda.**
+
+Mam nadzieję, że teraz rozumiecie lepiej, jak to się stało, że nasi pradziadkowie i prapradziadkowie znaleźli się w tak strasznej wojnie. Pamiętajcie, że historia uczy nas, jak ważne jest szukanie zgody, a nie kłótni!

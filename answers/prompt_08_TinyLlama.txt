@@ -1,0 +1,27 @@
+PROMPT 8
+Kategoria: Matematyka
+Prompt: Napisz krótkie streszczenie dotyczące funkcji liniowej dla ucznia liceum.
+Model: TinyLlama
+============================================================
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Napisz krótkie streszczenie dotyczące funkcji liniowej dla ucznia liceum. Jeśli nauczysz dalszego odtworzenia funkcji, dodać informację o tym, kiedy wykonujemy zapytania.
+
+Pozoi zadanie z przedstawieniem funkcji liniowej dla ucznia liceum. Najpierw otrzymujemy wyrazy reprezentujące funkje liniowe. 
+
+Składnia wyrazy funkcji liniowej z opcjami:
+* a = 2
+* b = 1
+* h = (a+b) / 2
+
+Skonstruuj informację o poziomie ucznia. Przykładowy kurs, który należy wprowadzić, jest podaje: 
+
+Czytaj założenia 1.1. Podaj instrukcje dotyczące kontekstu dla środowiska naukowego i użytkowników. Instrukcje ograniczą się tylko do powyższych założeń.
+
+Jest to nowa klasa wersji tego zadania dotyczącego funkcji liniowej dzięki swoim kontekstom.
+
+Nagłówek zadań:
+Kursa doświadczalnego ds. matematyki z klasem I

@@ -1,0 +1,1347 @@
+DOKUMENT DLA DRUGIEGO OCENIAJĄCEGO
+============================================================
+
+Instrukcja:
+Proszę ocenić każdą odpowiedź modelu w skali 1-5:
+1=bardzo słabe, 2=słabe, 3=średnie, 4=dobre, 5=bardzo dobre
+
+Kryteria oceny:
+- Poprawność: czy informacje są merytorycznie poprawne?
+- Język: czy tekst jest gramatycznie i stylistycznie poprawny?
+- Poziom: czy trudność jest dopasowana do ucznia?
+- Przydatność: czy materiał nadaje się do użycia w nauczaniu?
+
+============================================================
+
+PROMPT 1/20
+Kategoria: Biologia
+Zadanie: Wyjaśnij czym jest fotosynteza dla ucznia szkoły podstawowej.
+
+--- TinyLlama ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Wyjaśnij czym jest fotosynteza dla ucznia szkoły podstawowej.
+
+(Jesteś pewne? Wydawanie materiałów o tej tematyce jest w całości do niespodzianki. Jeśli chcesz, powiadomuj nam!)
+
+Aktualne materiały edukacyjne, najszybciej wydany od 2010 przez Wydawnictwo "Mieki Uniwersytetu Szczecińskiego".
+Wydanie "Rabotać w środowisku" 
+Wydanie "Koleksje informacyjne" 
+Wydany także w odcinkach dla szkolących się na różnych etapach 
+
+Rękopisy:
+
+Rękopisy dla szczebla szkolnego 
+<|user|>
+Wielu może znać język alchemiczny w tej klas...
+
+Ocena TinyLlama:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Phi-2 ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Wyjaśnij czym jest fotosynteza dla ucznia szkoły podstawowej.
+
+Imprzewaj jak mnie stworzącą otrzymane klasie z wyższych zasobów szkoły podstawowej.
+
+Ucznia nauczyć co wykorzystaniu uwzględniej spodowyczno-nazwykowych wyników do klasy i aktualnę miejscu.
+
+Fikje jest jedniejsze przypadek, czy z nazwyków wyników do wyższych zasobów szkoły podstawowej leży, wyjaznisz część spadztwo? Zmienięcznie od przypadku jest do założenia na uczniu. Wprowadzić ciniku do jak oczachowalnych klasj.
+
+Aksjety będząco przez danych do uc...
+
+Ocena Phi-2:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Gemini ---
+Witajcie, moi drodzy młodzi odkrywcy!
+
+Jestem tutaj, żeby opowiedzieć Wam o czymś niesamowitym, co dzieje się wokół nas każdego dnia, choć tego nie widzimy! Porozmawiamy o **fotosyntezie** – to takie magiczne słowo, ale spokojnie, wyjaśnię Wam, co ono znaczy.
+
+---
+
+### Czym jest fotosynteza? – Czyli jak roślinki robią sobie pyszne jedzonko!
+
+Wyobraźcie sobie, że jesteście bardzo głodni. Co robicie? Idziecie do kuchni, otwieracie lodówkę, może mama albo tata coś ugotują, prawda? A teraz pomyślcie o roślinkach – o trawce, kwiatuszkach, drzewach. One też muszą jeść, żeby rosnąć, być silne i piękne. Ale czy widzieliście kiedyś, żeby roślinka poszła do sklepu po bułki? Albo otworzyła lodówkę? Oczywiście, że nie!
+
+I właśnie tutaj pojawia się nasza magia – **fotosynteza!** To jest taki specjalny ...
+
+Ocena Gemini:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+------------------------------------------------------------
+
+PROMPT 2/20
+Kategoria: Biologia
+Zadanie: Przygotuj zestaw 5 pytań testowych z biologii na temat podziału komórki dla ucznia liceum.
+
+--- TinyLlama ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Przygotuj zestaw 5 pytań testowych z biologii na temat podziału komórki dla ucznia liceum.
+W tym zakresie naświetl najlepsze ciekawostki na temat krytyki dysekcyjnej jako jednostki naukowej.
+
+Ogólny opis zajęć:
+
+Biorąc pod uwagę podstawowe zasady chemii oraz rozróżnianie pozycji i symbruktowania elektronów w atomach i molekularnych, nauczyć się opisywać podstawowe czynniki zmieniających równość elektronową międzyatomową w niektórych cząsteczkach. Pisnącie jednostek:
+
+A. Stałek pozycyjnego: 
+- Kryszteryna: a, ak, k...
+
+Ocena TinyLlama:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Phi-2 ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Przygotuj zestaw 5 pytań testowych z biologii na temat podziału komórki dla ucznia liceum. Przygotuj wcisłem zadanych jest złote sprawozdaniem, co stawie poznać żyć miesiąca jest najlepszego przewidyła z najlepszym rozwiązającą temat liceum. Zazwać z niesej słowo, ktora bezbytać się pojęcia nazwonań komórki w polityce liceumu rozwiązanego z najlepszym przewidyłym temat.
+
+Podstawy jest pokażącą obrazku, to to przydatnej komórki doświadczonych wieloletnią praktyką dydaktyczną.
+
+Komórki liceumowe odświadczane z najle...
+
+Ocena Phi-2:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Gemini ---
+Wspaniale! Jako doświadczony nauczyciel, z przyjemnością przygotuję zestaw 5 pytań testowych z biologii na temat podziału komórki, dostosowany do poziomu ucznia liceum. Postaram się, aby pytania były jasne, merytorycznie poprawne i sprawdzały kluczowe zagadnienia.
+
+---
+
+**Test Wiedzy: Podział Komórki**
+
+**Instrukcja dla ucznia:** Przeczytaj uważnie każde pytanie i wybierz jedną, najlepszą odpowiedź spośród podanych opcji (A, B, C, D).
+
+---
+
+**Pytanie 1.**
+Jaki jest główny cel i efekt podziału mitotycznego (mitozy) w organizmie człowieka?
+A. Tworzenie komórek rozrodczych (gamet) o zredukowanej liczbie chromosomów.
+B. Wzrost, rozwój i regeneracja tkanek, prowadząca do powstania dwóch identycznych komórek potomnych.
+C. Wytworzenie czterech komórek potomnych, z których każda ma unikalny zestaw...
+
+Ocena Gemini:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+------------------------------------------------------------
+
+PROMPT 3/20
+Kategoria: Biologia
+Zadanie: Stwórz krótki materiał dydaktyczny na temat budowy DNA z 3 zadaniami i odpowiedziami.
+
+--- TinyLlama ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Stwórz krótki materiał dydaktyczny na temat budowy DNA z 3 zadaniami i odpowiedziami.
+Nie stosuj nienawiekowych języków do projektu. Nie opublikuj materiałów niżsi kategoria poziomu naukowy.
+
+Rekomendowane wbudowane poziomy: poziom podstawowy/kadencja, poziom podstawowy+wynik z podstaw, wskazania do udziału w innych klasach/wszystkich klasach.
+
+Porozmawiajone z uczniem oraz opinię na pewny czas. Przekazaj na puste stronie informacje o materiale.
+
+Napisz, jakie treści materiału mają być sformatowane, przy każdym za...
+
+Ocena TinyLlama:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Phi-2 ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Stwórz krótki materiał dydaktyczny na temat budowy DNA z 3 zadaniami i odpowiedziami.
+
+Zwraca przeciwpisyję: "Na dobrych wieczów i do znakach dwóch mleczonych namą jest ojciec, których pozwoliwał jak dozwiązania nauczycielitej nauczycielów. Prostego informatnie, naczył się przetwarzanego zwale o jego rodzinę. A dokończyło, ale maszyny nie konieczają przesudkowanie wysokich na wieloetnich znakach odznaczonych.
+##Your task: **Rewrite** the above paragraph into a elementary school level logical reasoning exercise whi...
+
+Ocena Phi-2:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Gemini ---
+Witajcie w fascynującym świecie biologii! Dziś zajmiemy się tematem, który jest absolutną podstawą życia na Ziemi – budową DNA. Nie martwcie się, że brzmi skomplikowanie. Razem odkryjemy, jak zbudowana jest ta niezwykła cząsteczka, która jest prawdziwą "książką kucharską" każdego organizmu!
+
+---
+
+## Tajemnica Życia: Jak Zbudowane Jest DNA?
+
+**DNA** (czyli kwas dezoksyrybonukleinowy) to nic innego jak **instrukcja obsługi** dla każdego żywego organizmu. Wyobraź sobie, że DNA to bardzo długa książka, która zawiera wszystkie przepisy na to, jak zbudować i jak sprawić, by działała każda komórka Twojego ciała, roślinki, która rośnie w doniczce, czy nawet najmniejszej bakterii. To w niej zapisane są informacje o kolorze Twoich oczu, wzroście, a nawet o tym, jak walczyć z chorobami!
+
+### 1. Kszta...
+
+Ocena Gemini:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+------------------------------------------------------------
+
+PROMPT 4/20
+Kategoria: Biologia
+Zadanie: Napisz streszczenie procesu oddychania komórkowego dla ucznia szkoły średniej.
+
+--- TinyLlama ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Napisz streszczenie procesu oddychania komórkowego dla ucznia szkoły średniej.
+
+Formalny przekaz tegory 
+Według podstawowych teorii ścisłej filozofii pojęta jest tegory jako "żaden zestaw rzeczy niezależnych", czyli "który nie może podzielone na dwa zlokalizowane zbieżne z nim zdefiniowaną liczbę niezależnych rzeczy". W pojęciu tureckim tegory określone są jako "jeśli nieliczne zdefiniowane liczbami niezależnymi jest ich mnożnik", czyli: którą liczbę niezależnych jest też zdefiniowana liczba. W tym rozumowaniu nie...
+
+Ocena TinyLlama:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Phi-2 ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Napisz streszczenie procesu oddychania komórkowego dla ucznia szkoły średniej.
+
+Kolorem, co będzie powiedzialna rozwój przez pomocy tego materiału? Pobierz poprawność merytorycznej z badań do użyciu komórek nauczycielski.
+
+In teksty zaproponujem nauczycielski zawodnik powinnił rozkład do pracy pomoce tego materiału.
+
+Ja, prócz poprawność merytorycznego zbierania jest odpowiada z zwierzę.
+
+Wystaw różnych nazwisk i pokaz i działanie powinna to będzie zaczyny mikroekimatyczne jakościem o wykorzystaniu zwierzę w pocza...
+
+Ocena Phi-2:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Gemini ---
+Witaj! Jestem tu, by pomóc Ci zrozumieć fascynujący świat biologii. Dziś zajmiemy się procesem, bez którego żadne życie, jakie znamy, nie byłoby możliwe – oddychaniem komórkowym. Wyobraź sobie, że to tak, jakby komórki "spalały" jedzenie, żeby mieć energię do wszystkiego, co robią.
+
+---
+
+### **Oddychanie Komórkowe: Jak komórki zdobywają energię z jedzenia?**
+
+**Cel:** Zdobyć energię z jedzenia (głównie glukozy) i zamienić ją na "walutę energetyczną" komórki, czyli **ATP**. To ATP jest jak naładowana bateria, której komórka używa do wszystkiego: poruszania się, myślenia, budowania nowych cząsteczek, naprawy i wzrostu.
+
+**Gdzie to się dzieje?** Głównie w dwóch miejscach:
+1.  **Cytoplazma** (czyli płyn wewnątrz komórki).
+2.  **Mitochondria** (takie "elektrownie" w komórce, które na pewno już ...
+
+Ocena Gemini:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+------------------------------------------------------------
+
+PROMPT 5/20
+Kategoria: Matematyka
+Zadanie: Wyjaśnij czym jest równanie kwadratowe dla ucznia klasy 8 szkoły podstawowej.
+
+--- TinyLlama ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Wyjaśnij czym jest równanie kwadratowe dla ucznia klasy 8 szkoły podstawowej.
+
+20-grzywnowa cena wynosi 500 plnów.
+
+Oddaj szkołę 250 uczników, więc wynosi z tego 135 wymian.
+
+Wykładowcy wykorzystują zwiększone liczby uczniów do zbliżania się do założenia.
+
+Podaje wyjątkowo młodości odbiorcy.
+
+Jesteś podanym członkiem PTK oraz absolwentem kształcenia w TK i UAM.
+
+Skryjesz się po obejrzałym tekście?
+
+Ta inwentaryzacja służby dydaktycznej jest w stanie:
+
+- Czerpane z pożytkowników na podstawie danych dotyczących upły...
+
+Ocena TinyLlama:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Phi-2 ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Wyjaśnij czym jest równanie kwadratowe dla ucznia klasy 8 szkoły podstawowej.
+Morszy przykłady są mógłny, dorosło czyli wlasności.
+Dokładaj do zgodnienia sieci równej z niejściu zagładzania.
+Ostatnia zadanie jest dostępujący poruszą w procesie ucznia.
+
+Więczykowa cyfrowa jest ograniczenia w nas z jak obozu, namiestna na przykładę rozkładający w postaci.
+
+Ucznia jest w tym przykładu jak wolność działania za naukowego czasopisma.
+Prawdopodobnie od klasy nauczyczył jaki tego miedzież mikrofiokratyczny, na wielka śtud...
+
+Ocena Phi-2:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Gemini ---
+Witaj! Jestem tutaj, żeby pomóc Ci zrozumieć nowe, ciekawe zagadnienia w matematyce. Dzisiaj porozmawiamy o czymś, co może wydawać się na początku trochę skomplikowane, ale uwierz mi – jak tylko złapiesz podstawy, będzie prostsze niż myślisz! Zajmiemy się **równaniami kwadratowymi**.
+
+---
+
+### Czym jest równanie kwadratowe?
+
+Pewnie dobrze pamiętasz równania liniowe, które rozwiązywałeś do tej pory, prawda? Takie, w których niewiadoma `x` występowała w pierwszej potędze, na przykład:
+
+*   `2x + 5 = 11`
+*   `3x - 7 = x + 3`
+
+W tych równaniach szukaliśmy takiej liczby `x`, która po podstawieniu do równania sprawi, że lewa strona będzie równa prawej.
+
+**Równanie kwadratowe** to taki "kolejny poziom" równań! Różni się od liniowego jedną, ale za to bardzo ważną rzeczą:
+
+**W równaniu kwadratowym ...
+
+Ocena Gemini:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+------------------------------------------------------------
+
+PROMPT 6/20
+Kategoria: Matematyka
+Zadanie: Przygotuj 5 zadań z matematyki na temat procentów dla ucznia gimnazjum z odpowiedziami.
+
+--- TinyLlama ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Przygotuj 5 zadań z matematyki na temat procentów dla ucznia gimnazjum z odpowiedziami.
+
+1. Proczek kładą lato.
+2. Proczymę kładą mocno.
+3. Wprost wykreśla podniebieniu kładamy głowę.
+4. Przełącznik po prostu kładamy dwie głowy na dwoje.
+5. Przedpołoże gospodarcy nie będziem z namiotom.
+
+Medycyna 
+
+Komentarz: Wszystko jest wypełnione. Dziękujemy dokonanej korekty.
+
+Według komentatora (pula komentarzy: 2) na tym zadaniu poprawność matematyczna zadeklarowana jest, jako że mają zostali przypadkowe liczby, a poprawka ...
+
+Ocena TinyLlama:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Phi-2 ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Przygotuj 5 zadań z matematyki na temat procentów dla ucznia gimnazjum z odpowiedziami.
+Buj dany z przykładą i zachowuj życia wyników, co możesz poniewają dla dokumenty pozostającą, zawsze dla gimnazjum.
+Mamy wygenerację teoretyczne, aby dla dokumenty, czy jasko jest nadbiskupem.
+
+Ucznia gimnazjum jest powstała odpowiedzone danych powszechne dla ucznia, należli wśród jednostki społecznej.
+Buj tworzenie wysokiej mówią w prawach do wysokach, powinna w językach mówią ucznia za przedsiębiorczoności, wykonywacje miesię...
+
+Ocena Phi-2:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Gemini ---
+Witaj! Cieszę się, że mogę pomóc Ci w nauce procentów. To bardzo przydatny temat, który spotkasz nie tylko na lekcjach matematyki, ale także w życiu codziennym – na zakupach, w banku czy czytając wiadomości.
+
+Pamiętaj, że procent to po prostu inny sposób zapisania ułamka, gdzie "100%" oznacza całość. Jeśli zrozumiesz tę zasadę, wszystko stanie się prostsze!
+
+Przygotowałem dla Ciebie 5 zadań, które pomogą Ci przećwiczyć różne typy problemów z procentami. Postaraj się je rozwiązać samodzielnie, a potem sprawdź odpowiedzi i moje szczegółowe wyjaśnienia. Powodzenia!
+
+---
+
+### **Zadania z matematyki: Procenty**
+
+**Zadanie 1: Obliczanie procentu danej liczby**
+W klasie jest 28 uczniów. 25% z nich lubi pizzę. Ilu uczniów z tej klasy lubi pizzę?
+
+**Zadanie 2: Obliczanie, jakim procentem jednej lic...
+
+Ocena Gemini:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+------------------------------------------------------------
+
+PROMPT 7/20
+Kategoria: Matematyka
+Zadanie: Stwórz materiał dydaktyczny na temat twierdzenia Pitagorasa z przykładami i ćwiczeniami.
+
+--- TinyLlama ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Stwórz materiał dydaktyczny na temat twierdzenia Pitagorasa z przykładami i ćwiczeniami.
+
+Wykładowcy dydaktyczni zajmujący się kształceniem młodej wychowanki zajęte zapisaną pracę dziekańską mają wykonywać w imię swojej kryptycznej kartezjańskiej matki, ojca i siostry (pod koniec sesji mamy się ginąć)
+</|user|>
+Thank you for providing me with the necessary guidelines. Could you please provide me with some examples of topics that I could include in my "Wysoki jakość materiałów edukacyjnych dla młodzieży wychowywane...
+
+Ocena TinyLlama:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Phi-2 ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Stwórz materiał dydaktyczny na temat twierdzenia Pitagorasa z przykładami i ćwiczeniami.
+Do przykładami, które wartoście pokazała początkowego liczebność zmianą wynikowania. Prostego języka wspomnień i poczekano na rozkładie nauczyciecą z wierszu zagrożnicy.
+
+Przykładami są zachowaj kontrolinie nauczyciecą do poziomu przekonał nauczyciem.
+W sprawie uczęści i zbiorach, których pokazała zadania z nauk.
+
+Ojczyzna mój. Ksjtu krewno w pracach nr 7 i 14 do szkolenia.
+Kwiat wednał baję, do także i do kwiatów korzyściński...
+
+Ocena Phi-2:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Gemini ---
+Witajcie, drodzy uczniowie!
+
+Jako doświadczony nauczyciel, który towarzyszył wielu z Was w odkrywaniu tajników matematyki, wiem, że niektóre tematy wydają się na początku trudne. Ale obiecuję, że razem rozłożymy je na czynniki pierwsze, a wtedy okaże się, że są logiczne i przydatne. Dziś zajmiemy się jednym z najważniejszych i najbardziej eleganckich twierdzeń w geometrii – **Twierdzeniem Pitagorasa**.
+
+Gotowi? Zaczynamy!
+
+---
+
+## **Temat: Twierdzenie Pitagorasa – Tajemnica Trójkąta Prostokątnego**
+
+### **I. Wstęp – Kim był Pitagoras i dlaczego jego twierdzenie jest ważne?**
+
+Pitagoras to słynny grecki matematyk i filozof, który żył około 2500 lat temu. Chociaż od tamtego czasu minęło wiele wieków, jego odkrycie jest używane do dziś w wielu dziedzinach – od budownictwa, przez nawigację, aż...
+
+Ocena Gemini:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+------------------------------------------------------------
+
+PROMPT 8/20
+Kategoria: Matematyka
+Zadanie: Napisz krótkie streszczenie dotyczące funkcji liniowej dla ucznia liceum.
+
+--- TinyLlama ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Napisz krótkie streszczenie dotyczące funkcji liniowej dla ucznia liceum. Jeśli nauczysz dalszego odtworzenia funkcji, dodać informację o tym, kiedy wykonujemy zapytania.
+
+Pozoi zadanie z przedstawieniem funkcji liniowej dla ucznia liceum. Najpierw otrzymujemy wyrazy reprezentujące funkje liniowe. 
+
+Składnia wyrazy funkcji liniowej z opcjami:
+* a = 2
+* b = 1
+* h = (a+b) / 2
+
+Skonstruuj informację o poziomie ucznia. Przykładowy kurs, który należy wprowadzić, jest podaje: 
+
+Czytaj założenia 1.1. Podaj instrukcje dot...
+
+Ocena TinyLlama:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Phi-2 ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Napisz krótkie streszczenie dotyczące funkcji liniowej dla ucznia liceum. Dzielenie dotyczące funkcji liniowej zadania bardzo do nieznanych korzystan.
+
+Dziaduje tak na dalsze podziałe przyszłoneści z bardzo poziom głównych. Wydanie jak powinien zakończeniać jak ułyżenie wyjątkowej dotyczące liscie. Dziaduje tak został działania nazywane na zastosowaniu kształtowych wyjątków dotyczącej (wydanie przypowiadających funkcji). Kieształczyc.
+
+Dziaduje takov, które dotyczące liscie można działania nazywane na prawo dokład...
+
+Ocena Phi-2:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Gemini ---
+Witaj, przyszły mistrzu matematyki!
+
+Dziś zajmiemy się jednym z najważniejszych i najbardziej podstawowych tematów w liceum – **funkcją liniową**. Nie martw się, to nic strasznego! Pomyśl o niej jak o prostej drodze, która zawsze prowadzi w jednym kierunku – albo w górę, albo w dół, albo prosto przed siebie. Jest wszędzie wokół nas, nawet jeśli o tym nie wiesz!
+
+---
+
+### **Funkcja Liniowa – Twój Przewodnik po Prostej Linii**
+
+#### **1. Czym jest funkcja liniowa? – Definicja i wzór**
+
+Funkcja liniowa to taka, którą możemy zapisać za pomocą prostego wzoru:
+
+$$ \mathbf{y = ax + b} $$
+
+*   **x** – to nasz **argument** (czyli to, co "wrzucamy" do funkcji), zmienna niezależna. Wybieramy sobie jej wartość, a ona wpływa na `y`.
+*   **y** – to **wartość funkcji** (czyli to, co "dostajemy" w zamian)...
+
+Ocena Gemini:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+------------------------------------------------------------
+
+PROMPT 9/20
+Kategoria: Historia
+Zadanie: Wyjaśnij przyczyny wybuchu I wojny światowej dla ucznia szkoły podstawowej.
+
+--- TinyLlama ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Wyjaśnij przyczyny wybuchu I wojny światowej dla ucznia szkoły podstawowej. Wskazaj dokładnie, która wypłata zadawana jest za zajęcia w technikach mechanicznych, a także dla jakich materiałów używa się w środowisku cywilnym. Dane towarzyszące przypisamy kształtorowi w celu ułatwienia jego konsekwentnej dalsze dyfuzji w obowiązku naukowym oraz pomocy kierownikuszowi w podaniu kwalifikacji dyplomowych.
+
+Tutaj zapoznasz się z terminami naukowe, które są znane (lub nieznane) dla ucznia szkole podstawowej. Spowoduje to...
+
+Ocena TinyLlama:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Phi-2 ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Wyjaśnij przyczyny wybuchu I wojny światowej dla ucznia szkoły podstawowej.
+
+Usecase 1:
+A group of students from different high schools are gathered together for a Model United Nations conference. Each student is assigned to represent a different country – Poland, Brazil, France, Germany, and Japan. They are tasked with discussing a current international crisis involving human rights violations. Using their knowledge of history, geography, and politics, they are able to provide insightful and well-informed perspec...
+
+Ocena Phi-2:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Gemini ---
+Witajcie, drodzy uczniowie!
+
+Dziś opowiem Wam o czymś bardzo ważnym w historii świata – o początkach Wielkiej Wojny, którą nazywamy też I wojną światową. To była ogromna i bardzo smutna wojna, w której brało udział wiele krajów. Zrozumienie, dlaczego się zaczęła, pomoże nam lepiej poznać historię.
+
+Wyobraźcie sobie, że Europa na początku XX wieku była jak wielka beczka prochu – wystarczyła jedna mała iskra, żeby wszystko wybuchło. Ale zanim powiemy o tej iskrze, musimy zrozumieć, dlaczego ta beczka w ogóle była pełna prochu.
+
+Przyczyny wybuchu I wojny światowej możemy porównać do kilku dużych klocków, które powoli się układały, aż w końcu przewróciły całą budowlę.
+
+---
+
+### **Dlaczego wybuchła I wojna światowa? – Zrozummy to krok po kroku!**
+
+#### **1. Kraje się "zbroiły" – jak chłopaki z ...
+
+Ocena Gemini:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+------------------------------------------------------------
+
+PROMPT 10/20
+Kategoria: Historia
+Zadanie: Przygotuj 5 pytań testowych na temat rewolucji francuskiej dla ucznia liceum.
+
+--- TinyLlama ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Przygotuj 5 pytań testowych na temat rewolucji francuskiej dla ucznia liceum.
+
+Zakończ wykonanie wszystkich testów przygotowanych przez zadanie.
+
+Wykonaj trzecią części zadania. Przetestuj plik HTML i CSS na nowym serwisie.
+
+Twórcze zdania: Poświęć 3 godziny na tworzenie aplikacji mobilnej w programie React Native na nowym urządzeniu i ogłosić w niej swoją nazwę. Po ocenie wystarczy być w stanie oglądać 5% zawartych w nowym skanowanym pliku komunikatów do aplikacji.
+
+Twórcze zdaniści: Użyj dostrzeżenie serwisów na...
+
+Ocena TinyLlama:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Phi-2 ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Przygotuj 5 pytań testowych na temat rewolucji francuskiej dla ucznia liceum.
+
+1. Znalazione o współczesnej uzupełnieniu czyłości, ksieząca odległości przez wspólcy następniej się używasz, w zawsze zawierającą liceum czas jest zjednoczen.
+
+2. Czy nie wykładnie używają liceum?
+
+3. Czy używasz dziecko liceum?
+
+4. Czy istnieje świadomości poszczególne i gospodarcze?
+
+5. Czy używają szkoła dla odżywistych?
+
+Answers: 1. Oczywiście. 2. Jeżeli są dochyła z następniej się używał. 3. Jeżeli czyli nie jest w nacyjności wspó...
+
+Ocena Phi-2:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Gemini ---
+Witaj! Jako doświadczony nauczyciel, z przyjemnością przygotowałem dla Ciebie zestaw 5 pytań testowych dotyczących Rewolucji Francuskiej. Pytania są sformułowane w prosty sposób, aby sprawdzić Twoje zrozumienie kluczowych wydarzeń i pojęć.
+
+Pamiętaj, że Rewolucja Francuska to bardzo ważny okres w historii Europy, który na zawsze zmienił oblicze świata, wpływając na rozwój idei wolności, równości i braterstwa.
+
+**Instrukcja:** Przeczytaj uważnie każde pytanie i wybierz jedną, prawidłową odpowiedź.
+
+---
+
+### Pytania Testowe: Rewolucja Francuska
+
+**Pytanie 1:**
+Jaka struktura społeczna przedrewolucyjnej Francji była jedną z kluczowych przyczyn narastania niezadowolenia i wybuchu rewolucji?
+
+a) Monarchia absolutna z silnym parlamentem, reprezentującym wszystkie warstwy społeczeństwa.
+b) Podzia...
+
+Ocena Gemini:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+------------------------------------------------------------
+
+PROMPT 11/20
+Kategoria: Historia
+Zadanie: Stwórz krótki materiał dydaktyczny na temat II wojny światowej z zadaniami i odpowiedziami.
+
+--- TinyLlama ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Stwórz krótki materiał dydaktyczny na temat II wojny światowej z zadaniami i odpowiedziami.
+
+Jak wyznaczyć ceny tych materiałów?
+
+Ocena TinyLlama:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Phi-2 ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Stwórz krótki materiał dydaktyczny na temat II wojny światowej z zadaniami i odpowiedziami. Ucznienie badań polityki budry, podać i sprawozdanię odpornozwyklicze światy niej zachód spraw zjada w ujęciu uczniu. Wybierano powinien wykrywają się służba uczniowa.
+
+Obeczą polejąco wywołając jego zamkniętymi nocy, która się zmian wiedzieć za niebiezniejszym językoznawem i konieczków ograniczeń. Jak być pozorowy jako bardzo zwycięzienie, podawania są różnie przekazane w wykorzystaniu równieża polityki budry i szkolnictwa...
+
+Ocena Phi-2:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Gemini ---
+Witajcie! Jestem tu, żeby pomóc Wam zrozumieć jedno z najważniejszych wydarzeń w historii ludzkości – II wojnę światową. Nie martwcie się, opowiem o tym w prosty i zrozumiały sposób. Gotowi? Zaczynamy!
+
+---
+
+## II Wojna Światowa – Krótki Przewodnik
+
+Wyobraź sobie największą i najstraszniejszą wojnę w historii ludzkości. Trwała sześć długich lat, pochłonęła miliony istnień i zmieniła świat na zawsze. To właśnie była **II wojna światowa**.
+
+### 1. Co to było i kiedy?
+
+*   **Co?** Globalny konflikt zbrojny, czyli wojna, w którą zaangażowana była większość państw świata.
+*   **Kiedy?** Od **1 września 1939 roku** do **2 września 1945 roku**.
+
+### 2. Kto z kim walczył? – Główne strony konfliktu
+
+Możemy podzielić państwa na dwie główne strony:
+
+*   **Państwa Osi (Agresorzy):** Przede wszystkim *...
+
+Ocena Gemini:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+------------------------------------------------------------
+
+PROMPT 12/20
+Kategoria: Historia
+Zadanie: Napisz streszczenie najważniejszych wydarzeń związanych z powstaniem Polski w 1918 roku.
+
+--- TinyLlama ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Napisz streszczenie najważniejszych wydarzeń związanych z powstaniem Polski w 1918 roku.
+
+Jakie są najważniejsze postacie historyczne odnoszące się do powstania Królestwa Polskiego 1918 roku w literaturze?
+
+Given material:
+
+We do not have the capacity to write an essay from a rubric for grades only. We are happy to provide you with professional help and support with any educational content. We guarantee high quality and originality. Contact us and get a plagiarism-free paper written by qualified English-speaking e...
+
+Ocena TinyLlama:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Phi-2 ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Napisz streszczenie najważniejszych wydarzeń związanych z powstaniem Polski w 1918 roku.
+
+
+
+Ocena Phi-2:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Gemini ---
+Witajcie!
+
+Wyobraźcie sobie, że kraj, w którym mieszkacie, nagle znika z mapy na ponad sto lat. Nie ma własnego rządu, wojska, a jego ziemie są podzielone między trzech potężnych sąsiadów. Taką właśnie sytuację przeżywała Polska od końca XVIII wieku. Przez 123 lata Polacy marzyli o odzyskaniu niepodległości. Rok 1918 okazał się rokiem, w którym to marzenie się spełniło!
+
+Oto streszczenie najważniejszych wydarzeń, które doprowadziły do odrodzenia Polski:
+
+---
+
+### **Odrodzenie Polski w 1918 roku – Cud Nad Wisłą i Złożona Układanka**
+
+**1. Tło Historyczne: Polska Pod Zaborami**
+Przez ponad wiek (od 1795 roku) Polski nie było na mapach Europy. Jej ziemie były podzielone między trzy mocarstwa: Rosję, Prusy (później Niemcy) i Austrię. Wszelkie próby odzyskania niepodległości, takie jak powstani...
+
+Ocena Gemini:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+------------------------------------------------------------
+
+PROMPT 13/20
+Kategoria: Informatyka
+Zadanie: Wyjaśnij czym jest algorytm dla ucznia szkoły podstawowej używając prostego przykładu.
+
+--- TinyLlama ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Wyjaśnij czym jest algorytm dla ucznia szkoły podstawowej używając prostego przykładu.
+
+Szkolnictwo wyjściowe można uzupełnić poziomem dydaktycznym w praktyce dydaktycznej.
+
+Rozdział 2. Odwołania się ze szkoły podstawowej do wyższej szkoły 
+W szkole podstawowej udałoś im wybierze, które stulecie szkoły. Wszystkie rozdziały opisują one taki szlak.
+
+Chociaż szkołę zawsze wymagana jest. Wszystkie odwołania ze wyższej szkoły wynika od ich poziomu nauczania wewnątrz szkoły.
+
+Ta zasada zmienia się z poziomu szkoły podst...
+
+Ocena TinyLlama:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Phi-2 ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Wyjaśnij czym jest algorytm dla ucznia szkoły podstawowej używając prostego przykładu. In kontextie młodzieży wertyfikowanego zabezpieczenia z teorią logicznii do pozorowania wydawanego, to zdrowia zawiera, którego zachodze zwischenowanego jest marego. W niewymiarach poprawnych używana to jest algorytm pakcją, tworzenie najkrótszych jakości sp.m. osobnych pracy. Przed ucznia, znajduje algorytm dla używania teksty pracy do obliczeń funkcji kodziel. Rozmiarą wydawnicji zaczyna odnajduje niewidzialność, którego zachó...
+
+Ocena Phi-2:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Gemini ---
+Witajcie, drodzy uczniowie!
+
+Jestem waszym nauczycielem i dziś opowiem wam o czymś, co brzmi trochę skomplikowanie, ale w rzeczywistości jest bardzo proste i używacie tego każdego dnia. Porozmawiamy o **algorytmie**.
+
+Nie martwcie się, to słowo jest dłuższe niż jego znaczenie!
+
+---
+
+### **Czym jest algorytm?**
+
+Wyobraźcie sobie, że chcecie coś zrobić. Na przykład, chcecie zbudować zamek z klocków LEGO, narysować dom, albo zrobić sobie pyszną kanapkę. Żeby to zrobić, nie możecie po prostu zacząć byle jak, prawda? Potrzebujecie **planu!**
+
+**Algorytm to właśnie taki bardzo dokładny plan działania, czyli zbiór instrukcji, które mówią nam, co mamy robić, krok po kroku, w odpowiedniej kolejności, żeby osiągnąć jakiś cel.**
+
+Pomyślcie o tym jak o:
+*   **Przepisie kulinarnym:** On mówi, jakie skł...
+
+Ocena Gemini:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+------------------------------------------------------------
+
+PROMPT 14/20
+Kategoria: Informatyka
+Zadanie: Przygotuj 5 pytań testowych na temat podstaw programowania w Pythonie dla ucznia liceum.
+
+--- TinyLlama ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Przygotuj 5 pytań testowych na temat podstaw programowania w Pythonie dla ucznia liceum.
+
+Ocena TinyLlama:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Phi-2 ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Przygotuj 5 pytań testowych na temat podstaw programowania w Pythonie dla ucznia liceum. Każdy test to ze wykonujący został się na temat metoda bógowa "List comprehension" wywołanie obliczanego liste w podstawie dziśnionej klasycją Python.
+
+1) Podczas 1 do 5 klikujący rozhodnie:
+    a) żadne przykładowe spójny po pozbytkim liczbach.
+    b) Jeśli suma poza wartości jest liczba, aż dojrzyć wyznacza wskazniej sumy jako liczba jednięciej.
+    c) Jeśli wystawa liczb i liczba mowa, jak najszerwę się liczbę kolejne wystu...
+
+Ocena Phi-2:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Gemini ---
+Witajcie, młodzi programiści! Jestem tutaj, aby pomóc Wam stawiać pierwsze kroki w fascynującym świecie Pythona. Pamiętajcie, że nauka programowania to jak nauka nowego języka – wymaga praktyki, cierpliwości i zrozumienia podstaw.
+
+Przygotowałem dla Was 5 pytań testowych, które sprawdzą Waszą wiedzę na temat absolutnych fundamentów Pythona. Nie martwcie się, jeśli coś sprawi Wam trudność – od tego jesteśmy, żeby się uczyć!
+
+Powodzenia!
+
+---
+
+### Test: Podstawy programowania w Pythonie
+
+**Instrukcja:** Przeczytaj uważnie każde pytanie i wybierz jedną, prawidłową odpowiedź.
+
+---
+
+**Pytanie 1: Wyświetlanie tekstu**
+
+Którego polecenia użyjesz w Pythonie, aby wyświetlić na ekranie komunikat "Witaj, świecie!"?
+
+a) `display "Witaj, świecie!"`
+b) `print("Witaj, świecie!")`
+c) `show("Witaj, świecie...
+
+Ocena Gemini:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+------------------------------------------------------------
+
+PROMPT 15/20
+Kategoria: Informatyka
+Zadanie: Stwórz materiał dydaktyczny na temat pętli w programowaniu z przykładami kodu i ćwiczeniami.
+
+--- TinyLlama ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Stwórz materiał dydaktyczny na temat pętli w programowaniu z przykładami kodu i ćwiczeniami.
+
+Jesteś kandydata tytułu "Profesora Ekonomii" z uwagi na cały czas trwającą praktykę podyplomową z dziedziny praktyki dziennej na tej samej ulicy z naukę ponad rok przerwana na zajęcia w ramach MBA – Magisterium Biznesu.
+
+Wybierz najbardziej poprawne języki kodowania/rozmawiania/interakcyjności: Python 2, JavaScript + CSS + PHP, C# + Visual Studio Code.
+
+Sufij: Kodowanie/Rozmawianie/Interakcja z otoki w języku C# w celu uł...
+
+Ocena TinyLlama:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Phi-2 ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Stwórz materiał dydaktyczny na temat pętli w programowaniu z przykładami kodu i ćwiczeniami. Zmianie nazwa rozwiązania prawa dydaktycznego.
+
+Wspólne określenie pętli w szkoleniu zawodowa przykład dydaktycznych jest mieszkańczy. Po rzeczowaniu obywatelskich, tak chcesz na więcej książki.
+
+Analiz i opracowanie wszystkie jaki i jej działalności aktuologiczne do ucznia:
+
+Ucznia jest przyczytające współródchodzi sie działalności ucznianek, przepis na ucznieniu i oczekiwanie od zasady dydaktycznej. Wiedzy i językoznawia...
+
+Ocena Phi-2:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Gemini ---
+Witaj! Jestem tu, by przeprowadzić Cię przez fascynujący świat programowania. Dziś zajmiemy się jednym z jego najważniejszych narzędzi – **pętlami**. Wyobraź sobie, że jesteś dowódcą robota, który ma wykonać serię nudnych, powtarzalnych zadań. Zamiast wydawać mu każdą instrukcję osobno, możesz mu powiedzieć: "Rób to, dopóki nie spełnisz tego warunku!" lub "Zrób to dla każdego elementu na tej liście!". Właśnie do tego służą pętle!
+
+---
+
+## Pętle w Programowaniu: Opanuj Powtarzalność!
+
+**Czym są pętle i dlaczego są nam potrzebne?**
+
+W programowaniu bardzo często zdarza się, że chcemy wykonać ten sam fragment kodu wielokrotnie. Zamiast kopiować i wklejać te same instrukcje dziesiątki czy setki razy (co jest czasochłonne, zwiększa ryzyko błędów i utrudnia późniejsze zmiany), używamy **pętli**....
+
+Ocena Gemini:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+------------------------------------------------------------
+
+PROMPT 16/20
+Kategoria: Informatyka
+Zadanie: Napisz krótkie streszczenie na temat sieci komputerowych i internetu dla ucznia szkoły średniej.
+
+--- TinyLlama ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Napisz krótkie streszczenie na temat sieci komputerowych i internetu dla ucznia szkoły średniej.
+
+Napisz list otwarty oraz list podrzędny do zadawanego cieszy mój dziekan. Wypełnij formularz podrzędny za pomocą informacji z przykładów i zdanie.
+
+Napisz krótki opis zgłoszenia dostosowanego do poziomu ucznia dla ucznia szkół średniej.
+
+Napisz wersję w języku angielskim taką, że się będzie udał ocenianie.
+
+Napisz kilka razy nowy opisy zgłoszenia w odpowiednim języku wykształcenia.
+
+Na przykładzie: Czy uda na zlecić z...
+
+Ocena TinyLlama:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Phi-2 ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Napisz krótkie streszczenie na temat sieci komputerowych i internetu dla ucznia szkoły średniej.
+
+Bijanie znajduję jest powrot do przeprowadzenia, pomóc uzuwijcie związane w wyrazach obozu, powyrażaj przygotowania złości (nauczyciel) o sieci komputerowych i internetu.
+
+Przypadzku, dział, rodziny i sopranowaniowanie wielobych dzienniki z zabicie. Do dokumentacji oczekujemy tylko liczbę wojek i innej gdy dzięki, że ta co jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktycznym.
+
+Przeprowadzenie na temat...
+
+Ocena Phi-2:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Gemini ---
+Witaj! Cieszę się, że interesują Cię tajniki działania komputerów i Internetu – to fascynujący świat, który otacza nas każdego dnia. Postaram się wyjaśnić Ci to w prosty sposób, tak jak robiłbym to na lekcji.
+
+---
+
+### **Sieci Komputerowe i Internet – Krótkie Streszczenie**
+
+Cześć! Zapewne codziennie korzystasz z telefonu, komputera czy tabletu. Wysyłasz wiadomości, oglądasz filmy, szukasz informacji. Ale czy zastanawiałeś się kiedyś, jak to wszystko działa? Kluczem do zrozumienia jest pojęcie **sieci komputerowych** i ich największego "dziecka" – **Internetu**.
+
+---
+
+#### **1. Sieci Komputerowe – Łączymy Urządzenia!**
+
+Wyobraź sobie, że masz w domu kilka komputerów, drukarkę i smartfony. Gdyby każde z tych urządzeń działało w pojedynkę, trudno byłoby szybko wymieniać między nimi pliki, dr...
+
+Ocena Gemini:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+------------------------------------------------------------
+
+PROMPT 17/20
+Kategoria: Język angielski
+Zadanie: Wyjaśnij różnicę między czasem Present Simple a Present Continuous dla ucznia szkoły podstawowej.
+
+--- TinyLlama ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Wyjaśnij różnicę między czasem Present Simple a Present Continuous dla ucznia szkoły podstawowej.
+
+Wymagane lub przydatne:
+
+- wprowadzenie zasad wiedzy o wymiłowaniu (podstaw)
+- umiejętność rozumowania pragmatycznego przez ucznia szkoły podstawowej, na przykład: którzy, jak dzisiaj posługują się telefonami to telewizjowaniśmy!
+- umiejętność opisywania czasu i miejsca, tj. dni i dniami, godzin, kolejnych z dniem.
+- wypowiedź przykładowa dla ucznia szkoły podstawowej i wskazówka z dodatkiem materiału naukowego.
+
+Cod...
+
+Ocena TinyLlama:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Phi-2 ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Wyjaśnij różnicę między czasem Present Simple a Present Continuous dla ucznia szkoły podstawowej. Dziękiem należy wiedzieć jeszcze nazwy przez każdego i części lat zostały podstawowe przekład.
+
+
+Ocena Phi-2:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Gemini ---
+Witajcie, drodzy uczniowie!
+
+Jestem tutaj, aby pomóc Wam zrozumieć coś bardzo ważnego w języku angielskim – dwa czasy, które opowiadają o teraźniejszości, ale robią to w trochę inny sposób. To jak dwie różne bajki o tym, co dzieje się "teraz".
+
+Poznajmy ich imiona:
+1.  **Present Simple** (czytamy: Prezent Simpl) – Czas Teraźniejszy Prosty
+2.  **Present Continuous** (czytamy: Prezent Kontinjuus) – Czas Teraźniejszy Ciągły
+
+Nie martwcie się trudnymi nazwami! Zaraz wszystko stanie się proste jak budowanie z klocków.
+
+---
+
+### **1. Czas Present Simple – "Pan Zawsze i Pan Zwyczaj"**
+
+Wyobraźcie sobie, że Present Simple to taki Pan, który lubi **zwyczaje**, **rutyny** i **rzeczy, które dzieją się zawsze** albo bardzo często. Lubi też opowiadać o **faktach**, czyli o tym, co jest prawdą.
+
+**Kiedy...
+
+Ocena Gemini:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+------------------------------------------------------------
+
+PROMPT 18/20
+Kategoria: Język angielski
+Zadanie: Przygotuj 5 ćwiczeń gramatycznych na temat czasu Past Simple dla ucznia gimnazjum z odpowiedziami.
+
+--- TinyLlama ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Przygotuj 5 ćwiczeń gramatycznych na temat czasu Past Simple dla ucznia gimnazjum z odpowiedziami.
+
+Dbają oni o szczegółowość języka, prawidłowe formy, porozumiewalność w przyswajaniu się do przekształceni. Po ocenie opowiedzieli, co dodatkowo ich nauczyciel podjęł do nauczania.
+
+Pobierz zasady dla 5 różnych poziomów ucznia w przyswajaniu się do przekształceń dotyczących czasu w ciągu od 15 minut (P1 – 3 Minute and 15 Seconds, P2 – 5 Minutes and a Half Minutes, P3 – 10 Minutes).
+
+Na podstawie tych zasad powierz do...
+
+Ocena TinyLlama:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Phi-2 ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Przygotuj 5 ćwiczeń gramatycznych na temat czasu Past Simple dla ucznia gimnazjum z odpowiedziami.
+
+ĉwiczenie wymagana. Znany jak jest do nauczyciem stanowiące przekształcenie czywieczka nauczycielska.
+
+Wpis przedsiębiorstwo mieszkański czestym obiektywne takich sąstencjalową przyszłością naszego nauczycielą.
+Kłycia dług, jak jest nie zastosowany, kto gdy sprawdzamy główne różie oczekiwanie wystarczające sące nauczycielu na początku tej uczniu.
+
+Prawdopodobieństwo jest jak wyzwania funkciji z wszystkich dokumentów...
+
+Ocena Phi-2:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Gemini ---
+Witajcie, drodzy uczniowie!
+
+Dziś zanurkujemy w przeszłość i zajmiemy się bardzo ważnym czasem w języku angielskim – **Past Simple**. To czas, którego używamy, żeby opowiedzieć o wydarzeniach, które wydarzyły się i zakończyły w przeszłości, w konkretnym momencie. Pomyśl o wczorajszym dniu, zeszłym tygodniu, czy o wakacjach dwa lata temu.
+
+Past Simple to podstawa do opowiadania historii, relacjonowania wydarzeń i wspominania. Nie jest trudny, ale wymaga uwagi, zwłaszcza przy czasownikach nieregularnych. Ale spokojnie, poćwiczymy razem!
+
+Pamiętajcie o dwóch kluczowych rzeczach:
+1.  **Czasowniki regularne:** dodajemy końcówkę **-ed** (np. *play* -> *played*, *watch* -> *watched*). Czasem trzeba uważać na pisownię!
+2.  **Czasowniki nieregularne:** zmieniają swoją formę całkowicie (np. *go* -> ...
+
+Ocena Gemini:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+------------------------------------------------------------
+
+PROMPT 19/20
+Kategoria: Język angielski
+Zadanie: Stwórz materiał dydaktyczny na temat słownictwa związanego z pogodą z ćwiczeniami i odpowiedziami.
+
+--- TinyLlama ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Stwórz materiał dydaktyczny na temat słownictwa związanego z pogodą z ćwiczeniami i odpowiedziami.
+
+Pomóż swoim uczniom w stawianiu szybkich testów spływowych i dostać się do poziomu używania się z nieopieką.
+
+Nie wiedzieć, co mamy przy kursze? To na to zafascynujący problem. Poniżej znajdują się przykłady kursów dla ćwiczeń spływowych oraz poziomu używania się z nieopieką, a przykładem dedykowanym jest tutaj kurs na potrzeby odświeżania stanu w stanie dostać się w bieżącym kursie na tym samym temacie.
+
+Odtwierzam...
+
+Ocena TinyLlama:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Phi-2 ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Stwórz materiał dydaktyczny na temat słownictwa związanego z pogodą z ćwiczeniami i odpowiedziami. Jedność dydaktyczna do poziomu ucznia mogę to używaźć odpowiedzym miejsc mną z dzieję o nauczywanie wielowych doświadczonych. Dostosowanie dydaktycznych to używać odpowiedzyna bardzo dla takiej autorów i wiersze.
+
+Materiał, dydaktyczny, jest lewo nauczyciel i tak, wybieramy dla pomiędzy autora i z nauczywanie wielowych doświadczonych. Dzięki autora jak jakim zazmawiałym w postępy pozostawioniką, aż dążkować do ustawi...
+
+Ocena Phi-2:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Gemini ---
+[Model niedostępny - nie oceniaj]
+
+------------------------------------------------------------
+
+PROMPT 20/20
+Kategoria: Język angielski
+Zadanie: Napisz krótkie streszczenie zasad używania przedimków w języku angielskim dla ucznia liceum.
+
+--- TinyLlama ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Napisz krótkie streszczenie zasad używania przedimków w języku angielskim dla ucznia liceum.
+
+Ocena TinyLlama:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Phi-2 ---
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Napisz krótkie streszczenie zasad używania przedimków w języku angielskim dla ucznia liceum.
+
+Wspomnienia książące w dostarczej wybitnictwie, drugi odpowiednia jest przykład nawetowy, również mroku. A się kopi i mowy nam związanych wysokości matematycznych wobec zasadu uczników, który używa zawartem ukrytycznie, ale dąd przejściowy.
+
+Exercice 3: Wpisz krótkie streszczenie zasad używania przedimków w języku angielskim.
+
+Dla których używa zasadu uczników na literaturze:
+
+1. Adam mój problem z głównym języku. Wspomni...
+
+Ocena Phi-2:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+--- Gemini ---
+Witaj serdecznie! Jestem Twoim nauczycielem i doskonale rozumiem, że przedimki (articles) w języku angielskim to temat, który na początku potrafi sprawić trochę kłopotu. Ale spokojnie! Razem rozjaśnimy to zagadnienie. Celem tego krótkiego przewodnika jest przedstawienie Ci najważniejszych zasad w prosty i przystępny sposób. Gotowi? Zaczynamy!
+
+---
+
+### **Przedimki w Angielskim: Krótki Przewodnik dla Licealisty**
+
+**Czym w ogóle są przedimki?**
+Przedimki to małe słówka, które stawiamy przed rzeczownikami. Ich zadaniem jest wskazanie, czy mówimy o czymś konkretnym i znanym (używamy wtedy **"the"**), czy o czymś ogólnym, nieokreślonym lub wspomnianym po raz pierwszy (używamy wtedy **"a"** lub **"an"**). Czasem przedimka w ogóle nie używamy – to tzw. **przedimek zerowy**.
+
+#### **1. Przedimki ...
+
+Ocena Gemini:
+  Poprawność (1-5): ___
+  Język (1-5): ___
+  Poziom (1-5): ___
+  Przydatność (1-5): ___
+
+------------------------------------------------------------
+

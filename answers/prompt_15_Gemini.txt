@@ -1,0 +1,426 @@
+PROMPT 15
+Kategoria: Informatyka
+Prompt: Stwórz materiał dydaktyczny na temat pętli w programowaniu z przykładami kodu i ćwiczeniami.
+Model: Gemini
+============================================================
+Witaj! Jestem tu, by przeprowadzić Cię przez fascynujący świat programowania. Dziś zajmiemy się jednym z jego najważniejszych narzędzi – **pętlami**. Wyobraź sobie, że jesteś dowódcą robota, który ma wykonać serię nudnych, powtarzalnych zadań. Zamiast wydawać mu każdą instrukcję osobno, możesz mu powiedzieć: "Rób to, dopóki nie spełnisz tego warunku!" lub "Zrób to dla każdego elementu na tej liście!". Właśnie do tego służą pętle!
+
+---
+
+## Pętle w Programowaniu: Opanuj Powtarzalność!
+
+**Czym są pętle i dlaczego są nam potrzebne?**
+
+W programowaniu bardzo często zdarza się, że chcemy wykonać ten sam fragment kodu wielokrotnie. Zamiast kopiować i wklejać te same instrukcje dziesiątki czy setki razy (co jest czasochłonne, zwiększa ryzyko błędów i utrudnia późniejsze zmiany), używamy **pętli**.
+
+**Pętla** to struktura kontrolna, która pozwala na wielokrotne wykonanie bloku kodu (czyli zestawu instrukcji) tak długo, jak długo spełniony jest pewien warunek, albo dla każdego elementu w określonym zbiorze.
+
+**Wyobraź sobie:**
+*   Chcesz wydrukować liczby od 1 do 100.
+*   Chcesz sprawdzić każdy element na liście zakupów.
+*   Chcesz, aby program pytał użytkownika o hasło, dopóki nie poda prawidłowego.
+
+Do wszystkich tych zadań idealnie nadają się pętle!
+
+### Rodzaje pętli
+
+Większość języków programowania oferuje dwa główne typy pętli:
+
+1.  **Pętla `for` (dla każdego)**: Używamy jej, gdy wiemy, ile razy chcemy powtórzyć operację lub gdy chcemy przetworzyć każdy element z jakiejś kolekcji (np. listy, tekstu).
+2.  **Pętla `while` (dopóki)**: Używamy jej, gdy nie wiemy z góry, ile razy pętla się wykona. Będzie działać tak długo, jak długo spełniony jest określony warunek.
+
+Przykładów użyjemy w języku **Python**, ponieważ jest on bardzo czytelny i prosty do nauki.
+
+---
+
+### 1. Pętla `for` (Dla każdego)
+
+Pętla `for` jest idealna, gdy chcemy wykonać jakąś czynność dla *każdego* elementu w zbiorze (np. na liście liczb, liter w tekście) lub określoną *liczbę razy*.
+
+**Budowa pętli `for` (w Pythonie):**
+
+```python
+for zmienna in sekwencja:
+    # blok kodu, który zostanie wykonany dla każdej 'zmiennej' z 'sekwencji'
+```
+
+*   `zmienna`: To nazwa, którą nadajemy każdemu kolejnemu elementowi z `sekwencji` w trakcie wykonywania pętli.
+*   `sekwencja`: To zbiór elementów (np. lista, ciąg znaków, wynik funkcji `range()`), które pętla ma po kolei przetworzyć.
+
+**Przykład 1: Liczenie od 1 do 5**
+
+Aby policzyć, użyjemy funkcji `range()`. Funkcja `range(n)` generuje sekwencję liczb od 0 do `n-1`. `range(start, stop)` generuje od `start` do `stop-1`.
+
+```python
+print("Przykład 1: Liczenie od 1 do 5")
+for liczba in range(1, 6): # range(1, 6) generuje liczby 1, 2, 3, 4, 5
+    print(liczba)
+```
+
+**Wyjaśnienie:**
+*   Pętla zaczyna się od `for liczba in range(1, 6):`.
+*   W pierwszym obiegu pętli, `liczba` przyjmuje wartość `1`. Wykonuje się `print(1)`.
+*   W drugim obiegu, `liczba` przyjmuje wartość `2`. Wykonuje się `print(2)`.
+*   I tak dalej, aż `liczba` przyjmie wartość `5`. Wykonuje się `print(5)`.
+*   Po `5`, `range(1, 6)` nie ma już więcej liczb, więc pętla się kończy.
+
+**Wynik:**
+```
+1
+2
+3
+4
+5
+```
+
+**Przykład 2: Iterowanie przez listę**
+
+```python
+print("\nPrzykład 2: Iterowanie przez listę owoców")
+owoce = ["jabłko", "banan", "wiśnia", "gruszka"]
+
+for owoc in owoce:
+    print("Lubię jeść", owoc)
+```
+
+**Wyjaśnienie:**
+*   Pętla przejdzie przez każdy element listy `owoce`.
+*   Najpierw `owoc` będzie `jabłko`, potem `banan`, itd.
+*   Dla każdego owocu zostanie wyświetlony odpowiedni komunikat.
+
+**Wynik:**
+```
+Lubię jeść jabłko
+Lubię jeść banan
+Lubię jeść wiśnia
+Lubię jeść gruszka
+```
+
+**Przykład 3: Iterowanie przez tekst (ciąg znaków)**
+
+Tekst to nic innego jak sekwencja znaków!
+
+```python
+print("\nPrzykład 3: Iterowanie przez tekst")
+slowo = "PYTHON"
+
+for litera in slowo:
+    print(litera)
+```
+
+**Wynik:**
+```
+P
+Y
+T
+H
+O
+N
+```
+
+---
+
+### 2. Pętla `while` (Dopóki)
+
+Pętla `while` jest używana, gdy chcemy powtarzać blok kodu tak długo, jak długo spełniony jest pewien **warunek**. Nie wiemy z góry, ile razy pętla się wykona – to zależy od tego, kiedy warunek stanie się fałszywy.
+
+**Budowa pętli `while` (w Pythonie):**
+
+```python
+while warunek_logiczny:
+    # blok kodu, który będzie wykonywany, dopóki 'warunek_logiczny' jest Prawdą (True)
+    # Pamiętaj, aby wewnątrz pętli zmienić coś, co wpłynie na 'warunek_logiczny',
+    # inaczej pętla będzie nieskończona!
+```
+
+*   `warunek_logiczny`: To wyrażenie, które zwraca `True` (Prawda) lub `False` (Fałsz). Dopóki jest `True`, pętla się wykonuje.
+
+**Przykład 4: Odliczanie do zera**
+
+```python
+print("Przykład 4: Odliczanie do zera")
+licznik = 5
+
+while licznik > 0: # Dopóki licznik jest większy od 0
+    print(licznik)
+    licznik = licznik - 1 # Zmniejszamy licznik o 1
+                         # To jest bardzo ważne! Zmienia warunek.
+print("Start!")
+```
+
+**Wyjaśnienie:**
+*   `licznik` zaczyna się od `5`.
+*   **Obieg 1:** `5 > 0` to `True`. Wyświetla `5`. `licznik` staje się `4`.
+*   **Obieg 2:** `4 > 0` to `True`. Wyświetla `4`. `licznik` staje się `3`.
+*   ...
+*   **Obieg 5:** `1 > 0` to `True`. Wyświetla `1`. `licznik` staje się `0`.
+*   **Obieg 6:** `0 > 0` to `False`. Warunek nie jest już spełniony, pętla się kończy.
+*   Wykonuje się `print("Start!")`.
+
+**Wynik:**
+```
+5
+4
+3
+2
+1
+Start!
+```
+
+**Przykład 5: Prosta gra w zgadywanie liczby**
+
+```python
+import random # Moduł do generowania losowych liczb
+
+print("\nPrzykład 5: Zgadywanie liczby")
+tajna_liczba = random.randint(1, 10) # Losujemy liczbę od 1 do 10
+zgadywana_liczba = 0
+
+print("Zgadnij liczbę od 1 do 10!")
+
+while zgadywana_liczba != tajna_liczba: # Dopóki nie zgadniemy
+    try:
+        zgadywana_liczba = int(input("Podaj swoją liczbę: "))
+        if zgadywana_liczba < tajna_liczba:
+            print("Za mało! Spróbuj jeszcze raz.")
+        elif zgadywana_liczba > tajna_liczba:
+            print("Za dużo! Spróbuj jeszcze raz.")
+    except ValueError:
+        print("To nie jest liczba! Spróbuj jeszcze raz.")
+
+print("Brawo! Zgadłeś liczbę", tajna_liczba, "!")
+```
+
+**Wyjaśnienie:**
+*   Program losuje liczbę.
+*   Pętla `while` będzie działać tak długo, jak długo `zgadywana_liczba` nie będzie równa `tajna_liczba`.
+*   Wewnątrz pętli prosimy użytkownika o podanie liczby.
+*   W zależności od tego, czy liczba jest za mała/za duża/nieprawidłowa, wyświetlamy podpowiedź.
+*   Gdy użytkownik zgadnie, warunek `zgadywana_liczba != tajna_liczba` stanie się fałszywy, pętla się zakończy.
+
+---
+
+### Kontrola przepływu pętli: `break` i `continue`
+
+Czasami w trakcie działania pętli chcemy albo natychmiast ją zakończyć, albo pominąć tylko bieżący obieg i przejść do następnego. Do tego służą instrukcje `break` i `continue`.
+
+#### a) `break` (Przerwij)
+
+Instrukcja `break` natychmiast **przerywa** działanie pętli (zarówno `for`, jak i `while`) i przenosi wykonanie programu do instrukcji znajdującej się tuż po pętli.
+
+**Przykład 6: Znalezienie pierwszej parzystej liczby**
+
+```python
+print("\nPrzykład 6: Znalezienie pierwszej parzystej liczby")
+liczby = [1, 3, 5, 8, 9, 10, 12]
+
+for cyfra in liczby:
+    if cyfra % 2 == 0: # Czy liczba jest parzysta (reszta z dzielenia przez 2 wynosi 0)?
+        print("Znaleziono pierwszą liczbę parzystą:", cyfra)
+        break # Przerywamy pętlę, bo znaleźliśmy, czego szukaliśmy
+    print("Liczba nieparzysta:", cyfra) # Ta linia nie wykona się dla liczby parzystej
+```
+
+**Wynik:**
+```
+Liczba nieparzysta: 1
+Liczba nieparzysta: 3
+Liczba nieparzysta: 5
+Znaleziono pierwszą liczbę parzystą: 8
+```
+**Wyjaśnienie:** Pętla przeszła przez 1, 3, 5. Gdy natrafiła na 8, warunek `cyfra % 2 == 0` był prawdziwy, wyświetlono komunikat i wykonano `break`. Pętla zakończyła się, nie sprawdzając już 9, 10, 12.
+
+#### b) `continue` (Kontynuuj/Pomiń)
+
+Instrukcja `continue` **pomija** pozostałą część bieżącego obiegu pętli i przechodzi do następnego obiegu. Pętla nie jest przerywana, po prostu "skaczemy" do początku kolejnej iteracji.
+
+**Przykład 7: Wyświetlanie tylko liczb parzystych**
+
+```python
+print("\nPrzykład 7: Wyświetlanie tylko liczb parzystych")
+for i in range(1, 11): # Liczby od 1 do 10
+    if i % 2 != 0: # Jeśli liczba jest nieparzysta
+        continue # Pomiń resztę kodu w tym obiegu i przejdź do kolejnej liczby
+    print(i) # Ta linia wykona się tylko dla liczb parzystych
+```
+
+**Wynik:**
+```
+2
+4
+6
+8
+10
+```
+**Wyjaśnienie:** Gdy `i` jest 1, warunek `i % 2 != 0` jest prawdziwy, więc `continue` powoduje przejście do `i = 2`. Gdy `i` jest 2, warunek jest fałszywy, więc wykonuje się `print(2)`. I tak dalej.
+
+---
+
+### Pętle zagnieżdżone
+
+Możemy mieć jedną pętlę wewnątrz drugiej pętli. Nazywamy to **pętlami zagnieżdżonymi**. Pętla wewnętrzna wykonuje się w całości dla każdego pojedynczego obiegu pętli zewnętrznej.
+
+**Wyobraź sobie:** Zegar. Dla każdej minuty (pętla zewnętrzna) sekundowa wskazówka wykonuje pełne okrążenie (pętla wewnętrzna).
+
+**Przykład 8: Tabliczka mnożenia**
+
+```python
+print("\nPrzykład 8: Tabliczka mnożenia (fragment)")
+for i in range(1, 4): # Pętla zewnętrzna: dla i = 1, 2, 3
+    for j in range(1, 4): # Pętla wewnętrzna: dla j = 1, 2, 3
+        iloczyn = i * j
+        print(f"{i} * {j} = {iloczyn}") # f-stringi ułatwiają formatowanie tekstu
+    print("---") # Oddziela wyniki dla kolejnej liczby 'i'
+```
+
+**Wyjaśnienie:**
+*   Gdy `i` jest `1` (pierwszy obieg zewnętrznej pętli):
+    *   Wewnętrzna pętla wykona się dla `j = 1`, `j = 2`, `j = 3`.
+    *   Wyświetli: `1 * 1 = 1`, `1 * 2 = 2`, `1 * 3 = 3`.
+*   Następnie `i` staje się `2` (drugi obieg zewnętrznej pętli):
+    *   Wewnętrzna pętla ZNÓW wykona się dla `j = 1`, `j = 2`, `j = 3`.
+    *   Wyświetli: `2 * 1 = 2`, `2 * 2 = 4`, `2 * 3 = 6`.
+*   I tak dalej, aż zewnętrzna pętla się zakończy.
+
+**Wynik:**
+```
+1 * 1 = 1
+1 * 2 = 2
+1 * 3 = 3
+---
+2 * 1 = 2
+2 * 2 = 4
+2 * 3 = 6
+---
+3 * 1 = 3
+3 * 2 = 6
+3 * 3 = 9
+---
+```
+
+---
+
+### Ważne Wskazówki i Pułapki
+
+1.  **Pętla nieskończona (Infinite Loop):** To najczęstszy błąd początkujących! W pętli `while` zawsze upewnij się, że warunek pętli *kiedyś* stanie się fałszywy. Jeśli nie, pętla będzie działać w nieskończoność, "zawieszając" program.
+    ```python
+    # PRZYKŁAD PĘTLI NIESKOŃCZONEJ - NIE URUCHAMIAJ, JEŚLI NIE WIESZ, JAK ZATRZYMAĆ PROGRAM!
+    # licznik = 0
+    # while licznik < 5:
+    #     print("Nigdy się nie skończę!")
+    # # Brakuje tu licznik = licznik + 1
+    ```
+    Aby zatrzymać nieskończoną pętlę w większości środowisk programistycznych, użyj `Ctrl+C`.
+
+2.  **Błędy "o jeden" (`off-by-one errors`):** Często zdarza się, że pętla wykona się o jeden raz za dużo lub za mało. Zawsze dokładnie sprawdzaj warunki w pętlach `while` (`<` vs `<=`) i zakresy w `range()` (`range(start, stop)` idzie do `stop-1`).
+
+3.  **Wcięcie (Indentation):** W Pythonie wcięcia (spacje lub tabulatory) są kluczowe! Mówią one interpreterowi, które linie kodu należą do pętli. Złe wcięcia to częsta przyczyna błędów.
+
+4.  **Czytelność kodu:** Staraj się używać sensownych nazw zmiennych (`liczba`, `owoc`, `i`, `j`) i komentuj skomplikowane fragmenty.
+
+---
+
+### Podsumowanie
+
+*   **Pętle** pozwalają na wielokrotne wykonanie bloku kodu.
+*   **Pętla `for`** jest najlepsza, gdy wiesz, ile razy chcesz powtórzyć operację lub gdy chcesz przetworzyć każdy element z jakiejś kolekcji.
+*   **Pętla `while`** jest używana, gdy nie wiesz z góry, ile razy pętla się wykona; działa tak długo, jak długo warunek jest spełniony.
+*   **`break`** natychmiast przerywa pętlę.
+*   **`continue`** pomija bieżący obieg i przechodzi do następnego.
+*   **Pętle zagnieżdżone** to pętle wewnątrz innych pętli.
+
+---
+
+### Ćwiczenia
+
+Spróbuj rozwiązać poniższe zadania samodzielnie. Pamiętaj, aby uruchamiać kod i testować swoje rozwiązania!
+
+**Ćwiczenie 1: Suma liczb (pętla `for`)**
+Napisz program, który oblicza i wyświetla sumę liczb całkowitych od 1 do 100.
+*Podpowiedź: Użyj `range()` i zmiennej do przechowywania sumy.*
+
+```python
+# Twoje rozwiązanie tutaj
+```
+**Oczekiwany wynik:** `Suma liczb od 1 do 100 wynosi: 5050`
+
+---
+
+**Ćwiczenie 2: Sprawdzanie PIN-u (pętla `while`)**
+Napisz program, który prosi użytkownika o podanie PIN-u. Prawidłowy PIN to "1234". Program powinien prosić o podanie PIN-u tak długo, dopóki użytkownik nie poda prawidłowego. Po prawidłowym PIN-ie wyświetl komunikat "PIN poprawny. Witaj!".
+*Podpowiedź: Użyj pętli `while` i operatora porównania `!=`.*
+
+```python
+# Twoje rozwiązanie tutaj
+```
+**Oczekiwany wynik (przykładowy):**
+```
+Podaj PIN: 0000
+Błędny PIN. Spróbuj ponownie.
+Podaj PIN: 9999
+Błędny PIN. Spróbuj ponownie.
+Podaj PIN: 1234
+PIN poprawny. Witaj!
+```
+
+---
+
+**Ćwiczenie 3: Liczby parzyste i nieparzyste (pętla `for` z `if` i `continue`)**
+Napisz program, który wyświetla liczby od 1 do 15. Dla każdej liczby, jeśli jest nieparzysta, wyświetl "Liczba [liczba] jest nieparzysta.". Jeśli jest parzysta, wyświetl tylko tę liczbę.
+*Podpowiedź: Użyj pętli `for` i instrukcji warunkowej `if` oraz `continue`.*
+
+```python
+# Twoje rozwiązanie tutaj
+```
+**Oczekiwany wynik (fragment):**
+```
+Liczba 1 jest nieparzysta.
+2
+Liczba 3 jest nieparzysta.
+4
+...
+Liczba 15 jest nieparzysta.
+```
+
+---
+
+**Ćwiczenie 4: Choinka z gwiazdek (pętla zagnieżdżona)**
+Napisz program, który wyświetla prostą "choinkę" z gwiazdek, jak poniżej.
+*Podpowiedź: Użyj pętli zewnętrznej do zarządzania wierszami i wewnętrznej do drukowania gwiazdek.*
+
+```
+*
+**
+***
+****
+*****
+```
+
+```python
+# Twoje rozwiązanie tutaj
+```
+
+---
+
+**Zadanie Dodatkowe (dla chętnych):**
+Napisz program, który prosi użytkownika o podanie liczby całkowitej. Następnie, używając pętli `for`, znajdź wszystkie dzielniki tej liczby i wyświetl je.
+*Podpowiedź: Dzielnik to liczba, która dzieli inną liczbę bez reszty. Sprawdź operator `%`.*
+
+```python
+# Twoje rozwiązanie tutaj
+```
+**Oczekiwany wynik (dla liczby 12):**
+```
+Podaj liczbę: 12
+Dzielniki liczby 12 to:
+1
+2
+3
+4
+6
+12
+```
+
+---
+
+Świetna robota! Pętle to potężne narzędzie, które odblokowuje ogromne możliwości w programowaniu. Im więcej będziesz z nimi pracować, tym bardziej intuicyjne się staną. Powodzenia w dalszej nauce!

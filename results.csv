@@ -1,34 +1,61 @@
-prompt,model,poprawnosc,jezyk,poziom,przydatnosc
-1,TinyLlama,1,1,1,1
-1,Phi-2,2,2,2,2
-1,Gemini,5,5,5,5
-2,TinyLlama,1,1,1,1
-2,Phi-2,1,1,1,1
-2,Gemini,5,5,5,5
-3,TinyLlama,1,1,1,1
-3,Phi-2,1,1,1,1
-3,Gemini,5,5,5,5
-4,TinyLlama,1,1,1,1
-4,Phi-2,1,1,1,1
-4,Gemini,5,5,5,5
-5,TinyLlama,1,1,1,1
-5,Phi-2,1,2,1,1
-5,Gemini,5,5,5,5
-6,TinyLlama,1,1,1,1
-6,Phi-2,1,1,1,1
-6,Gemini,5,5,5,5
-1,TinyLlama,1,3,1,1
-1,Phi-2,1,3,2,1
-1,Gemini,4,5,4,4
-2,TinyLlama,1,1,1,1
-2,Phi-2,1,2,1,2
-2,Gemini,5,4,5,5
-3,TinyLlama,1,2,1,1
-3,Phi-2,1,1,1,1
-3,Gemini,5,4,3,4
-4,TinyLlama,1,2,1,1
-4,Phi-2,1,2,2,1
-4,Gemini,0,0,0,0
-5,TinyLlama,1,1,1,1
-5,Phi-2,1,2,1,1
-5,Gemini,4,4,3,3
+prompt_num,category,model,poprawnosc,jezyk,poziom,przydatnosc
+1,Biologia,TinyLlama,1,1,1,1
+1,Biologia,Phi-2,1,1,1,2
+1,Biologia,Gemini,5,4,5,5
+2,Biologia,TinyLlama,2,2,2,2
+2,Biologia,Phi-2,2,1,2,1
+2,Biologia,Gemini,5,5,4,5
+3,Biologia,TinyLlama,2,2,1,2
+3,Biologia,Phi-2,2,1,2,1
+3,Biologia,Gemini,5,5,5,4
+4,Biologia,TinyLlama,2,2,3,2
+4,Biologia,Phi-2,2,1,2,1
+4,Biologia,Gemini,5,5,4,4
+5,Matematyka,TinyLlama,1,1,1,1
+5,Matematyka,Phi-2,2,1,2,1
+5,Matematyka,Gemini,4,5,4,4
+6,Matematyka,TinyLlama,1,2,1,1
+6,Matematyka,Phi-2,2,2,1,2
+6,Matematyka,Gemini,4,5,4,4
+7,Matematyka,TinyLlama,1,1,2,1
+7,Matematyka,Phi-2,2,2,2,3
+7,Matematyka,Gemini,5,5,4,5
+8,Matematyka,TinyLlama,2,1,2,1
+8,Matematyka,Phi-2,2,2,3,2
+8,Matematyka,Gemini,3,4,5,4
+9,Historia,TinyLlama,1,1,2,1
+9,Historia,Phi-2,2,2,2,2
+9,Historia,Gemini,5,5,4,5
+10,Historia,TinyLlama,1,2,2,1
+10,Historia,Phi-2,2,2,3,2
+10,Historia,Gemini,5,4,5,5
+11,Historia,TinyLlama,1,1,2,1
+11,Historia,Phi-2,2,2,2,3
+11,Historia,Gemini,5,5,4,5
+12,Historia,TinyLlama,1,2,2,1
+12,Historia,Phi-2,2,2,1,2
+12,Historia,Gemini,5,5,4,5
+13,Informatyka,TinyLlama,1,1,2,1
+13,Informatyka,Phi-2,2,2,2,2
+13,Informatyka,Gemini,5,5,5,4
+14,Informatyka,TinyLlama,2,2,2,1
+14,Informatyka,Phi-2,3,2,3,2
+14,Informatyka,Gemini,5,5,4,5
+15,Informatyka,TinyLlama,1,2,2,1
+15,Informatyka,Phi-2,2,2,3,2
+15,Informatyka,Gemini,5,5,4,4
+16,Informatyka,TinyLlama,1,1,2,1
+16,Informatyka,Phi-2,2,2,3,2
+16,Informatyka,Gemini,5,4,4,5
+17,Język angielski,TinyLlama,1,1,2,2
+17,Język angielski,Phi-2,2,2,2,3
+17,Język angielski,Gemini,5,4,5,4
+18,Język angielski,TinyLlama,1,1,2,1
+18,Język angielski,Phi-2,2,2,3,2
+18,Język angielski,Gemini,4,5,4,5
+19,Język angielski,TinyLlama,1,2,1,1
+19,Język angielski,Phi-2,2,2,1,2
+19,Język angielski,Gemini,0,0,0,0
+20,Język angielski,TinyLlama,2,1,2,1
+20,Język angielski,Phi-2,2,2,2,3
+20,Język angielski,Gemini,5,4,4,5

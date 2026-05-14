@@ -1,0 +1,25 @@
+PROMPT 3
+Kategoria: Biologia
+Prompt: Stwórz krótki materiał dydaktyczny na temat budowy DNA z 3 zadaniami i odpowiedziami.
+Model: TinyLlama
+============================================================
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Stwórz krótki materiał dydaktyczny na temat budowy DNA z 3 zadaniami i odpowiedziami.
+Nie stosuj nienawiekowych języków do projektu. Nie opublikuj materiałów niżsi kategoria poziomu naukowy.
+
+Rekomendowane wbudowane poziomy: poziom podstawowy/kadencja, poziom podstawowy+wynik z podstaw, wskazania do udziału w innych klasach/wszystkich klasach.
+
+Porozmawiajone z uczniem oraz opinię na pewny czas. Przekazaj na puste stronie informacje o materiale.
+
+Napisz, jakie treści materiału mają być sformatowane, przy każdym zadaniu powiedzieć, czy tutaj jest wprowadzona niejednokrotność, czy oprócz tych ostatnich danych zawarte będzie wprowadzona jednokrotność.
+
+Zabieg pożytku szkolnego, aby poprawić wynik zajęć i potencjalnie zakupić innych materiałów dydaktycznych.
+
+Dla poprawienia zakończenia dania 10 słów.
+Wydajność podstawowa
+
+Poziom szkolny do wchod

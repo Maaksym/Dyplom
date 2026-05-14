@@ -1,0 +1,24 @@
+PROMPT 1
+Kategoria: Biologia
+Prompt: Wyjaśnij czym jest fotosynteza dla ucznia szkoły podstawowej.
+Model: TinyLlama
+============================================================
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Wyjaśnij czym jest fotosynteza dla ucznia szkoły podstawowej.
+
+(Jesteś pewne? Wydawanie materiałów o tej tematyce jest w całości do niespodzianki. Jeśli chcesz, powiadomuj nam!)
+
+Aktualne materiały edukacyjne, najszybciej wydany od 2010 przez Wydawnictwo "Mieki Uniwersytetu Szczecińskiego".
+Wydanie "Rabotać w środowisku" 
+Wydanie "Koleksje informacyjne" 
+Wydany także w odcinkach dla szkolących się na różnych etapach 
+
+Rękopisy:
+
+Rękopisy dla szczebla szkolnego 
+<|user|>
+Wielu może znać język alchemiczny w tej klasie, ale czego to jest fotosynteza dla ucznia szkoły podstawowej. Zapraszaj na wykonaną dla mnie nauczność z fotografem.

@@ -1,0 +1,22 @@
+PROMPT 10
+Kategoria: Historia
+Prompt: Przygotuj 5 pytań testowych na temat rewolucji francuskiej dla ucznia liceum.
+Model: TinyLlama
+============================================================
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Przygotuj 5 pytań testowych na temat rewolucji francuskiej dla ucznia liceum.
+
+Zakończ wykonanie wszystkich testów przygotowanych przez zadanie.
+
+Wykonaj trzecią części zadania. Przetestuj plik HTML i CSS na nowym serwisie.
+
+Twórcze zdania: Poświęć 3 godziny na tworzenie aplikacji mobilnej w programie React Native na nowym urządzeniu i ogłosić w niej swoją nazwę. Po ocenie wystarczy być w stanie oglądać 5% zawartych w nowym skanowanym pliku komunikatów do aplikacji.
+
+Twórcze zdaniści: Użyj dostrzeżenie serwisów na 16 GB ramy na świecie podczas prac nad projektem. Mimo że może być niezbyt zaawansowany projekt, może się wykazać szybkość jego rozwoju. Podejmij odpowiedzi na następujące pytania z zadanim serwerem:
+
+1. Chwilę, kiedy stosunek przekroju może przekroczyć 200 GB.
+2. Pobranie zawartości na podanej serwerze podczas pracy nad aplik

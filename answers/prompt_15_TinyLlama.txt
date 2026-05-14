@@ -1,0 +1,17 @@
+PROMPT 15
+Kategoria: Informatyka
+Prompt: Stwórz materiał dydaktyczny na temat pętli w programowaniu z przykładami kodu i ćwiczeniami.
+Model: TinyLlama
+============================================================
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Stwórz materiał dydaktyczny na temat pętli w programowaniu z przykładami kodu i ćwiczeniami.
+
+Jesteś kandydata tytułu "Profesora Ekonomii" z uwagi na cały czas trwającą praktykę podyplomową z dziedziny praktyki dziennej na tej samej ulicy z naukę ponad rok przerwana na zajęcia w ramach MBA – Magisterium Biznesu.
+
+Wybierz najbardziej poprawne języki kodowania/rozmawiania/interakcyjności: Python 2, JavaScript + CSS + PHP, C# + Visual Studio Code.
+
+Sufij: Kodowanie/Rozmawianie/Interakcja z otoki w języku C# w celu ułatwienia środowiska pracy, bardzo wysokiej jakości dnia w pytaniach, wprowadza w środowisku naukowym programowanie rozbudowanego modelu gier matematycznych, system programistyka aplikacji w języku Python, otoki po C++, przejścia z wypychającego programowania do zwiększenia konsumentów oraz ułatwia to niektórymi zalecania i przeprowadź zlecenie, a także szalę na pra

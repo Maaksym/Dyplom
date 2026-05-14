@@ -1,0 +1,17 @@
+PROMPT 19
+Kategoria: Język angielski
+Prompt: Stwórz materiał dydaktyczny na temat słownictwa związanego z pogodą z ćwiczeniami i odpowiedziami.
+Model: TinyLlama
+============================================================
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Stwórz materiał dydaktyczny na temat słownictwa związanego z pogodą z ćwiczeniami i odpowiedziami.
+
+Pomóż swoim uczniom w stawianiu szybkich testów spływowych i dostać się do poziomu używania się z nieopieką.
+
+Nie wiedzieć, co mamy przy kursze? To na to zafascynujący problem. Poniżej znajdują się przykłady kursów dla ćwiczeń spływowych oraz poziomu używania się z nieopieką, a przykładem dedykowanym jest tutaj kurs na potrzeby odświeżania stanu w stanie dostać się w bieżącym kursie na tym samym temacie.
+
+Odtwierzamy, że akademiki bardzo mają oboszone pogadankami pojęciowymi, a nawet zgodności z poprawnym łuku – nie tylko ze względem na kulturę, ale też na temat słownictva języka polskiego w kursie z odnośnikami do opatrnictwa. Sprawiedliwym rozwiązaniem tego problemu jest stworzenie materiału edukacyjnego, w którym używający może dowiedzieć się jak wy

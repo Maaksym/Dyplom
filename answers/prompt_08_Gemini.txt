@@ -1,0 +1,73 @@
+PROMPT 8
+Kategoria: Matematyka
+Prompt: Napisz krótkie streszczenie dotyczące funkcji liniowej dla ucznia liceum.
+Model: Gemini
+============================================================
+Witaj, przyszły mistrzu matematyki!
+
+Dziś zajmiemy się jednym z najważniejszych i najbardziej podstawowych tematów w liceum – **funkcją liniową**. Nie martw się, to nic strasznego! Pomyśl o niej jak o prostej drodze, która zawsze prowadzi w jednym kierunku – albo w górę, albo w dół, albo prosto przed siebie. Jest wszędzie wokół nas, nawet jeśli o tym nie wiesz!
+
+---
+
+### **Funkcja Liniowa – Twój Przewodnik po Prostej Linii**
+
+#### **1. Czym jest funkcja liniowa? – Definicja i wzór**
+
+Funkcja liniowa to taka, którą możemy zapisać za pomocą prostego wzoru:
+
+$$ \mathbf{y = ax + b} $$
+
+*   **x** – to nasz **argument** (czyli to, co "wrzucamy" do funkcji), zmienna niezależna. Wybieramy sobie jej wartość, a ona wpływa na `y`.
+*   **y** – to **wartość funkcji** (czyli to, co "dostajemy" w zamian), zmienna zależna. Jej wartość zależy od `x`.
+*   **a** i **b** – to stałe liczby (nazywamy je **współczynnikami**). One określają "zachowanie" naszej funkcji.
+
+#### **2. Co oznaczają współczynniki "a" i "b"? – Serce i początek funkcji**
+
+To kluczowe elementy, które nadają funkcji liniowej jej charakter!
+
+*   **Współczynnik kierunkowy "a" (to serce funkcji!)**
+    *   Mówi nam, jak bardzo stroma jest nasza prosta i w którą stronę "idzie". To takie "nachylenie" drogi.
+    *   **Jeśli a > 0 (np. a = 2, 5, 1/2):** Funkcja jest **rosnąca**. Wykres idzie w górę od lewej do prawej, jak pod górkę. Im większe `a`, tym bardziej stroma jest "górka".
+        *   *Przykład:* `y = 2x + 1` (za każdą jednostkę `x` w prawo, `y` idzie o 2 jednostki w górę)
+    *   **Jeśli a < 0 (np. a = -3, -1, -0.5):** Funkcja jest **malejąca**. Wykres idzie w dół od lewej do prawej, jak z górki. Im bardziej ujemne `a`, tym bardziej stroma jest "górka w dół".
+        *   *Przykład:* `y = -3x + 5` (za każdą jednostkę `x` w prawo, `y` idzie o 3 jednostki w dół)
+    *   **Jeśli a = 0:** Funkcja jest **stała**. Wzór wtedy wygląda tak: `y = b`. Wykres jest poziomą, prostą linią, jak równina. Niezależnie od `x`, `y` zawsze ma tę samą wartość.
+        *   *Przykład:* `y = 4` (wartość `y` zawsze wynosi 4, bez względu na `x`)
+
+*   **Wyraz wolny "b" (to początek funkcji na osi Y!)**
+    *   Mówi nam, w którym miejscu nasza prosta przecina oś Y (oś pionową) w układzie współrzędnych. To punkt, przez który przechodzi prosta, gdy `x = 0`.
+    *   *Przykład:*
+        *   W funkcji `y = 2x + 3`, prosta przetnie oś Y w punkcie `(0, 3)`.
+        *   W funkcji `y = -x - 1`, prosta przetnie oś Y w punkcie `(0, -1)`.
+
+#### **3. Wykres funkcji liniowej – Zawsze linia prosta!**
+
+Najlepsza wiadomość: wykres funkcji liniowej to **ZAWSZE prosta linia**! Żadnych zakrętów, fal czy pętli. Po prostu prosto!
+
+*   **Jak narysować wykres?** Wystarczą Ci tylko **dwa punkty**!
+    1.  Wybierz dwie dowolne wartości dla `x`.
+    2.  Oblicz dla nich odpowiadające wartości `y` za pomocą wzoru `y = ax + b`.
+    3.  Zaznacz te dwa punkty w układzie współrzędnych.
+    4.  Połącz je linijką i przedłuż – voila! Masz wykres funkcji liniowej.
+    *   *Dodatkowa wskazówka:* Zawsze warto zaznaczyć punkt przecięcia z osią Y (czyli `(0, b)`) – masz już jeden punkt za darmo!
+
+#### **4. Gdzie spotkasz funkcję liniową w życiu?**
+
+Funkcje liniowe są wokół nas:
+*   **Rachunki:** Opłata za prąd (stała opłata + opłata za zużyte kWh), abonament telefoniczny (stały koszt + koszt za minuty/dane).
+*   **Ruch:** Jeśli jedziesz samochodem ze stałą prędkością, odległość, jaką pokonujesz, rośnie liniowo wraz z czasem.
+*   **Finanse:** Procent prosty na lokacie bankowej.
+*   **Gotowanie:** Koszt składników rosnący liniowo wraz z ilością porcji.
+
+---
+
+### **Podsumowując w pigułce:**
+
+*   **Wzór:** `y = ax + b`
+*   **"a" (współczynnik kierunkowy):** Mówi o nachyleniu prostej i o tym, czy funkcja jest rosnąca (`a > 0`), malejąca (`a < 0`) czy stała (`a = 0`).
+*   **"b" (wyraz wolny):** Pokazuje, gdzie prosta przecina oś Y.
+*   **Wykres:** Zawsze prosta linia! Wystarczą dwa punkty, aby ją narysować.
+
+Rozumienie funkcji liniowej to podstawa do dalszej nauki matematyki i otworzy Ci drzwi do analizowania wielu sytuacji w życiu codziennym. Pamiętaj, praktyka czyni mistrza! Teraz, gdy już wiesz, czym jest funkcja liniowa, spróbuj rozwiązać kilka zadań – zobaczysz, jakie to proste!
+
+Powodzenia!

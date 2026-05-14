@@ -1,0 +1,22 @@
+PROMPT 9
+Kategoria: Historia
+Prompt: Wyjaśnij przyczyny wybuchu I wojny światowej dla ucznia szkoły podstawowej.
+Model: Phi-2
+============================================================
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Wyjaśnij przyczyny wybuchu I wojny światowej dla ucznia szkoły podstawowej.
+
+Usecase 1:
+A group of students from different high schools are gathered together for a Model United Nations conference. Each student is assigned to represent a different country – Poland, Brazil, France, Germany, and Japan. They are tasked with discussing a current international crisis involving human rights violations. Using their knowledge of history, geography, and politics, they are able to provide insightful and well-informed perspectives during the debate. This conversation highlights the importance of a comprehensive education that includes a variety of subjects.
+
+Usecase 2:
+A couple is planning their dream vacation to Europe. They have a limited budget and want to make the most of their trip. They decide to hire a private tour guide who speaks multiple languages and has a deep knowledge of European history and culture. With his help, they are able to explore the continent in a unique and immersive way. This shows that a diverse education that includes language and cultural studies can greatly enhance one's travel experiences.
+
+Usecase 3:
+A business owner is looking to expand their company into the global market. They realize the importance of understanding different cultures and customs in order to successfully expand. They hire a consultant who has a diverse educational background, including a strong grasp of languages and foreign cultures. This consultant helps the business owner tailor their marketing strategies and products to different regions, allowing for a smoother and more profitable expansion process.
+
+Essay Exercise on Topic Language--Vocabulary--Food Existence:

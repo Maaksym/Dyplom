@@ -1,0 +1,87 @@
+PROMPT 13
+Kategoria: Informatyka
+Prompt: Wyjaśnij czym jest algorytm dla ucznia szkoły podstawowej używając prostego przykładu.
+Model: Gemini
+============================================================
+Witajcie, drodzy uczniowie!
+
+Jestem waszym nauczycielem i dziś opowiem wam o czymś, co brzmi trochę skomplikowanie, ale w rzeczywistości jest bardzo proste i używacie tego każdego dnia. Porozmawiamy o **algorytmie**.
+
+Nie martwcie się, to słowo jest dłuższe niż jego znaczenie!
+
+---
+
+### **Czym jest algorytm?**
+
+Wyobraźcie sobie, że chcecie coś zrobić. Na przykład, chcecie zbudować zamek z klocków LEGO, narysować dom, albo zrobić sobie pyszną kanapkę. Żeby to zrobić, nie możecie po prostu zacząć byle jak, prawda? Potrzebujecie **planu!**
+
+**Algorytm to właśnie taki bardzo dokładny plan działania, czyli zbiór instrukcji, które mówią nam, co mamy robić, krok po kroku, w odpowiedniej kolejności, żeby osiągnąć jakiś cel.**
+
+Pomyślcie o tym jak o:
+*   **Przepisie kulinarnym:** On mówi, jakie składniki wziąć i co z nimi robić po kolei, żeby powstało pyszne ciasto.
+*   **Mapce skarbów:** Ona pokazuje, gdzie iść, w którą stronę skręcić, żeby znaleźć ukryty skarb.
+*   **Instrukcji budowania z klocków LEGO:** Ona pokazuje, jaki klocek gdzie przyłożyć, żeby powstał statek kosmiczny albo robot.
+
+Każdy z tych przykładów to algorytm! Mamy cel (ciasto, skarb, statek) i mamy jasne kroki, jak do niego dojść.
+
+---
+
+### **Przykład z życia wzięty: Jak zrobić kanapkę z dżemem?**
+
+No dobrze, zobaczmy to na bardzo prostym przykładzie. Naszym celem jest **zrobienie pysznej kanapki z dżemem**.
+
+Oto algorytm, czyli nasz plan działania, krok po kroku:
+
+1.  **Przygotuj składniki i narzędzia:**
+    *   Wyjmij chleb (albo bułkę) z opakowania.
+    *   Wyjmij słoik z dżemem.
+    *   Weź czysty talerzyk.
+    *   Weź nożyk (pamiętaj, ostrożnie z nożem!).
+
+2.  **Przygotuj pieczywo:**
+    *   Połóż jedną kromkę chleba (lub przekrojoną bułkę) na talerzyku.
+
+3.  **Otwórz dżem:**
+    *   Odkręć słoik z dżemem.
+
+4.  **Nałóż dżem:**
+    *   Nabierz trochę dżemu na nożyk.
+
+5.  **Rozsmaruj dżem:**
+    *   Delikatnie rozsmaruj dżem po całej powierzchni chleba.
+
+6.  **Zamknij dżem:**
+    *   Zakręć słoik z dżemem (żeby się nie popsuł!).
+
+7.  **Gotowe!**
+    *   Możesz zjeść swoją pyszną kanapkę! Smacznego!
+
+---
+
+**Co by się stało, gdybyśmy nie trzymali się algorytmu?**
+
+*   Gdybyś najpierw zjadł chleb, a potem pomyślał o dżemie – nie miałbyś kanapki z dżemem.
+*   Gdybyś próbował rozsmarować dżem, zanim go otworzyłeś – byłoby to niemożliwe i trochę śmieszne!
+*   Gdybyś zapomniał wziąć nożyka – czym byś rozsmarował dżem?
+
+Widzicie? **Kolejność jest bardzo ważna!** Każdy krok musi być wykonany po kolei, żeby wszystko się udało.
+
+---
+
+### **Gdzie jeszcze spotkamy algorytmy?**
+
+Algorytmy są wszędzie!
+
+*   **Rano, gdy się przygotowujesz do szkoły:** wstajesz, myjesz zęby, ubierasz się, jesz śniadanie, pakujesz plecak – to też algorytm!
+*   **Gdy grasz w grę planszową:** instrukcja gry to algorytm, który mówi, co możesz zrobić w swojej turze.
+*   **Gdy używasz komputera lub tabletu:** za każdym razem, gdy klikasz jakąś ikonkę, komputer wykonuje jakiś algorytm, żeby otworzyć program, pokazać filmik czy wysłać wiadomość. Komputery bez algorytmów nie wiedziałyby, co robić!
+
+---
+
+### **Podsumowując:**
+
+**Algorytm to nic innego jak precyzyjny plan działania, czyli lista kroków, które trzeba wykonać w odpowiedniej kolejności, żeby osiągnąć zamierzony cel.**
+
+Pamiętajcie, to proste słowo na coś, co robicie każdego dnia. Teraz, gdy usłyszycie słowo "algorytm", będziecie wiedzieć, że chodzi o dobrze zaplanowane kroki!
+
+Spróbujcie poszukać algorytmów w swoim dniu – na pewno znajdziecie ich mnóstwo!

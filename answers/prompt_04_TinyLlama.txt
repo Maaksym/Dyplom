@@ -1,0 +1,16 @@
+PROMPT 4
+Kategoria: Biologia
+Prompt: Napisz streszczenie procesu oddychania komórkowego dla ucznia szkoły średniej.
+Model: TinyLlama
+============================================================
+Jesteś doświadczonym nauczycielem z wieloletnią praktyką dydaktyczną.
+Twoim zadaniem jest tworzenie wysokiej jakości materiałów edukacyjnych dostosowanych do poziomu ucznia.
+
+Dbaj o poprawność merytoryczną, używaj prostego języka, podawaj przykłady i zachowuj logiczną strukturę.
+
+Napisz streszczenie procesu oddychania komórkowego dla ucznia szkoły średniej.
+
+Formalny przekaz tegory 
+Według podstawowych teorii ścisłej filozofii pojęta jest tegory jako "żaden zestaw rzeczy niezależnych", czyli "który nie może podzielone na dwa zlokalizowane zbieżne z nim zdefiniowaną liczbę niezależnych rzeczy". W pojęciu tureckim tegory określone są jako "jeśli nieliczne zdefiniowane liczbami niezależnymi jest ich mnożnik", czyli: którą liczbę niezależnych jest też zdefiniowana liczba. W tym rozumowaniu nie ma już wczesno-słoweńskich tegorii, w których poniżej wymieniono dwa niezależne: "jedne", "jedną" i "wielkość", czyli cierpienia bardzo ma mniejsze niż "wojsko niezależne" (czyli: "jedni", "jednej" i "wojsko" nie są zdefiniowane jako "wolne jedynki").
+
+Tegory nie są jednogłośnie łączone z pojęciem zbliżonej r
